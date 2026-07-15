@@ -1,1 +1,21 @@
-
+{
+    "atualizado": "2026-07-15 23:22:45",
+    "quantidade": 3,
+    "fiis": [
+        {
+            "codigo": "MXRF11",
+            "nome": "Maxi Renda",
+            "segmento": "Papel"
+        },
+        {
+            "codigo": "HGLG11",
+            "nome": "CSHG Logística",
+            "segmento": "Logística"
+        },
+        {
+            "codigo": "XPML11",
+            "nome": "XP Malls",
+            "segmento": "Shopping"
+        }
+    ]
+}

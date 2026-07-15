@@ -1,16 +1,28 @@
+import requests
 import json
 from datetime import datetime
 from pathlib import Path
 
 
-# Pasta de saída do GitHub Pages
 saida = Path("docs")
-
 saida.mkdir(exist_ok=True)
 
 
-# Lista inicial de teste
-# Depois vamos substituir pela coleta da B3
+def salvar_json(nome, dados):
+    arquivo = saida / nome
+
+    with open(arquivo, "w", encoding="utf-8") as f:
+        json.dump(
+            dados,
+            f,
+            indent=4,
+            ensure_ascii=False
+        )
+
+
+# teste inicial
+# depois substituímos pela fonte B3
+
 fiis = [
     {
         "codigo": "MXRF11",
@@ -21,28 +33,17 @@ fiis = [
         "codigo": "HGLG11",
         "nome": "CSHG Logística",
         "segmento": "Logística"
-    },
-    {
-        "codigo": "XPML11",
-        "nome": "XP Malls",
-        "segmento": "Shopping"
     }
 ]
 
 
-arquivo = saida / "fiis.json"
-
-with open(arquivo, "w", encoding="utf-8") as f:
-    json.dump(
-        {
-            "atualizado": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "quantidade": len(fiis),
-            "fiis": fiis
-        },
-        f,
-        indent=4,
-        ensure_ascii=False
-    )
+resultado = {
+    "atualizado": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    "quantidade": len(fiis),
+    "fiis": fiis
+}
 
 
-print(f"{arquivo} criado com {len(fiis)} FIIs")
+salvar_json("fiis.json", resultado)
+
+print("FIIs atualizados:", len(fiis))

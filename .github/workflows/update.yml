@@ -2,6 +2,8 @@ name: Atualizar dados FIIs
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 22 * * 1-5'
 
 jobs:
   atualizar:
@@ -16,6 +18,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
       - name: Executar atualização
         run: python scripts/update.py
 
@@ -24,5 +29,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "Atualização automática" || echo "Sem alterações"
+          git commit -m "Atualização automática dos FIIs" || echo "Sem alterações"
           git push

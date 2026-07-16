@@ -115,21 +115,15 @@ def gerar_json(df):
 
     for _, linha in df.iterrows():
 
+        codigo = str(linha["codigo"]).strip()
         lista.append(
-            {
-                "codigo": str(
-                    linha["codigo"]
-                ).strip(),
-
-                "nome": str(
-                    linha["nome"]
-                ).strip(),
-
-                "razao_social": str(
-                    linha["razao_social"]
-                ).strip()
-            }
-        )
+    {
+        "codigo": codigo,
+        "ticker": codigo + "11",
+        "nome": str(linha["nome"]).strip(),
+        "razao_social": str(linha["razao_social"]).strip()
+    }
+)
 
 
     return lista

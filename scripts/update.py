@@ -23,7 +23,7 @@ PASTA_SAIDA.mkdir(exist_ok=True)
 
 
 # =====================================================
-# Baixa dados da B3
+# Download da B3
 # =====================================================
 
 def baixar_b3():
@@ -47,7 +47,7 @@ def baixar_b3():
 
 
 # =====================================================
-# Converte Base64 + CSV
+# Base64 -> CSV -> DataFrame
 # =====================================================
 
 def ler_csv_b3(texto_base64):
@@ -56,40 +56,23 @@ def ler_csv_b3(texto_base64):
         texto_base64
     )
 
+
     texto_csv = dados.decode(
         "latin1"
     )
 
 
-    linhas = texto_csv.splitlines()
-
-
-    # remove linhas vazias
-    linhas = [
-        linha for linha in linhas
-        if linha.strip()
-    ]
-
-
-    dados = []
-
-
-    for linha in linhas[1:]:  # pula cabeçalho
-
-        campos = linha.split(";")
-
-        if len(campos) >= 3:
-
-            dados.append(
-                {
-                    "Razão Social": campos[0],
-                    "Fundo": campos[1],
-                    "Código": campos[2]
-                }
-            )
-
-
-    df = pd.DataFrame(dados)
+    df = pd.read_csv(
+        StringIO(texto_csv),
+        sep=";",
+        names=[
+            "Razão Social",
+            "Fundo",
+            "Código"
+        ],
+        skiprows=1,
+        engine="python"
+    )
 
 
     return df
@@ -97,16 +80,10 @@ def ler_csv_b3(texto_base64):
 
 
 # =====================================================
-# Trata dados dos FIIs
+# Tratamento dos FIIs
 # =====================================================
 
 def gerar_lista_fiis(df):
-
-
-    df.columns = [
-        c.strip()
-        for c in df.columns
-    ]
 
 
     df.rename(
@@ -120,11 +97,17 @@ def gerar_lista_fiis(df):
 
 
     print("\nTeste código:")
-    print(df["codigo"].head())
+    print(
+        df["codigo"].head()
+    )
 
+
+    # remove registros sem código
 
     df = df.dropna(
-        subset=["codigo"]
+        subset=[
+            "codigo"
+        ]
     )
 
 
@@ -158,6 +141,13 @@ def gerar_lista_fiis(df):
 
             }
         )
+
+
+    # ordena pelo código
+
+    lista.sort(
+        key=lambda x: x["codigo"]
+    )
 
 
     return lista
@@ -210,10 +200,9 @@ def salvar_json(fiis):
 
 
     print(
-        "Arquivo criado:",
+        "\nArquivo criado:",
         arquivo
     )
-
 
     print(
         "Quantidade de FIIs:",
@@ -223,7 +212,7 @@ def salvar_json(fiis):
 
 
 # =====================================================
-# Programa principal
+# Principal
 # =====================================================
 
 def main():
@@ -252,6 +241,11 @@ def main():
 
     print(
         df.columns.tolist()
+    )
+
+
+    print(
+        df.head()
     )
 
 

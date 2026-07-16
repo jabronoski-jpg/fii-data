@@ -61,17 +61,35 @@ def ler_csv_b3(texto_base64):
     )
 
 
-    df = pd.read_csv(
-        StringIO(texto_csv),
-        sep=";",
-        names=[
-            "Razão Social",
-            "Fundo",
-            "Código"
-        ],
-        skiprows=1,
-        engine="python"
-    )
+    linhas = texto_csv.splitlines()
+
+
+    # remove linhas vazias
+    linhas = [
+        linha for linha in linhas
+        if linha.strip()
+    ]
+
+
+    dados = []
+
+
+    for linha in linhas[1:]:  # pula cabeçalho
+
+        campos = linha.split(";")
+
+        if len(campos) >= 3:
+
+            dados.append(
+                {
+                    "Razão Social": campos[0],
+                    "Fundo": campos[1],
+                    "Código": campos[2]
+                }
+            )
+
+
+    df = pd.DataFrame(dados)
 
 
     return df

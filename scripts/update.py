@@ -103,12 +103,6 @@ def gerar_json(df):
     )
   
 
-print("\nANTES DO FILTRO:")
-print(df.head(10))
-
-print("\nVALORES CODIGO:")
-print(df["codigo"].head(10))
-
 
     # Remove linhas sem código
     df = df.dropna(

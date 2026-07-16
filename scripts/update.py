@@ -8,17 +8,23 @@ from pathlib import Path
 import pandas as pd
 
 
-# Endpoint B3 - Fundos Imobiliários
+# =====================================================
+# Configurações
+# =====================================================
+
 URL_B3 = (
     "https://sistemaswebb3-listados.b3.com.br/"
     "fundsListedProxy/Search/GetDownload/"
     "eyJsYW5ndWFnZSI6InB0LWJyIiwidHlwZUZ1bmQiOiJGSUkifQ=="
 )
 
-
 PASTA_SAIDA = Path("docs")
 PASTA_SAIDA.mkdir(exist_ok=True)
 
+
+# =====================================================
+# Baixa dados da B3
+# =====================================================
 
 def baixar_b3():
 
@@ -27,6 +33,7 @@ def baixar_b3():
         "Accept": "*/*",
         "Referer": "https://www.b3.com.br/"
     }
+
 
     resposta = requests.get(
         URL_B3,
@@ -39,62 +46,46 @@ def baixar_b3():
 
 
 
+# =====================================================
+# Converte Base64 + CSV
+# =====================================================
+
 def ler_csv_b3(texto_base64):
 
     dados = base64.b64decode(
         texto_base64
     )
 
+
     texto_csv = dados.decode(
         "latin1"
     )
 
 
-    # Remove possíveis caracteres estranhos no início
-    texto_csv = texto_csv.lstrip()
-
-
-    linhas = texto_csv.splitlines()
-
-
-    # Remove linhas vazias
-    linhas = [
-        linha for linha in linhas
-        if linha.strip()
-    ]
-
-
-    texto_csv = "\n".join(linhas)
-
-
     df = pd.read_csv(
         StringIO(texto_csv),
         sep=";",
-        header=0,
-        index_col=False,
         engine="python"
     )
-
-
-    # Caso venha uma coluna vazia extra
-    df = df.iloc[:, :3]
 
 
     return df
 
 
 
-def gerar_json(df):
+# =====================================================
+# Trata dados dos FIIs
+# =====================================================
 
-    # Remove espaços dos nomes das colunas
+def gerar_lista_fiis(df):
+
+
     df.columns = [
         c.strip()
         for c in df.columns
     ]
-    print(df.head())
-    print(df.iloc[0].tolist())
 
-    # Corrige nomes vindos da B3
+
     df.rename(
         columns={
             "Razão Social": "razao_social",
@@ -104,16 +95,13 @@ def gerar_json(df):
         inplace=True
     )
 
-    print("\nANTES DO FILTRO:")
-    print(df.head(10))
 
-    print("\nVALORES CODIGO:")
-    print(df["codigo"].head(10))
+    # remove registros sem código
 
-
-    # Remove linhas sem código
     df = df.dropna(
-        subset=["codigo"]
+        subset=[
+            "codigo"
+        ]
     )
 
 
@@ -122,34 +110,45 @@ def gerar_json(df):
 
     for _, linha in df.iterrows():
 
+
         codigo = str(
-    linha["codigo"]
-).strip()
-
-
-lista.append(
-    {
-        "codigo": codigo,
-        "ticker": codigo + "11",
-
-        "nome": str(
-            linha["nome"]
-        ).strip(),
-
-        "razao_social": str(
-            linha["razao_social"]
+            linha["codigo"]
         ).strip()
-    }
-)
+
+
+        lista.append(
+            {
+
+                "codigo": codigo,
+
+                "ticker": codigo + "11",
+
+
+                "nome": str(
+                    linha["nome"]
+                ).strip(),
+
+
+                "razao_social": str(
+                    linha["razao_social"]
+                ).strip()
+
+            }
+        )
 
 
     return lista
 
 
 
-def salvar_json(lista):
+# =====================================================
+# Salva JSON
+# =====================================================
 
-    resultado = {
+def salvar_json(fiis):
+
+
+    dados = {
 
         "atualizado":
             datetime.now()
@@ -157,11 +156,13 @@ def salvar_json(lista):
                 "%Y-%m-%d %H:%M:%S"
             ),
 
+
         "quantidade":
-            len(lista),
+            len(fiis),
+
 
         "fiis":
-            lista
+            fiis
     }
 
 
@@ -178,7 +179,7 @@ def salvar_json(lista):
     ) as f:
 
         json.dump(
-            resultado,
+            dados,
             f,
             indent=4,
             ensure_ascii=False
@@ -190,38 +191,48 @@ def salvar_json(lista):
         arquivo
     )
 
+
     print(
         "Quantidade de FIIs:",
-        len(lista)
+        len(fiis)
     )
 
 
 
-# ==========================
-# EXECUÇÃO
-# ==========================
+# =====================================================
+# Programa principal
+# =====================================================
 
-try:
+def main():
 
-    print("Baixando dados da B3...")
+    print(
+        "Baixando dados da B3..."
+    )
+
 
     dados = baixar_b3()
 
 
-    print("Lendo CSV...")
+    print(
+        "Lendo CSV..."
+    )
+
 
     df = ler_csv_b3(
         dados
     )
 
 
-    print("Colunas:")
+    print(
+        "Colunas:"
+    )
+
     print(
         df.columns.tolist()
     )
 
 
-    fiis = gerar_json(
+    fiis = gerar_lista_fiis(
         df
     )
 
@@ -231,11 +242,7 @@ try:
     )
 
 
-except Exception as erro:
 
-    print(
-        "ERRO:",
-        erro
-    )
+if __name__ == "__main__":
 
-    raise
+    main()

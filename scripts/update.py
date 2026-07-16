@@ -41,13 +41,10 @@ def baixar_b3():
 
 def ler_csv_b3(texto_base64):
 
-    # Decodifica Base64
     dados = base64.b64decode(
         texto_base64
     )
 
-
-    # Converte para texto
     texto_csv = dados.decode(
         "latin1"
     )
@@ -56,8 +53,26 @@ def ler_csv_b3(texto_base64):
     df = pd.read_csv(
         StringIO(texto_csv),
         sep=";",
-        engine="python"
+        engine="python",
+        header=0
     )
+
+
+    # caso a B3 venha com coluna deslocada
+    if "Código" not in df.columns:
+        
+        df = pd.read_csv(
+            StringIO(texto_csv),
+            sep=";",
+            engine="python",
+            header=None
+        )
+
+        df.columns = [
+            "Razão Social",
+            "Fundo",
+            "Código"
+        ]
 
 
     return df

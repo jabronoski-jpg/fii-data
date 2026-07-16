@@ -56,7 +56,6 @@ def ler_csv_b3(texto_base64):
         texto_base64
     )
 
-
     texto_csv = dados.decode(
         "latin1"
     )
@@ -65,6 +64,12 @@ def ler_csv_b3(texto_base64):
     df = pd.read_csv(
         StringIO(texto_csv),
         sep=";",
+        names=[
+            "Razão Social",
+            "Fundo",
+            "Código"
+        ],
+        skiprows=1,
         engine="python"
     )
 

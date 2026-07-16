@@ -50,29 +50,34 @@ def ler_csv_b3(texto_base64):
     )
 
 
+    # Remove possíveis caracteres estranhos no início
+    texto_csv = texto_csv.lstrip()
+
+
+    linhas = texto_csv.splitlines()
+
+
+    # Remove linhas vazias
+    linhas = [
+        linha for linha in linhas
+        if linha.strip()
+    ]
+
+
+    texto_csv = "\n".join(linhas)
+
+
     df = pd.read_csv(
         StringIO(texto_csv),
         sep=";",
-        engine="python",
-        header=0
+        header=0,
+        index_col=False,
+        engine="python"
     )
 
 
-    # caso a B3 venha com coluna deslocada
-    if "Código" not in df.columns:
-        
-        df = pd.read_csv(
-            StringIO(texto_csv),
-            sep=";",
-            engine="python",
-            header=None
-        )
-
-        df.columns = [
-            "Razão Social",
-            "Fundo",
-            "Código"
-        ]
+    # Caso venha uma coluna vazia extra
+    df = df.iloc[:, :3]
 
 
     return df
@@ -86,7 +91,8 @@ def gerar_json(df):
         c.strip()
         for c in df.columns
     ]
-
+    print(df.head())
+    print(df.iloc[0].tolist())
 
     # Corrige nomes vindos da B3
     df.rename(

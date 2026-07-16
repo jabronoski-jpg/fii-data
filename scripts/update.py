@@ -52,28 +52,21 @@ def baixar_b3():
 
 def ler_csv_b3(texto_base64):
 
-    dados = base64.b64decode(
-        texto_base64
-    )
+    dados = base64.b64decode(texto_base64)
 
-
-    texto_csv = dados.decode(
-        "latin1"
-    )
-
+    texto_csv = dados.decode("latin1")
 
     df = pd.read_csv(
         StringIO(texto_csv),
         sep=";",
         names=[
-            "Razão Social",
-            "Fundo",
-            "Código"
+            "razao_social",
+            "nome",
+            "codigo"
         ],
         skiprows=1,
         engine="python"
     )
-
 
     return df
 

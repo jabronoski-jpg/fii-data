@@ -41,21 +41,44 @@ def baixar_b3():
 
 def ler_csv_b3(texto_base64):
 
-    dados = base64.b64decode(texto_base64)
+    dados = base64.b64decode(
+        texto_base64
+    )
 
-    texto_csv = dados.decode("latin1")
+    texto_csv = dados.decode(
+        "latin1"
+    )
+
+
+    # Remove possíveis caracteres estranhos no início
+    texto_csv = texto_csv.lstrip()
+
+
+    linhas = texto_csv.splitlines()
+
+
+    # Remove linhas vazias
+    linhas = [
+        linha for linha in linhas
+        if linha.strip()
+    ]
+
+
+    texto_csv = "\n".join(linhas)
+
 
     df = pd.read_csv(
         StringIO(texto_csv),
         sep=";",
-        names=[
-            "razao_social",
-            "nome",
-            "codigo"
-        ],
-        skiprows=1,
+        header=0,
+        index_col=False,
         engine="python"
     )
+
+
+    # Caso venha uma coluna vazia extra
+    df = df.iloc[:, :3]
+
 
     return df
 
@@ -68,8 +91,7 @@ def gerar_json(df):
         for c in df.columns
     ]
 
-print(df.head())
-print(df.iloc[0].tolist())
+    
     # Corrige nomes vindos da B3
     df.rename(
         columns={

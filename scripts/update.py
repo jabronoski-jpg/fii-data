@@ -101,12 +101,12 @@ def gerar_lista_fiis(df):
     )
 
 
-    # remove registros sem código
+    print("\nTeste código:")
+    print(df["codigo"].head())
+
 
     df = df.dropna(
-        subset=[
-            "codigo"
-        ]
+        subset=["codigo"]
     )
 
 

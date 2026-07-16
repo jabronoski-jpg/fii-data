@@ -125,7 +125,7 @@ def gerar_json(df):
     }
 )
 
-
+    lista.sort(key=lambda x: x["codigo"])
     return lista
 
 

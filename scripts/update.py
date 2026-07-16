@@ -66,16 +66,22 @@ def ler_csv_b3(texto_base64):
 
 def gerar_json(df):
 
+    # Remove espaços dos nomes das colunas
+    df.columns = [
+        c.strip()
+        for c in df.columns
+    ]
+
 
     # Corrige nomes vindos da B3
-   df.rename(
-    columns={
-        "Razão Social": "razao_social",
-        "Fundo": "nome",
-        "Código": "codigo"
-    },
-    inplace=True
-)
+    df.rename(
+        columns={
+            "Razão Social": "razao_social",
+            "Fundo": "nome",
+            "Código": "codigo"
+        },
+        inplace=True
+    )
 
 
     # Remove linhas sem código

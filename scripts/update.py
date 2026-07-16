@@ -66,10 +66,7 @@ def ler_csv_b3(texto_base64):
 
 def gerar_json(df):
 
-df.columns = [
-    c.strip()
-    for c in df.columns
-]
+
     # Corrige nomes vindos da B3
    df.rename(
     columns={

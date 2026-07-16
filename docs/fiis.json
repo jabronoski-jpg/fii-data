@@ -1,5 +1,2621 @@
 {
-    "atualizado": "2026-07-16 01:01:33",
-    "quantidade": 0,
-    "fiis": []
+    "atualizado": "2026-07-16 01:22:59",
+    "quantidade": 523,
+    "fiis": [
+        {
+            "codigo": "ADSH",
+            "nome": "FII ADSH",
+            "razao_social": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AFHI",
+            "nome": "FII AFHI CRI",
+            "razao_social": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AFHF",
+            "nome": "FII AFHF",
+            "razao_social": "AF INVEST REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ATWN",
+            "nome": "FII A TOWN",
+            "razao_social": "AIRPORT TOWN FUNDO DE INVESTIMENTO IMOBILIARIO - FII"
+        },
+        {
+            "codigo": "AJFI",
+            "nome": "FII AJ MALLS",
+            "razao_social": "AJ MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ALZC",
+            "nome": "FII ALIANZAC",
+            "razao_social": "ALIANZA CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MTOF",
+            "nome": "FII MULT OF1",
+            "razao_social": "ALIANZA MULTIOFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ALZR",
+            "nome": "FII ALIANZA",
+            "razao_social": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AURB",
+            "nome": "FII ALI URB",
+            "razao_social": "ALIANZA URBAN HUB RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "APXM",
+            "nome": "FII APEX MS",
+            "razao_social": "APEX MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "APXU",
+            "nome": "FII APXU",
+            "razao_social": "APEX URB FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AIEC",
+            "nome": "FII AUTONOMY",
+            "razao_social": "ARCH EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AVUR",
+            "nome": "FII AVUR",
+            "razao_social": "ARCH VANGUARDA UNIDADES RESIDENCIAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AROA",
+            "nome": "FII AROA",
+            "razao_social": "AROEIRA 333 RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EIRA",
+            "nome": "FII EIRA",
+            "razao_social": "AROEIRA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ARTE",
+            "nome": "FII ARTE",
+            "razao_social": "ÁRTEMIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ARXD",
+            "nome": "FII ARXD R",
+            "razao_social": "ARX DOVER RECEBÍVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AZPE",
+            "nome": "FII AZPE",
+            "razao_social": "AZ QUEST PANORAMA CRÉDITO ESTRUTURADO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AZPL",
+            "nome": "FII AZPL",
+            "razao_social": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AZSG",
+            "nome": "FII AZSG",
+            "razao_social": "AZ SOLARGRID RENDA  SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "CEBB",
+            "nome": "FII CEBB",
+            "razao_social": "BALTIMORE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BCRI",
+            "nome": "FII BEES CRI",
+            "razao_social": "BANESTES RECEBÍVEIS  IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITAD"
+        },
+        {
+            "codigo": "BNFS",
+            "nome": "FII BANRISUL",
+            "razao_social": "BANRISUL NOVAS FRONTEIRAS FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTML",
+            "nome": "FII BR MALLS",
+            "razao_social": "BARRA MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BZEL",
+            "nome": "FII BARZEL",
+            "razao_social": "BARZEL CD1 FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BPDR",
+            "nome": "FII BPDR",
+            "razao_social": "BASÍLICA PARTNERS GDR FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BPLC",
+            "nome": "FII BASILICA",
+            "razao_social": "BASÍLICA PARTNERS LED CORPORATE FUNDO DE INVESTIMENTO IMOBILIÁRIO FII"
+        },
+        {
+            "codigo": "BPMW",
+            "nome": "FII BPMW",
+            "razao_social": "BASÍLICA PARTNERS MEDWELL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BBFO",
+            "nome": "FII BB FOF",
+            "razao_social": "BB FUNDO DE FUNDOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BBIG",
+            "nome": "FII BBIG",
+            "razao_social": "BB PREMIUM MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BBRC",
+            "nome": "FII BB CORP",
+            "razao_social": "BB RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BINR",
+            "nome": "FII BINR",
+            "razao_social": "BE IN RIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BFCC",
+            "nome": "FII BFCC",
+            "razao_social": "BFC FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BGRB",
+            "nome": "FII BGRB",
+            "razao_social": "BGR B32 FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BGRJ",
+            "nome": "FII BGRJ",
+            "razao_social": "BGR CIDADE JARDIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BLOG",
+            "nome": "FII BLOG",
+            "razao_social": "BLUECAP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BLMG",
+            "nome": "FII BLUE LOG",
+            "razao_social": "BLUEMACAW FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BMLC",
+            "nome": "FII BMBRC LC",
+            "razao_social": "BM BRASCAN LAJES CORPORATIVAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRSE",
+            "nome": "FII BR7 SENA",
+            "razao_social": "BR7 SENADO FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BCIA",
+            "nome": "FII BCIA",
+            "razao_social": "BRADESCO CARTEIRA IMOBILIÁRIA ATIVA - FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII"
+        },
+        {
+            "codigo": "BVAR",
+            "nome": "FII B VAREJO",
+            "razao_social": "BRASIL VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CARE",
+            "nome": "FII DEA CARE",
+            "razao_social": "BRAZILIAN GRAVEYARD AND DEATH CARE SERVICES FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESP LIMITADA"
+        },
+        {
+            "codigo": "FATN",
+            "nome": "FII ATHENA I",
+            "razao_social": "BRC RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RTEL",
+            "nome": "FII RTEL",
+            "razao_social": "BRC-II FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRCT",
+            "nome": "FII BRCT",
+            "razao_social": "BRC-III DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRCD",
+            "nome": "FII BRCD",
+            "razao_social": "BRESCO DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRCO",
+            "nome": "FII BRESCO",
+            "razao_social": "BRESCO LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BICE",
+            "nome": "FII BRIO CRE",
+            "razao_social": "BRIO CRÉDITO ESTRUTURADO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BIME",
+            "nome": "FII BRIO ME",
+            "razao_social": "BRIO MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRIM",
+            "nome": "FII BRIO II",
+            "razao_social": "BRIO REAL ESTATE II - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRIP",
+            "nome": "FII BRIO III",
+            "razao_social": "BRIO REAL ESTATE III - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BIPD",
+            "nome": "FII BRIO IV",
+            "razao_social": "BRIO REAL ESTATE IV - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BIPE",
+            "nome": "FII BRIO V",
+            "razao_social": "BRIO REAL ESTATE V - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MCMV",
+            "nome": "FII MCMV",
+            "razao_social": "BRM MINHA CASA MINHA VIDA III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BROF",
+            "nome": "FII BROF",
+            "razao_social": "BRPR CORPORATE OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BETW",
+            "nome": "FII BETW",
+            "razao_social": "BRPR E-TOWER FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "LLAO",
+            "nome": "FII BS2",
+            "razao_social": "BS2 ALLINVESTMENTS FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BTHR",
+            "nome": "FII BTHR",
+            "razao_social": "BTG HOSPITALIDADE RETORNO TOTAL FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTHI",
+            "nome": "BTG HOTEL FI",
+            "razao_social": "BTG HOTÉIS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BRCR",
+            "nome": "FII BC FUND",
+            "razao_social": "BTG PACTUAL CORPORATE OFFICE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTCI",
+            "nome": "FII BTG CRI",
+            "razao_social": "BTG PACTUAL CRÉDITO IMOBILIÁRIO - FUNDO DE CRI - FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTLG",
+            "nome": "FII BTLG",
+            "razao_social": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTHF",
+            "nome": "FII BTHF",
+            "razao_social": "BTG PACTUAL REAL ESTATE HEDGE FUND FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HSRE",
+            "nome": "FII HSIRENDA",
+            "razao_social": "BTG PACTUAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BPML",
+            "nome": "FII BTG SHOP",
+            "razao_social": "BTG PACTUAL SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTYU",
+            "nome": "FII BTYU",
+            "razao_social": "BTG PACTUAL YOU INC. DESENVOLVIMENTO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDAD"
+        },
+        {
+            "codigo": "BTWR",
+            "nome": "FII BTOWERS",
+            "razao_social": "BTOWERS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BTSI",
+            "nome": "FII BTSP II",
+            "razao_social": "BTSP II FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CXCO",
+            "nome": "FII CEF CORP",
+            "razao_social": "CAIXA IMÓVEIS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CRFF",
+            "nome": "FII CX RBRA2",
+            "razao_social": "CAIXA RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO II RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CXRI",
+            "nome": "FII CX RBRAV",
+            "razao_social": "CAIXA RIO BRAVO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CCME",
+            "nome": "FII CANUMA",
+            "razao_social": "CANUMA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CCVA",
+            "nome": "FII CCVA",
+            "razao_social": "CANUMA CAPITAL RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KONG",
+            "nome": "FII KONG",
+            "razao_social": "CAPITANIA ARTON JARDIM PAULISTANO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CPUR",
+            "nome": "FII CPHBC UR",
+            "razao_social": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "CPLG",
+            "nome": "FII CPLG",
+            "razao_social": "CAPITÂNIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CPOF",
+            "nome": "FII CPOF",
+            "razao_social": "CAPITÂNIA OFFICE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "CPTS",
+            "nome": "FII CAPI SEC",
+            "razao_social": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CPSH",
+            "nome": "FII CPSH",
+            "razao_social": "CAPITÂNIA SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CACR",
+            "nome": "CARTESIA FII",
+            "razao_social": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CBOP",
+            "nome": "FII CBOP PAX",
+            "razao_social": "CASTELLO BRANCO OFFICE PARK - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BLCA",
+            "nome": "FII BLCA VBI",
+            "razao_social": "CATUAÍ VBI TRIPLE A FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CVFL",
+            "nome": "FII CVFL",
+            "razao_social": "CATUAÍ VISTA FL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CNES",
+            "nome": "FII CENESP",
+            "razao_social": "CENESP FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CDHY",
+            "nome": "FII CDHY",
+            "razao_social": "CENTRAL REAL ESTATE HIGH YIELD DEBT FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CTXT",
+            "nome": "FII C TEXTIL",
+            "razao_social": "CENTRO TÊXTIL INTERNACIONAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CENU",
+            "nome": "FII CENU PAX",
+            "razao_social": "CENU - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CFII",
+            "nome": "FII CF3 IMOB",
+            "razao_social": "CF3  FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "CFHF",
+            "nome": "FII CFHF",
+            "razao_social": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CJCT",
+            "nome": "FII CJCTOWER",
+            "razao_social": "CIDADE JARDIM CONTINENTAL TOWER FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CLSM",
+            "nome": "FII CLSM",
+            "razao_social": "CITLOG SUL DE MINAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CIXM",
+            "nome": "FII CIXM",
+            "razao_social": "CIX MUIRAQUITAN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CIXF",
+            "nome": "FII CIXF",
+            "razao_social": "CIX RETROFIT FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PDBM",
+            "nome": "FII PDBM",
+            "razao_social": "CLASSE A DE COTAS DO SINAL RJDI - BRASIL MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITADA"
+        },
+        {
+            "codigo": "CLIN",
+            "nome": "FII CLAVE IN",
+            "razao_social": "CLAVE ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CSMC",
+            "nome": "FII COSMIC",
+            "razao_social": "COSMIC FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RENV",
+            "nome": "FII RENV",
+            "razao_social": "CPV ENERGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "IBCR",
+            "nome": "FII BREI",
+            "razao_social": "CRI INTEGRAL BREI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CVPR",
+            "nome": "FII CVPAR",
+            "razao_social": "CVPAR FUNDO DE INVESTIMENTO IMOBILIÁRIO DE CRI RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CYCR",
+            "nome": "FII CYRELA",
+            "razao_social": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CYLD",
+            "nome": "FII CYLD",
+            "razao_social": "CYRELA DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DAMA",
+            "nome": "FII DAMA",
+            "razao_social": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DAYM",
+            "nome": "FII DAYC REM",
+            "razao_social": "DAYCOVAL REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ASRF",
+            "nome": "FII ASA RET",
+            "razao_social": "DAYCOVAL RETROFITS I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DLMT",
+            "nome": "FII DEL MONT",
+            "razao_social": "DEL MONTE AJAX FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DPRO",
+            "nome": "FII DEVA PRO",
+            "razao_social": "DEVANT PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DEVA",
+            "nome": "FII DEVANT",
+            "razao_social": "DEVANT RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DAMT",
+            "nome": "FII DIAMANTE",
+            "razao_social": "DIAMANTE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DOVL",
+            "nome": "FII DOVEL",
+            "razao_social": "DOVEL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EDGE",
+            "nome": "FII EDGE",
+            "razao_social": "EDGE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EMET",
+            "nome": "FII EMET",
+            "razao_social": "EMET MULTIESTRATÉGIA FUNDO DE INVESTIMENTO I MOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EGYR",
+            "nome": "FII ENERGY",
+            "razao_social": "ENERGY RESORT FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "EQIR",
+            "nome": "FII EQI RECE",
+            "razao_social": "EQI RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ERCR",
+            "nome": "FII ESTOQ RJ",
+            "razao_social": "ESTOQUE RESIDENCIAL E COMERCIAL RIO DE JANEIRO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA"
+        },
+        {
+            "codigo": "ERPA",
+            "nome": "FII EUROPA",
+            "razao_social": "EUROPA 105  FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KEVE",
+            "nome": "FII EVEN II",
+            "razao_social": "EVEN II KINEA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EXES",
+            "nome": "FII EXES",
+            "razao_social": "EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FLCR",
+            "nome": "FII FL RECEB",
+            "razao_social": "FARIA LIMA CAPITAL RECEBÍVEIS IMOBILIÁRIOS I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LI"
+        },
+        {
+            "codigo": "FTRR",
+            "nome": "FII FTRR",
+            "razao_social": "FATOR RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VRTA",
+            "nome": "FII FATOR VE",
+            "razao_social": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO"
+        },
+        {
+            "codigo": "VRTM",
+            "nome": "FII VRTM",
+            "razao_social": "FATOR VERITÀ MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "FTRE",
+            "nome": "FII FTRE",
+            "razao_social": "FIGTREE RENDA EDUCACIONAL FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "FLMA",
+            "nome": "FII S F LIMA",
+            "razao_social": "FII CONTINENTAL SQUARE FARIA LIMA - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EGDB",
+            "nome": "FII EGDB",
+            "razao_social": "FII DE DESENVOLVIMENTO DE ESCRITÓRIOS BOUTIQUE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ELDO",
+            "nome": "FII ELDORADO",
+            "razao_social": "FII ELDORADO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EURO",
+            "nome": "FII EUROPAR",
+            "razao_social": "FII EUROPAR RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HYPI",
+            "nome": "FII HYPI",
+            "razao_social": "FII HIRE PROPERTIES I - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "HRES",
+            "nome": "FII HIRE RES",
+            "razao_social": "FII HIRE RESIDENCIAL I - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "FIIB",
+            "nome": "FII INDL BR",
+            "razao_social": "FII INDUSTRIAL DO BRASIL RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FMOF",
+            "nome": "FII MEMORIAL",
+            "razao_social": "FII MEMORIAL OFFICE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "OPTM",
+            "nome": "FII PATRI IV",
+            "razao_social": "FII PATRIMONIAL IV"
+        },
+        {
+            "codigo": "ALMI",
+            "nome": "FII TORRE AL",
+            "razao_social": "FII TORRE ALMIRANTE"
+        },
+        {
+            "codigo": "FLNR",
+            "nome": "FII FLNR",
+            "razao_social": "FLORIANO FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "HLMB",
+            "nome": "FII HLMB",
+            "razao_social": "FRAM CAPITAL HELMER MULTIATIVOS RENDA PREFERENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "KFOF",
+            "nome": "FII KINEAFOF",
+            "razao_social": "FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO KINEA FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DVFF",
+            "nome": "FII DEVA FOF",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - DEVANT FUNDO DE FUNDOS IMOBILIÁRIOS DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ANCR",
+            "nome": "FII ANCAR IC",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII ANCAR IC - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FAED",
+            "nome": "FII ANH EDUC",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII ANHANGUERA EDUCACIONAL RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FCFL",
+            "nome": "FII CAMPUSFL",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII CAMPUS FARIA LIMA RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CEOC",
+            "nome": "FII CEO CCP",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII CEO CYRELA COMMERCIAL PROPERTIES RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FAMB",
+            "nome": "FII ALMIRANT",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII EDIFÍCIO ALMIRANTE BARROSO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EDGA",
+            "nome": "FII GALERIA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII EDIFÍCIO GALERIA RESPONSABILIADADE LIMITADA"
+        },
+        {
+            "codigo": "FYTO",
+            "nome": "FII FYTO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII FYTO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HCRI",
+            "nome": "FII CRIANCA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HOSPITAL DA CRIANÇA RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NSLU",
+            "nome": "FII LOURDES",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII HOSPITAL NOSSA SENHORA DE LOURDES RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MAXR",
+            "nome": "FII MAX RET",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII MAX RETAIL RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PQDP",
+            "nome": "FII D PEDRO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PARQUE DOM PEDRO SHOPPING CENTER RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRR",
+            "nome": "FII RBRR PAX",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PATRIA RENDIMENTO HIGH GRADE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRI",
+            "nome": "FII RBR III",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENVOLVIMENTO III RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RDIV",
+            "nome": "FII RBRDESIV",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENVOLVIMENTO IV RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RECR",
+            "nome": "FII REC RECE",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RECT",
+            "nome": "FII REC REND",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RENDA IMOBILIÁRIA - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SHDP",
+            "nome": "FII SHOP PDP",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII SHOPPING PARQUE D. PEDRO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRNT",
+            "nome": "FII TORRE NO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII TORRE NORTE"
+        },
+        {
+            "codigo": "APXR",
+            "nome": "FII APXR",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO APEX REALTY - FII"
+        },
+        {
+            "codigo": "BRHT",
+            "nome": "FII BRHOTEIS",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO BR HOTÉIS"
+        },
+        {
+            "codigo": "BRCQ",
+            "nome": "FII BRCQ",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO BRC-IV DESENVOLVIMENTO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CXAG",
+            "nome": "FII CAIXA AG",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA AGÊNCIAS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CXCI",
+            "nome": "FII CAIXA CI",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CARTEIRA IMOBILIÁRIA RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CXCE",
+            "nome": "FII CX CEDAE",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO CAIXA CEDAE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CXTL",
+            "nome": "FII CX TRX",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIARIO CAIXA SEQ LOGISTICA RENDA RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "IDUA",
+            "nome": "FII IDUA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO DE UNIDADES AUTÔNOMAS IV"
+        },
+        {
+            "codigo": "LKDV",
+            "nome": "FII DEV ONE",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO DEVELOPMENT V1 RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EDFO",
+            "nome": "FII OURINVES",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO EDIFÍCIO OURINVEST - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NVHO",
+            "nome": "FII NOVOHORI",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO FII NOVO HORIZONTE - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GTWR",
+            "nome": "FII G TOWERS",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HBCR",
+            "nome": "FII HBC REN",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA"
+        },
+        {
+            "codigo": "HUCG",
+            "nome": "FII UNIMED C",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HOSPITAL UNIMED CAMPINA GRANDE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HUSC",
+            "nome": "FII H UNIMED",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIARIO HOSPITAL UNIMED SUL CAPIXABA"
+        },
+        {
+            "codigo": "HOSI",
+            "nome": "FII HOUSI",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HOUSI RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FINF",
+            "nome": "FII INFRA RE",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO INFRA REAL ESTATE - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BLUE",
+            "nome": "FII BLUE",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MACAM SHOPPING RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MMPD",
+            "nome": "FII MAUA MPD",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MAUÁ CAPITAL MPD DESENVOLVIMENTO RESIDENCIAL RESP LIMITADA"
+        },
+        {
+            "codigo": "MCCI",
+            "nome": "FII MAUA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MAUÁ CAPITAL RECEBÍVEIS IMOBILIÁRIOS - FII RESPONSABILIDADE LIMITA"
+        },
+        {
+            "codigo": "WTSP",
+            "nome": "FII WTC SP",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO OURINVEST RE I - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PABY",
+            "nome": "FII PANAMBY",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PANAMBY"
+        },
+        {
+            "codigo": "RBRY",
+            "nome": "FII RBRY PAX",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA CRÉDITO IMOBILIÁRIO ESTRUTURADO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRP",
+            "nome": "FII RBRP PAX",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA PROPERTIES - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VTPA",
+            "nome": "FII VOTP V",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIMONIAL V RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FPNG",
+            "nome": "FII P NEGRA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PEDRA NEGRA RENDA IMOBILIÁRIA - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VTPL",
+            "nome": "FII PLUS",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PLUS RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ESTQ",
+            "nome": "FII POLO II",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIARIO POLO ESTOQUE II RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VPSI",
+            "nome": "FII POLO SHO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO POLO SHOPPING INDAIATUBA - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RELG",
+            "nome": "FII REC LOG",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO REC LOGÍSTICA - RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "RRES",
+            "nome": "FII RRES",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIVIERA RESIDENCIAL - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZRM",
+            "nome": "FII RZRM",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA MALLS RPPS - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZTR",
+            "nome": "FII RIZA TX",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX"
+        },
+        {
+            "codigo": "ROOF",
+            "nome": "FII ROOFTOPI",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO ROOFTOP I RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HOMS",
+            "nome": "FII HOMS",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO ROOFTOP III RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FISC",
+            "nome": "FII SC 401",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SC 401 - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SAIC",
+            "nome": "FII SIA CORP",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIARIO SIA CORPORATE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SMRE",
+            "nome": "FII SMRE",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SMART REAL ESTATE - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SOFF",
+            "nome": "FII SOFF",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SOFIA"
+        },
+        {
+            "codigo": "SPVJ",
+            "nome": "FII S VAREJO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO SUCCESPAR VAREJO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TGAR",
+            "nome": "FII TG ATIVO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL"
+        },
+        {
+            "codigo": "TRCO",
+            "nome": "FII TRCO",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TORRE RIO CLARO OFFICES - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRUE",
+            "nome": "FII TRUEMULT",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TRUE MULTIESTRATÉGIA - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LVBI",
+            "nome": "FII LVBI VBI",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI LOGÍSTICO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PVBI",
+            "nome": "FII PVBI VBI",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI PRIME PROPERTIES - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VERE",
+            "nome": "FII VEREDA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VEREDA - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FIVN",
+            "nome": "FII VIDANOVA",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VIDA NOVA - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VSHO",
+            "nome": "FII VOT SHOP",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VOTORANTIM SHOPPING"
+        },
+        {
+            "codigo": "BMLT",
+            "nome": "FII BMLT",
+            "razao_social": "FUNDO DE INVESTIMENTOS  IMOBILIÁRIOS DE PERMUTA FINANCEIRA LOTE5 MEZANINO RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "FIIC",
+            "nome": "FII FIIC",
+            "razao_social": "FUNDO DE INVESTIMENTOS IMOBILIÁRIO DO CAMPREV PARA SUSTENTABILIDADE PREVIDENCIÁRIA DO MUNICÍPIO"
+        },
+        {
+            "codigo": "BSLT",
+            "nome": "FII BSLT",
+            "razao_social": "FUNDO DE INVESTIMENTOS IMOBILIÁRIOS DE PERMUTA FINANCEIRA LOTE5 (SENIOR) RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TCIN",
+            "nome": "FII TOUR V",
+            "razao_social": "G5 CIDADE NOVA FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "GCDL",
+            "nome": "FII GCDL",
+            "razao_social": "GALAPAGOS DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GSRF",
+            "nome": "FII GSRF",
+            "razao_social": "GALAPAGOS DESENVOLVIMENTO RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GFDL",
+            "nome": "FII GFDL",
+            "razao_social": "GALAPAGOS FEEDER DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITA"
+        },
+        {
+            "codigo": "GLPF",
+            "nome": "FII GLPF",
+            "razao_social": "GALAPAGOS FEEDER LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GLCR",
+            "nome": "FII GLCR",
+            "razao_social": "GALAPAGOS HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GCRI",
+            "nome": "FII GLPG CRI",
+            "razao_social": "GALAPAGOS RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GCOI",
+            "nome": "FII GALAP SP",
+            "razao_social": "GALAPAGOS SPECIAL OPORTUNITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "GZIT",
+            "nome": "FII GAZIT",
+            "razao_social": "GAZIT MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FIGS",
+            "nome": "FII GEN SHOP",
+            "razao_social": "GENERAL SHOPPING ATIVO E RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GSFI",
+            "nome": "FII GENERAL",
+            "razao_social": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VXXV",
+            "nome": "FII VX XVI",
+            "razao_social": "GENESIS MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII -  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GLOG",
+            "nome": "FII PLURAL L",
+            "razao_social": "GENIAL LOGÍSTICA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ABCP",
+            "nome": "FII ABC IMOB",
+            "razao_social": "GRAND PLAZA SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GRAV",
+            "nome": "GRAVSHOP FII",
+            "razao_social": "GRAVATAÍ SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RCFA",
+            "nome": "FII GP RCFA",
+            "razao_social": "GRUPO RCFA FUNDO DE INVESTIMENTO IMOBILIARIO"
+        },
+        {
+            "codigo": "GAME",
+            "nome": "FII GUARD MU",
+            "razao_social": "GUARDIAN MULTIESTRATÉGIA IMOBILIÁRIA I FII DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GARE",
+            "nome": "FII GUARDIAN",
+            "razao_social": "GUARDIAN REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HABT",
+            "nome": "FII HABIT II",
+            "razao_social": "HABITAT RECEBÍVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ATCR",
+            "nome": "FII HAZ",
+            "razao_social": "HAZ FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "HCTB",
+            "nome": "FII HCTB",
+            "razao_social": "HCO CURITIBA I FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AERO",
+            "nome": "FII AERO",
+            "razao_social": "HCO OPPS AERO I FII DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HCTR",
+            "nome": "FII HECTARE",
+            "razao_social": "HECTARE CE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HCST",
+            "nome": "FII HECT DES",
+            "razao_social": "HECTARE DESENVOLVIMENTO STUDENT HOUSING - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITAD"
+        },
+        {
+            "codigo": "HCHG",
+            "nome": "FII HECT CRI",
+            "razao_social": "HECTARE RECEBÍVEIS HIGH GRADE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESP LIMITADA"
+        },
+        {
+            "codigo": "HAAA",
+            "nome": "FII HEDGEAAA",
+            "razao_social": "HEDGE AAA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ATSA",
+            "nome": "FII HATRIUM",
+            "razao_social": "HEDGE ATRIUM SHOPPING SANTO ANDRÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGBL",
+            "nome": "FII HGBL",
+            "razao_social": "HEDGE BRASIL LOGÍSTICO INDUSTRIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGBS",
+            "nome": "FII HEDGEBS",
+            "razao_social": "HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HDEL",
+            "nome": "FII HEDGE DV",
+            "razao_social": "HEDGE DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FLRP",
+            "nome": "FII FLORIPA",
+            "razao_social": "HEDGE FLORIPA SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HJCT",
+            "nome": "FII HJCT",
+            "razao_social": "HEDGE JHSF CAPITAL PRIME OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HLOG",
+            "nome": "FII HEDGELOG",
+            "razao_social": "HEDGE LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HOFC",
+            "nome": "FII HOFFICEI",
+            "razao_social": "HEDGE OFFICE INCOME FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HDOF",
+            "nome": "FII HEDGE OF",
+            "razao_social": "HEDGE PALADIN DESIGN OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HRDF",
+            "nome": "FII HREALTY",
+            "razao_social": "HEDGE REALTY DEVELOPMENT FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HREC",
+            "nome": "FII HEDGEREC",
+            "razao_social": "HEDGE RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SEED",
+            "nome": "FII HEDGE SD",
+            "razao_social": "HEDGE SEED FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HPDP",
+            "nome": "FII HEDGEPDP",
+            "razao_social": "HEDGE SHOPPING PARQUE DOM PEDRO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "STRY",
+            "nome": "FII STRY",
+            "razao_social": "HEDGE STRATEGY FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HFOF",
+            "nome": "FII HTOPFOF3",
+            "razao_social": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGRH",
+            "nome": "FII VGRH",
+            "razao_social": "HEDGE VGR CRÉDITO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "YEES",
+            "nome": "FII YEES",
+            "razao_social": "HEDGE YEES HABITAÇÕES ECONÔMICAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGIC",
+            "nome": "FII HGI CRI",
+            "razao_social": "HGI CRÉDITOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HIRE",
+            "nome": "FII HIRE",
+            "razao_social": "HIRE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HILG",
+            "nome": "FII HIRE LOG",
+            "razao_social": "HIRE LOG I - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "HTMX",
+            "nome": "FII HOTEL MX",
+            "razao_social": "HOTEL MAXINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HSAF",
+            "nome": "FII HSI CRI",
+            "razao_social": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA"
+        },
+        {
+            "codigo": "HSLG",
+            "nome": "FII HSI LOG",
+            "razao_social": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA"
+        },
+        {
+            "codigo": "HSML",
+            "nome": "FII HSI MALL",
+            "razao_social": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HUSI",
+            "nome": "FII HUSI",
+            "razao_social": "HUSI FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "IVCI",
+            "nome": "FII IVCI",
+            "razao_social": "ICATU VANGUARDA CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GRUL",
+            "nome": "FII GRUL",
+            "razao_social": "ICATU VANGUARDA GRU  LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ICNE",
+            "nome": "FII ICNE",
+            "razao_social": "ÍCONE - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "IMMB",
+            "nome": "FII IMMB",
+            "razao_social": "IMMOBINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "INDE",
+            "nome": "FII INDE",
+            "razao_social": "INTER DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "INHF",
+            "nome": "FII INHF",
+            "razao_social": "INTER HEDGE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "INLG",
+            "nome": "FII INTER LG",
+            "razao_social": "INTER LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "INRD",
+            "nome": "FII INTER RD",
+            "razao_social": "INTER RESIDENCE FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ITIP",
+            "nome": "FII INTER IP",
+            "razao_social": "INTER TEVA ÍNDICE DE PAPEL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ITIT",
+            "nome": "FII INTER IT",
+            "razao_social": "INTER TEVA ÍNDICE DE TIJOLO FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "IBBP",
+            "nome": "FII IBBP",
+            "razao_social": "INVISTA BRAZILIAN BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "XPIN",
+            "nome": "FII XP INDL",
+            "razao_social": "INVISTA INDUSTRIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "IRIM",
+            "nome": "FII IRIM",
+            "razao_social": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ICDI",
+            "nome": "FII ICDI",
+            "razao_social": "ITAÚ CRÉDITO IMOBILIÁRIO CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ICRI",
+            "nome": "FII CI IPCA",
+            "razao_social": "ITAÚ CRÉDITO IMOBILIÁRIO IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ILOG",
+            "nome": "FII ILOG",
+            "razao_social": "ITAÚ RBR DESENVOLVIMENTO LOGÍSTICO - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TMPS",
+            "nome": "FII ITAU TEM",
+            "razao_social": "ITAÚ TEMPUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ITRI",
+            "nome": "FII ITRI",
+            "razao_social": "ITAÚ TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JCDB",
+            "nome": "FII JCDB 02",
+            "razao_social": "JACARANDÁ 02 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JCDA",
+            "nome": "FII JCDA I",
+            "razao_social": "JACARANDÁ I FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JASC",
+            "nome": "FII JASC REN",
+            "razao_social": "JASC RENDA VAREJO ESSENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VJFD",
+            "nome": "FII JFDCAM",
+            "razao_social": "JFDCAM - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JFLL",
+            "nome": "FII JFL LIV",
+            "razao_social": "JFL LIVING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JFLR",
+            "nome": "FII JFLR",
+            "razao_social": "JFL REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "JCCJ",
+            "nome": "FII JHSF CJ",
+            "razao_social": "JHSF CAPITAL MALLS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JCSC",
+            "nome": "FII JCSC",
+            "razao_social": "JHSF CAPITAL SCJ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JPPA",
+            "nome": "FII JPPA CRI",
+            "razao_social": "JPP CAPITAL RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JPRD",
+            "nome": "FII JPRD",
+            "razao_social": "JPR DS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JSAF",
+            "nome": "FII JS A FIN",
+            "razao_social": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JSRE",
+            "nome": "FII JS REAL",
+            "razao_social": "JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JSCR",
+            "nome": "FII JSCR",
+            "razao_social": "JS RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "JTPR",
+            "nome": "FII JT PREV",
+            "razao_social": "JT PREV FUNDO DE INVESTIMENTO IMOBILIÁRIO D. HAB"
+        },
+        {
+            "codigo": "BGS1",
+            "nome": "FII BGS1",
+            "razao_social": "JUBARTE BGS LOGÍSTICA DE GRÃOS DESENVOLVIMENTO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KISU",
+            "nome": "FII KILIMA",
+            "razao_social": "KILIMA FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS IMOBILIÁRIOS SUNO 30 RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KIVO",
+            "nome": "FII KIVO",
+            "razao_social": "KILIMA VOLKANO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KRES",
+            "nome": "FII KRES",
+            "razao_social": "KINEA AQUISIÇÕES RESIDENCIAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KCRE",
+            "nome": "FII KINEA CR",
+            "razao_social": "KINEA CREDITAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNGR",
+            "nome": "FII KNGR",
+            "razao_social": "KINEA DESENVOLVIMENTO GUARARÁ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KGUJ",
+            "nome": "FII KGUJ",
+            "razao_social": "KINEA DESENVOLVIMENTO GUARARÁ JARDINS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KLOG",
+            "nome": "FII KINEA DL",
+            "razao_social": "KINEA DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KDLG",
+            "nome": "FII KDLG",
+            "razao_social": "KINEA DESENVOLVIMENTO LOGÍSTICO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KFEN",
+            "nome": "FII KFEN",
+            "razao_social": "KINEA FÊNIX FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNHF",
+            "nome": "FII KINEA HF",
+            "razao_social": "KINEA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNHY",
+            "nome": "FII KINEA HY",
+            "razao_social": "KINEA HIGH YIELD CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNRE",
+            "nome": "FII KII REAL",
+            "razao_social": "KINEA II REAL ESTATE EQUITY FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNIP",
+            "nome": "FII KINEA IP",
+            "razao_social": "KINEA ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KOIM",
+            "nome": "FII KOIM",
+            "razao_social": "KINEA OPORTUNIDADES IMOBILIÁRIAS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KORE",
+            "nome": "FII KORE",
+            "razao_social": "KINEA OPORTUNIDADES REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNPL",
+            "nome": "FII KNPL",
+            "razao_social": "KINEA PLATAFORMA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNPR",
+            "nome": "FII KINEA PR",
+            "razao_social": "KINEA PREMIUM PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KPMR",
+            "nome": "FII KPMR",
+            "razao_social": "KINEA PRIME RESIDENCIAL I FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KPRP",
+            "nome": "FII KPRP",
+            "razao_social": "KINEA PRIME RESIDENCIAL I PVT FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNRI",
+            "nome": "FII KINEA",
+            "razao_social": "KINEA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNCR",
+            "nome": "FII KINEA RI",
+            "razao_social": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNSC",
+            "nome": "FII KINEA SC",
+            "razao_social": "KINEA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KNUQ",
+            "nome": "FII KINEA UN",
+            "razao_social": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LMAI",
+            "nome": "LABINAFII",
+            "razao_social": "LABINA MULTI ATIVOS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LPLP",
+            "nome": "FII LAGO PDR",
+            "razao_social": "LAGO DA PEDRA - FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SLDZ",
+            "nome": "FII LAV SLDZ",
+            "razao_social": "LAV SLDZ DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "LRED",
+            "nome": "FII LRED",
+            "razao_social": "LCP REAL ESTATE DEVELOPMENT FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LSOI",
+            "nome": "FII LSOI",
+            "razao_social": "LCP SPECIAL OPPORTUNITIES I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LSII",
+            "nome": "FII LSII",
+            "razao_social": "LCP SPECIAL OPPORTUNITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LSOP",
+            "nome": "FII LSOP",
+            "razao_social": "LCP SPECIAL OPPORTUNITIES III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LRDI",
+            "nome": "FII LEBLON",
+            "razao_social": "LEBLON REALTY DESENVOLVIMENTO I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LASC",
+            "nome": "FII LEGATUS",
+            "razao_social": "LEGATUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LIFE",
+            "nome": "FII LIFE",
+            "razao_social": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS"
+        },
+        {
+            "codigo": "LOFT",
+            "nome": "FII LOFT I",
+            "razao_social": "LOFT I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MAGM",
+            "nome": "FII MAGM",
+            "razao_social": "MAG MULT FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MAGM",
+            "nome": "FII MAGM",
+            "razao_social": "MAG MULTIESTRATÉGIA CLASSE DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MANA",
+            "nome": "FII MANATI",
+            "razao_social": "MANATÍ CAPITAL HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MMVE",
+            "nome": "FII MMVE OP",
+            "razao_social": "MARESIAS FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "MCLO",
+            "nome": "FII MCLO",
+            "razao_social": "MAUÁ CAPITAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MCRE",
+            "nome": "FII MAUA RE",
+            "razao_social": "MAUÁ CAPITAL REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MXRF",
+            "nome": "FII MAXI REN",
+            "razao_social": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MFII",
+            "nome": "FII MERITO I",
+            "razao_social": "MERITO DESENVOLVIMENTO IMOBILIARIO I FII - FUNDO DE INVESTIMENTO IMOBILIARIO"
+        },
+        {
+            "codigo": "MIDW",
+            "nome": "FII MIDW",
+            "razao_social": "MIDWAY MALL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MGRI",
+            "nome": "FII MGRI",
+            "razao_social": "MOGNO PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MOSO",
+            "nome": "FII MOSO",
+            "razao_social": "MOSO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MOFF",
+            "nome": "FII MULT OF2",
+            "razao_social": "MULTIOFFICES 2 - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NCRI",
+            "nome": "FII NAVI CRI",
+            "razao_social": "NAVI CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NAVT",
+            "nome": "FII NAVI TOT",
+            "razao_social": "NAVI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "APTO",
+            "nome": "FII NAVI RSD",
+            "razao_social": "NAVI RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "EAGL",
+            "nome": "FII EAGL",
+            "razao_social": "NEST EAGLE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NEWL",
+            "nome": "FII NEWPORT",
+            "razao_social": "NEWPORT LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NEWU",
+            "nome": "FII NEWRU",
+            "razao_social": "NEWPORT RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NMKS",
+            "nome": "FII NMKS",
+            "razao_social": "NM KSM LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NVIF",
+            "nome": "FII NOVA I",
+            "razao_social": "NOVA I - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "OCRE",
+            "nome": "FII OCTO",
+            "razao_social": "OCTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ONDA",
+            "nome": "FII ONDA ME",
+            "razao_social": "ONDA INVEST MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ARRI",
+            "nome": "FII ATRIO",
+            "razao_social": "OPEN K ATIVOS E RECEBIVEIS IMOBILIARIOS - FUNDO DE INVESTIMENTO IMOBILIARIO"
+        },
+        {
+            "codigo": "OBAL",
+            "nome": "FII OPPBAL",
+            "razao_social": "OPPORTUNITY BALASSIANO FUNDO DE INVESTIMENTO IMOBILIÁRIO -  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FTCE",
+            "nome": "FII OPPORTUN",
+            "razao_social": "OPPORTUNITY FUNDO DE INVESTIMENTO IMOBILIÁRIO -  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "OUJP",
+            "nome": "FII OURI JPP",
+            "razao_social": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "OXRL",
+            "nome": "FII OXRL",
+            "razao_social": "OXIGÊNIO 2 FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PNDL",
+            "nome": "FII PANORAMA",
+            "razao_social": "PANORAMA DESENVOLVIMENTO LOGÍSTICO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PNLM",
+            "nome": "FII LASTMILE",
+            "razao_social": "PANORAMA LAST MILE SBC - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PNPR",
+            "nome": "FII PAN PROP",
+            "razao_social": "PANORAMA PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "PNRC",
+            "nome": "FII PNRC",
+            "razao_social": "PANORAMA REAL ESTATE CRÉDITO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PMIS",
+            "nome": "FII PMIS",
+            "razao_social": "PARAMIS HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VTVI",
+            "nome": "FII PARK PAR",
+            "razao_social": "PARKING PARTNERS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESP LIMITADA"
+        },
+        {
+            "codigo": "PQAG",
+            "nome": "FII PARQ ANH",
+            "razao_social": "PARQUE ANHANGUERA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PATA",
+            "nome": "FII PATA",
+            "razao_social": "PATAGÔNIA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "PATB",
+            "nome": "FII PTO BAND",
+            "razao_social": "PATEO BANDEIRANTES - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PCIP",
+            "nome": "FII PCIP PAX",
+            "razao_social": "PATRIA CRÉDITO IMOBILIÁRIO ÍNDICE DE PREÇOS FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RCFF",
+            "nome": "FII RBR FEED",
+            "razao_social": "PATRIA DESENVOLVIMENTO COMERCIAL FEEDER FOF - FUNDO DE INVESTIMENTO IMOBILIÁRIO RL"
+        },
+        {
+            "codigo": "PATC",
+            "nome": "FII PATC VBI",
+            "razao_social": "PÁTRIA EDIFÍCIOS CORPORATIVOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGRE",
+            "nome": "FII HGRE PAX",
+            "razao_social": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGLG",
+            "nome": "FII HGLG PAX",
+            "razao_social": "PÁTRIA LOG - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PLAG",
+            "nome": "FII PLAG",
+            "razao_social": "PATRIA LOGÍSTICA AGRO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PATL",
+            "nome": "FII PATL VBI",
+            "razao_social": "PÁTRIA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "RBRL",
+            "nome": "FII RBRL PAX",
+            "razao_social": "PATRIA LOGÍSTICA II FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "PMLL",
+            "nome": "FII PMLL PAX",
+            "razao_social": "PATRIA MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRX",
+            "nome": "FII RBRX PAX",
+            "razao_social": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGPO",
+            "nome": "FII HGPO PAX",
+            "razao_social": "PATRIA PRIME OFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRK",
+            "nome": "FII RBRK PAX",
+            "razao_social": "PATRIA PRIME OFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HGCR",
+            "nome": "FII HGCR PAX",
+            "razao_social": "PÁTRIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VCRR",
+            "nome": "FII VECT REN",
+            "razao_social": "PATRIA RENDA RESIDENCIAL FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA I FII"
+        },
+        {
+            "codigo": "HGRU",
+            "nome": "FII HGRU PAX",
+            "razao_social": "PÁTRIA RENDA URBANA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PSEC",
+            "nome": "FII PSEC PAX",
+            "razao_social": "PATRIA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "TOPP",
+            "nome": "FII TOPP PAX",
+            "razao_social": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PEMA",
+            "nome": "FII PERFORMA",
+            "razao_social": "PERFORMA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PMRL",
+            "nome": "FII PMRL",
+            "razao_social": "PERMUTA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PRSN",
+            "nome": "FII PERSONAL",
+            "razao_social": "PERSONALE I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PORD",
+            "nome": "FII POLO CRI",
+            "razao_social": "POLO CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PLRI",
+            "nome": "FII POLO I",
+            "razao_social": "POLO FII - FII RECEBÍVEIS IMOBILIÁRIOS I - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PCAS",
+            "nome": "FII PRAIA CS",
+            "razao_social": "PRAIA DO CASTELO FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "PRSV",
+            "nome": "FII P VARGAS",
+            "razao_social": "PRESIDENTE VARGAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TSER",
+            "nome": "FII TISHMAN",
+            "razao_social": "PRIME OFFICES FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FPAB",
+            "nome": "FII A BRANCA",
+            "razao_social": "PROJETO ÁGUA BRANCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PBLV",
+            "nome": "FII PROLOGIS",
+            "razao_social": "PROLOGIS BRAZIL LOGISTICS VENTURE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "QTZD",
+            "nome": "FII QTZD",
+            "razao_social": "QUARTZO REAL ESTATE DEVELOPMENT MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE L"
+        },
+        {
+            "codigo": "RZZV",
+            "nome": "FII RZZV",
+            "razao_social": "RAIZZ DESENVOLVIMENTO I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZZI",
+            "nome": "FII RZZI",
+            "razao_social": "RAIZZ DESENVOLVIMENTO II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZZR",
+            "nome": "FII RZZR",
+            "razao_social": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBDS",
+            "nome": "FII RBRESID2",
+            "razao_social": "RB CAPITAL DESENV. RESIDENCIAL II FUNDO DE INVESTIMENTO IMOBILIARIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RSPD",
+            "nome": "FII RBRESID3",
+            "razao_social": "RB CAPITAL DESENVOLVIMENTO RESIDENCIAL III FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBIR",
+            "nome": "FII RBRES IV",
+            "razao_social": "RB CAPITAL DESENVOLVIMENTO RESIDENCIAL IV FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESP. LTDA."
+        },
+        {
+            "codigo": "RFOF",
+            "nome": "FII RB CFOF",
+            "razao_social": "RB CAPITAL I FUNDO DE FUNDOS -RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBLG",
+            "nome": "FII RBCAP LG",
+            "razao_social": "RB CAPITAL LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO  FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FIIP",
+            "nome": "FII RB CAP I",
+            "razao_social": "RB CAPITAL RENDA I FUNDO DE INVESTIMENTO IMOBILIARIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRD",
+            "nome": "FII RB II",
+            "razao_social": "RB CAPITAL RENDA II FII DE RESP LIMITADA"
+        },
+        {
+            "codigo": "DRIM",
+            "nome": "FII DRIM",
+            "razao_social": "RB DESENVOLVIMENTO RESIDENCIAL V FUNDO DE INVESTIMENTO IMOBILIÁRIO -RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MTES",
+            "nome": "FII MTES",
+            "razao_social": "RB INVESTIMENTOS MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIORESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "REME",
+            "nome": "FII REME",
+            "razao_social": "RB MULTIESTRATÉGIA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBTS",
+            "nome": "FII RB TFO",
+            "razao_social": "RB TFO SITUS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RDCI",
+            "nome": "FII RDCI",
+            "razao_social": "RBR DESENVOLVIMENTO COMERCIAL I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RDLI",
+            "nome": "FII RDLI",
+            "razao_social": "RBR DESENVOLVIMENTO LOGÍSTICO I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SHIP",
+            "nome": "FII SHIP",
+            "razao_social": "RBR FLAGSHIP I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BOAT",
+            "nome": "FII BOAT",
+            "razao_social": "RBR FLAGSHIP II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RPRI",
+            "nome": "FII RBR PR",
+            "razao_social": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TPOS",
+            "nome": "FII TPOS",
+            "razao_social": "RBR TESOURARIA FII CDI+ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TINF",
+            "nome": "FII TINF",
+            "razao_social": "RBR TESOURARIA FII IPCA+ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RINV",
+            "nome": "FII REAL INV",
+            "razao_social": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RCRI",
+            "nome": "FII RCRI",
+            "razao_social": "REAL INVESTOR RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RECD",
+            "nome": "FII RECD",
+            "razao_social": "REC FUNDO DE CRI COTAS AMORTIZÁVEIS - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "RMBS",
+            "nome": "FII RMBS",
+            "razao_social": "REC MASTER FUNDO DE CRI COTAS AMORTIZÁVEIS FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RECM",
+            "nome": "FII RECM",
+            "razao_social": "REC MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBHG",
+            "nome": "FII RBCRI IV",
+            "razao_social": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH GRADE FUNDO DE INVESTIMENTO  IMOBILIÁRIO - FII RESP LIMITADA"
+        },
+        {
+            "codigo": "RBHY",
+            "nome": "FII RB YIELD",
+            "razao_social": "RIO BRAVO CRÉDITO IMOBILIÁRIO HIGH YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESP LIMITADA"
+        },
+        {
+            "codigo": "RBFY",
+            "nome": "FII RBFY",
+            "razao_social": "RIO BRAVO FOR YOU FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBFM",
+            "nome": "FII RIOB MT",
+            "razao_social": "RIO BRAVO MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBOP",
+            "nome": "FII MERC BR",
+            "razao_social": "RIO BRAVO OPORTUNIDADES IMOBILIÁRIAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RCRB",
+            "nome": "FII RIOB RC",
+            "razao_social": "RIO BRAVO RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBRS",
+            "nome": "FII RIOB RR",
+            "razao_social": "RIO BRAVO RENDA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBVA",
+            "nome": "FII RIOB VA",
+            "razao_social": "RIO BRAVO RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RNGO",
+            "nome": "FII RIONEGRO",
+            "razao_social": "RIO NEGRO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FRRE",
+            "nome": "FII FRRE",
+            "razao_social": "RIO REAL  ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZAK",
+            "nome": "FII RIZA AKN",
+            "razao_social": "RIZA AKIN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZAT",
+            "nome": "FII ARCTIUM",
+            "razao_social": "RIZA ARCTIUM REAL ESTATE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZLC",
+            "nome": "FII RZLC",
+            "razao_social": "RIZA LECCI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RJDA",
+            "nome": "FII RJDA",
+            "razao_social": "RJDI FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "SAPI",
+            "nome": "FII SAPI",
+            "razao_social": "SANTANDER PAPÉIS IMOBILIÁRIOS FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESP LIMITADA"
+        },
+        {
+            "codigo": "FISD",
+            "nome": "FII DOMINGOS",
+            "razao_social": "SÃO DOMINGOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII"
+        },
+        {
+            "codigo": "SCPF",
+            "nome": "FII SCP",
+            "razao_social": "SCP FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SEQR",
+            "nome": "FII SEQUOIA",
+            "razao_social": "SEQUÓIA III RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SHPH",
+            "nome": "FII HIGIENOP",
+            "razao_social": "SHOPPING PÁTIO HIGIENÓPOLIS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SHPP",
+            "nome": "FII SHPP",
+            "razao_social": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "WPLZ",
+            "nome": "FII W PLAZA",
+            "razao_social": "SHOPPING WEST PLAZA FUNDO DE INVESTIMENTO IMOBILIARIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "REIT",
+            "nome": "FII REIT RIV",
+            "razao_social": "SINGULARE FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "SJAU",
+            "nome": "FII SJ AU",
+            "razao_social": "SJ AU LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SOLR",
+            "nome": "FII SOLARIUM",
+            "razao_social": "SOLARIUM FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "SPTW",
+            "nome": "FII SPTW PAX",
+            "razao_social": "SP DOWNTOWN FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII"
+        },
+        {
+            "codigo": "SPAF",
+            "nome": "FII SPA",
+            "razao_social": "SPA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LTMT",
+            "nome": "FII SPECIALE",
+            "razao_social": "SPECIALE BLUE REAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DVLP",
+            "nome": "FII DVLP",
+            "razao_social": "SPECIALE REAL ESTATE DEVELOPMENT FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "DVLT",
+            "nome": "FII DVLT",
+            "razao_social": "SPECIALE REAL ESTATE DEVELOPMENT II FUNDO DE INVESTIMENTO  IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PMFO",
+            "nome": "FII PMFO",
+            "razao_social": "SPECIALE REAL ESTATE FUND OF FUNDS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SPGM",
+            "nome": "FII SPGM",
+            "razao_social": "SPGM FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "SPG2",
+            "nome": "FII SPG2",
+            "razao_social": "SPGM II FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "SPXM",
+            "nome": "FII SPXM",
+            "razao_social": "SPX REAL ESTATE DESENVOLVIMENTO DE GALPÕES LOGÍSTICOS FEEDER BRADESCO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SPXL",
+            "nome": "FII SPXL",
+            "razao_social": "SPX REAL ESTATE DESENVOLVIMENTO DE GALPÕES LOGÍSTICOS FEEDER INSTITUCIONAL FII RESP LIMITADA"
+        },
+        {
+            "codigo": "SPXG",
+            "nome": "FII SPXG",
+            "razao_social": "SPX REAL ESTATE DESENVOLVIMENTO DE GALPÕES LOGÍSTICOS FEEDER PRIVATE FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SPXS",
+            "nome": "FII SPX SYN",
+            "razao_social": "SPX REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SPXT",
+            "nome": "FII SPXT",
+            "razao_social": "SPX RENDA IMOBILIÁRIA III FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "STRX",
+            "nome": "FII STARX",
+            "razao_social": "STARX FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "STYI",
+            "nome": "FII STYI",
+            "razao_social": "STRIVO YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SURE",
+            "nome": "FII SURE",
+            "razao_social": "SULAMÉRICA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SNEL",
+            "nome": "FII SUNO EL",
+            "razao_social": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SNFF",
+            "nome": "FII SUNOFOFI",
+            "razao_social": "SUNO FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE"
+        },
+        {
+            "codigo": "SNLG",
+            "nome": "FII SUNO LG",
+            "razao_social": "SUNO LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SNME",
+            "nome": "FII SNME",
+            "razao_social": "SUNO MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SNCI",
+            "nome": "FII SUNO CRI",
+            "razao_social": "SUNO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SPMO",
+            "nome": "FII SUPREMO",
+            "razao_social": "SUPREMO FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "TELD",
+            "nome": "FII TELLUS",
+            "razao_social": "TELLUS DESENVOLVIMENTO LOGÍSTICO - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TELM",
+            "nome": "FII TELM",
+            "razao_social": "TELLUS MULTIESTRATÉGIA - FII FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TEPP",
+            "nome": "FII TEL PROP",
+            "razao_social": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRBL",
+            "nome": "FII SDI LOG",
+            "razao_social": "TELLUS RIO BRAVO RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NAUI",
+            "nome": "FII NAUI",
+            "razao_social": "TEN DESENVOLVIMENTO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRPL",
+            "nome": "FII TRPL",
+            "razao_social": "TERRAS PAULISTAS FUNDO DE  INVESTIMENTO IMOBILIÁRIO DE PERMUTAS RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TVOI",
+            "nome": "FII TVOI",
+            "razao_social": "TIVIO OPPORTUNITIES IPCA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TIOM",
+            "nome": "FII TIOM",
+            "razao_social": "TIVIO OPPORTUNITIES MASTER FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TVRI",
+            "nome": "FII TIVIO RI",
+            "razao_social": "TIVIO RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VOTS",
+            "nome": "FII V MASTER",
+            "razao_social": "TIVIO SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TJKB",
+            "nome": "FII TJK REND",
+            "razao_social": "TJK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TORD",
+            "nome": "FII TORDE EI",
+            "razao_social": "TORDESILHAS EI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TSNC",
+            "nome": "FII TRANSINC",
+            "razao_social": "TRANSINC FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TCPF",
+            "nome": "FII TREECORP",
+            "razao_social": "TREECORP REAL ESTATE FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRXY",
+            "nome": "FII TRXY",
+            "razao_social": "TRX HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRXF",
+            "nome": "FII TRX REAL",
+            "razao_social": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TRXB",
+            "nome": "FII TRX R II",
+            "razao_social": "TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MGHT",
+            "nome": "FII MOGNO HT",
+            "razao_social": "TZDK FUNDO DE INVESTIMENTO IMOBILIÁRIORESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "URHF",
+            "nome": "FII URHF",
+            "razao_social": "URCA HEDGE FUND ESTRATÉGIA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "URPR",
+            "nome": "FII URCA REN",
+            "razao_social": "URCA PRIME RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII"
+        },
+        {
+            "codigo": "VVCO",
+            "nome": "FII V2EDCORP",
+            "razao_social": "V2 EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VVMR",
+            "nome": "FII MULT REN",
+            "razao_social": "V2 MULTI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VPPR",
+            "nome": "FII V2 PRIME",
+            "razao_social": "V2 PRIME PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VVDI",
+            "nome": "FII VVDI",
+            "razao_social": "V2 RECEBÍVEIS CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VVCR",
+            "nome": "FII V2 RECE",
+            "razao_social": "V2 RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VVRI",
+            "nome": "FII V2 RENDA",
+            "razao_social": "V2 RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGRM",
+            "nome": "FII VGRM",
+            "razao_social": "VALORA CRI CDI FLUXO MENSAL MARÇO 26 FEEDER FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMIT"
+        },
+        {
+            "codigo": "VGIR",
+            "nome": "FII VALREIII",
+            "razao_social": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGIP",
+            "nome": "FII VALORAIP",
+            "razao_social": "VALORA CRI ÍNDICE DE PREÇO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGII",
+            "nome": "FII VGII",
+            "razao_social": "VALORA CRI INFRA II FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGHF",
+            "nome": "FII VALOR HE",
+            "razao_social": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGRI",
+            "nome": "FII VGRI",
+            "razao_social": "VALORA RENDA IMOBILIÁRIA FUNDO DE  INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BLMO",
+            "nome": "FII BLMO VBI",
+            "razao_social": "VBI OFFICE FUND II - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "VCJR",
+            "nome": "FII VECTIS",
+            "razao_social": "VECTIS JUROS REAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VLJS",
+            "nome": "FII VQ LAJES",
+            "razao_social": "VECTOR QUELUZ LAJES CORPORATIVAS FUNDO DE INVESTIMENTO IMOBILIARIO"
+        },
+        {
+            "codigo": "VNSS",
+            "nome": "FII VNSS",
+            "razao_social": "VENUS 11 FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITA"
+        },
+        {
+            "codigo": "SALI",
+            "nome": "FII VENUS",
+            "razao_social": "VÊNUS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VCTH",
+            "nome": "FII VCTH",
+            "razao_social": "VERA CRUZ THREE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VSLH",
+            "nome": "FII VERS CRI",
+            "razao_social": "VERSALHES RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VGRD",
+            "nome": "FII VGRD",
+            "razao_social": "VGR DESENVOLVIMENTO RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "FVPQ",
+            "nome": "FII V PARQUE",
+            "razao_social": "VIA PARQUE SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VIDS",
+            "nome": "FII VIC DES",
+            "razao_social": "VIC DESENVOLVIMENTO - VINTAGE 20/21 FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VDSV",
+            "nome": "FII VIC VIN",
+            "razao_social": "VIC DESENVOLVIMENTO VINTAGE 22/23 FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "VCRI",
+            "nome": "FII VINCI CR",
+            "razao_social": "VINCI CREDIT SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VIUR",
+            "nome": "FII VINCI IU",
+            "razao_social": "VINCI IMÓVEIS URBANOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA"
+        },
+        {
+            "codigo": "VILG",
+            "nome": "FII VINCI LG",
+            "razao_social": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VIMO",
+            "nome": "FII VIMO",
+            "razao_social": "VINCI MOZAK RESIDENCIAL II FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VINO",
+            "nome": "FII VINCI OF",
+            "razao_social": "VINCI OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VIOL",
+            "nome": "FII VIOL",
+            "razao_social": "VINCI OPORTUNIDADES LOGÍSTICAS FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "VISC",
+            "nome": "FII VINCI SC",
+            "razao_social": "VINCI SHOPPING CENTERS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "SPDE",
+            "nome": "FII WHG F SP",
+            "razao_social": "WHG FINVEST SP REALTY FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "WHGR",
+            "nome": "FII WHG REAL",
+            "razao_social": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "XLPR",
+            "nome": "FII XLPR RI",
+            "razao_social": "XLPR FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "XPCM",
+            "nome": "FII XP MACAE",
+            "razao_social": "XP CORPORATE MACAÉ FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "XPCI",
+            "nome": "FII XP CRED",
+            "razao_social": "XP CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "XPLG",
+            "nome": "FII XP LOG",
+            "razao_social": "XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA - FII"
+        },
+        {
+            "codigo": "XPML",
+            "nome": "FII XP MALLS",
+            "razao_social": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII"
+        },
+        {
+            "codigo": "XPSF",
+            "nome": "FII XP SELEC",
+            "razao_social": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII"
+        },
+        {
+            "codigo": "YUFI",
+            "nome": "FII YUCA",
+            "razao_social": "YUCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ZAGH",
+            "nome": "FII ZAGH",
+            "razao_social": "ZAGROS MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GGRC",
+            "nome": "FII GGR ZAG",
+            "razao_social": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ZAVC",
+            "nome": "FII ZAVIT C",
+            "razao_social": "ZAVIT CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ZAVI",
+            "nome": "FII ZAVIT R",
+            "razao_social": "ZAVIT REAL ESTATE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "ZIFI",
+            "nome": "FII ZION",
+            "razao_social": "ZION CAPITAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        }
+    ]
 }

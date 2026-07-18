@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-18T10:38:15Z",
+    "gerado_em": "2026-07-18T14:21:20Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-07-17",
     "estatisticas": {
-        "consultados": 523,
-        "com_cotacao": 407,
-        "sem_cotacao": 115
+        "consultados": 522,
+        "com_cotacao": 408,
+        "sem_cotacao": 114
     },
     "dados": {
         "ADSH11": {
@@ -206,6 +206,9 @@
         },
         "CENU11": {
             "preco": 100.0
+        },
+        "CFII11": {
+            "preco": 500.0
         },
         "CJCT11": {
             "preco": 67.0
@@ -1314,10 +1317,6 @@
         },
         {
             "ticker": "CDHY11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "CFII11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

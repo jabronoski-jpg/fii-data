@@ -1,1 +1,1696 @@
-
+{
+    "versao": 1,
+    "gerado_em": "2026-07-18T10:38:15Z",
+    "origem": "Yahoo Finance",
+    "data_pregao": "2026-07-17",
+    "estatisticas": {
+        "consultados": 523,
+        "com_cotacao": 407,
+        "sem_cotacao": 115
+    },
+    "dados": {
+        "ADSH11": {
+            "preco": 10.68
+        },
+        "AFHI11": {
+            "preco": 94.95
+        },
+        "AFHF11": {
+            "preco": 10.0
+        },
+        "AJFI11": {
+            "preco": 8.12
+        },
+        "ALZC11": {
+            "preco": 7.3
+        },
+        "ALZR11": {
+            "preco": 9.97
+        },
+        "AURB11": {
+            "preco": 81.2
+        },
+        "APXM11": {
+            "preco": 64.78
+        },
+        "APXU11": {
+            "preco": 100.0
+        },
+        "AIEC11": {
+            "preco": 61.14
+        },
+        "AVUR11": {
+            "preco": 96.46
+        },
+        "AROA11": {
+            "preco": 1.25
+        },
+        "EIRA11": {
+            "preco": 104.55
+        },
+        "ARTE11": {
+            "preco": 7.48
+        },
+        "ARXD11": {
+            "preco": 7.86
+        },
+        "AZPL11": {
+            "preco": 7.39
+        },
+        "BCRI11": {
+            "preco": 59.9
+        },
+        "BNFS11": {
+            "preco": 39.95
+        },
+        "BTML11": {
+            "preco": 111.28
+        },
+        "BBFO11": {
+            "preco": 69.77
+        },
+        "BBIG11": {
+            "preco": 5.65
+        },
+        "BBRC11": {
+            "preco": 105.0
+        },
+        "BFCC11": {
+            "preco": 104.2
+        },
+        "BGRB11": {
+            "preco": 100.22
+        },
+        "BLOG11": {
+            "preco": 6.6
+        },
+        "BLMG11": {
+            "preco": 30.59
+        },
+        "BMLC11": {
+            "preco": 100.2
+        },
+        "BCIA11": {
+            "preco": 88.63
+        },
+        "BVAR11": {
+            "preco": 1144.33
+        },
+        "CARE11": {
+            "preco": 2.22
+        },
+        "FATN11": {
+            "preco": 79.82
+        },
+        "BRCO11": {
+            "preco": 114.24
+        },
+        "BICE11": {
+            "preco": 540.0
+        },
+        "BIME11": {
+            "preco": 4.78
+        },
+        "BRIM11": {
+            "preco": 95.0
+        },
+        "BRIP11": {
+            "preco": 320.0
+        },
+        "BIPD11": {
+            "preco": 989.33
+        },
+        "BIPE11": {
+            "preco": 1000.0
+        },
+        "BROF11": {
+            "preco": 60.93
+        },
+        "LLAO11": {
+            "preco": 57.2
+        },
+        "BTHI11": {
+            "preco": 43.99
+        },
+        "BRCR11": {
+            "preco": 40.98
+        },
+        "BTCI11": {
+            "preco": 9.22
+        },
+        "BTLG11": {
+            "preco": 102.53
+        },
+        "BTHF11": {
+            "preco": 9.02
+        },
+        "HSRE11": {
+            "preco": 87.65
+        },
+        "BPML11": {
+            "preco": 85.54
+        },
+        "BTYU11": {
+            "preco": 7.65
+        },
+        "BTWR11": {
+            "preco": 91.64
+        },
+        "BTSI11": {
+            "preco": 109.17
+        },
+        "CXCO11": {
+            "preco": 69.99
+        },
+        "CRFF11": {
+            "preco": 67.46
+        },
+        "CXRI11": {
+            "preco": 65.72
+        },
+        "CCME11": {
+            "preco": 9.04
+        },
+        "CCVA11": {
+            "preco": 100.07
+        },
+        "CPUR11": {
+            "preco": 10.6
+        },
+        "CPLG11": {
+            "preco": 10.99
+        },
+        "CPOF11": {
+            "preco": 114.5
+        },
+        "CPTS11": {
+            "preco": 7.49
+        },
+        "CPSH11": {
+            "preco": 9.89
+        },
+        "CACR11": {
+            "preco": 19.07
+        },
+        "CBOP11": {
+            "preco": 31.1
+        },
+        "BLCA11": {
+            "preco": 91.03
+        },
+        "CNES11": {
+            "preco": 1.48
+        },
+        "CTXT11": {
+            "preco": 4.83
+        },
+        "CENU11": {
+            "preco": 100.0
+        },
+        "CJCT11": {
+            "preco": 67.0
+        },
+        "CIXF11": {
+            "preco": 114.52
+        },
+        "PDBM11": {
+            "preco": 109.24
+        },
+        "CLIN11": {
+            "preco": 90.59
+        },
+        "RENV11": {
+            "preco": 5.67
+        },
+        "IBCR11": {
+            "preco": 44.95
+        },
+        "CYCR11": {
+            "preco": 8.67
+        },
+        "CYLD11": {
+            "preco": 81.0
+        },
+        "DAMA11": {
+            "preco": 6.11
+        },
+        "DAYM11": {
+            "preco": 3.99
+        },
+        "ASRF11": {
+            "preco": 10974.0
+        },
+        "DPRO11": {
+            "preco": 5.47
+        },
+        "DEVA11": {
+            "preco": 18.2
+        },
+        "DAMT11": {
+            "preco": 18.0
+        },
+        "DOVL11": {
+            "preco": 583.04
+        },
+        "EDGE11": {
+            "preco": 946.66
+        },
+        "EMET11": {
+            "preco": 9.51
+        },
+        "EGYR11": {
+            "preco": 2.98
+        },
+        "EQIR11": {
+            "preco": 8.48
+        },
+        "ERCR11": {
+            "preco": 5008.34
+        },
+        "ERPA11": {
+            "preco": 126.96
+        },
+        "KEVE11": {
+            "preco": 505.0
+        },
+        "EXES11": {
+            "preco": 9.79
+        },
+        "FLCR11": {
+            "preco": 93.35
+        },
+        "VRTA11": {
+            "preco": 74.0
+        },
+        "VRTM11": {
+            "preco": 6.99
+        },
+        "FLMA11": {
+            "preco": 150.46
+        },
+        "EGDB11": {
+            "preco": 1275.41
+        },
+        "ELDO11": {
+            "preco": 928.55
+        },
+        "EURO11": {
+            "preco": 315.99
+        },
+        "HYPI11": {
+            "preco": 181.5
+        },
+        "HRES11": {
+            "preco": 145.45
+        },
+        "FIIB11": {
+            "preco": 442.97
+        },
+        "FMOF11": {
+            "preco": 47.78
+        },
+        "ALMI11": {
+            "preco": 610.0
+        },
+        "KFOF11": {
+            "preco": 78.9
+        },
+        "DVFF11": {
+            "preco": 5.23
+        },
+        "ANCR11": {
+            "preco": 290.0
+        },
+        "FAED11": {
+            "preco": 152.0
+        },
+        "FCFL11": {
+            "preco": 123.5
+        },
+        "CEOC11": {
+            "preco": 41.27
+        },
+        "FAMB11": {
+            "preco": 703.0
+        },
+        "EDGA11": {
+            "preco": 13.23
+        },
+        "FYTO11": {
+            "preco": 8.19
+        },
+        "HCRI11": {
+            "preco": 270.29
+        },
+        "NSLU11": {
+            "preco": 172.0
+        },
+        "MAXR11": {
+            "preco": 50.0
+        },
+        "PQDP11": {
+            "preco": 2459.99
+        },
+        "RBRR11": {
+            "preco": 77.7
+        },
+        "RBRI11": {
+            "preco": 225.02
+        },
+        "RDIV11": {
+            "preco": 86.0
+        },
+        "RECR11": {
+            "preco": 80.3
+        },
+        "RECT11": {
+            "preco": 35.86
+        },
+        "SHDP11": {
+            "preco": 1210.05
+        },
+        "TRNT11": {
+            "preco": 109.99
+        },
+        "APXR11": {
+            "preco": 99.99
+        },
+        "CXAG11": {
+            "preco": 76.07
+        },
+        "CXCI11": {
+            "preco": 65.59
+        },
+        "CXCE11": {
+            "preco": 40.5
+        },
+        "CXTL11": {
+            "preco": 235.0
+        },
+        "LKDV11": {
+            "preco": 1104.12
+        },
+        "EDFO11": {
+            "preco": 144.97
+        },
+        "NVHO11": {
+            "preco": 12.79
+        },
+        "GTWR11": {
+            "preco": 80.09
+        },
+        "HBCR11": {
+            "preco": 146.0
+        },
+        "HUCG11": {
+            "preco": 92.8
+        },
+        "HUSC11": {
+            "preco": 96.01
+        },
+        "HOSI11": {
+            "preco": 77.56
+        },
+        "BLUE11": {
+            "preco": 115.0
+        },
+        "MMPD11": {
+            "preco": 67.92
+        },
+        "MCCI11": {
+            "preco": 94.98
+        },
+        "WTSP11": {
+            "preco": 67.0
+        },
+        "PABY11": {
+            "preco": 24.75
+        },
+        "RBRY11": {
+            "preco": 86.51
+        },
+        "RBRP11": {
+            "preco": 48.08
+        },
+        "FPNG11": {
+            "preco": 465.06
+        },
+        "VTPL11": {
+            "preco": 65.9
+        },
+        "VPSI11": {
+            "preco": 21.92
+        },
+        "RELG11": {
+            "preco": 65.62
+        },
+        "RRES11": {
+            "preco": 9.8
+        },
+        "RZTR11": {
+            "preco": 88.09
+        },
+        "ROOF11": {
+            "preco": 350.0
+        },
+        "HOMS11": {
+            "preco": 131.92
+        },
+        "FISC11": {
+            "preco": 61.01
+        },
+        "SAIC11": {
+            "preco": 34.04
+        },
+        "SMRE11": {
+            "preco": 59.94
+        },
+        "TGAR11": {
+            "preco": 50.76
+        },
+        "TRCO11": {
+            "preco": 10.2
+        },
+        "TRUE11": {
+            "preco": 23.85
+        },
+        "LVBI11": {
+            "preco": 104.67
+        },
+        "PVBI11": {
+            "preco": 72.0
+        },
+        "VERE11": {
+            "preco": 445.76
+        },
+        "FIVN11": {
+            "preco": 2.85
+        },
+        "VSHO11": {
+            "preco": 74.14
+        },
+        "BMLT11": {
+            "preco": 109.0
+        },
+        "BSLT11": {
+            "preco": 62.15
+        },
+        "GCDL11": {
+            "preco": 125.27
+        },
+        "GSRF11": {
+            "preco": 114.42
+        },
+        "GFDL11": {
+            "preco": 118.37
+        },
+        "GLPF11": {
+            "preco": 109.4
+        },
+        "GLCR11": {
+            "preco": 99.34
+        },
+        "GCRI11": {
+            "preco": 66.28
+        },
+        "GCOI11": {
+            "preco": 72.87
+        },
+        "GZIT11": {
+            "preco": 43.34
+        },
+        "FIGS11": {
+            "preco": 50.3
+        },
+        "GSFI11": {
+            "preco": 11.39
+        },
+        "VXXV11": {
+            "preco": 785.0
+        },
+        "GLOG11": {
+            "preco": 75.0
+        },
+        "ABCP11": {
+            "preco": 74.0
+        },
+        "GRAV11": {
+            "preco": 36.5
+        },
+        "RCFA11": {
+            "preco": 0.85
+        },
+        "GAME11": {
+            "preco": 8.17
+        },
+        "GARE11": {
+            "preco": 8.12
+        },
+        "HABT11": {
+            "preco": 71.65
+        },
+        "AERO11": {
+            "preco": 100.01
+        },
+        "HCTR11": {
+            "preco": 16.45
+        },
+        "HCST11": {
+            "preco": 35.1
+        },
+        "HCHG11": {
+            "preco": 61.98
+        },
+        "HAAA11": {
+            "preco": 55.0
+        },
+        "ATSA11": {
+            "preco": 59.99
+        },
+        "HGBL11": {
+            "preco": 8.86
+        },
+        "HGBS11": {
+            "preco": 19.33
+        },
+        "HDEL11": {
+            "preco": 3.3
+        },
+        "FLRP11": {
+            "preco": 20.38
+        },
+        "HJCT11": {
+            "preco": 120.0
+        },
+        "HLOG11": {
+            "preco": 8.89
+        },
+        "HOFC11": {
+            "preco": 33.62
+        },
+        "HDOF11": {
+            "preco": 90.0
+        },
+        "HRDF11": {
+            "preco": 4.44
+        },
+        "HREC11": {
+            "preco": 8.28
+        },
+        "SEED11": {
+            "preco": 100.0
+        },
+        "HPDP11": {
+            "preco": 89.29
+        },
+        "HFOF11": {
+            "preco": 6.36
+        },
+        "YEES11": {
+            "preco": 102.0
+        },
+        "HGIC11": {
+            "preco": 52.65
+        },
+        "HILG11": {
+            "preco": 186.81
+        },
+        "HTMX11": {
+            "preco": 140.4
+        },
+        "HSAF11": {
+            "preco": 77.25
+        },
+        "HSLG11": {
+            "preco": 91.79
+        },
+        "HSML11": {
+            "preco": 87.52
+        },
+        "HUSI11": {
+            "preco": 1010.0
+        },
+        "GRUL11": {
+            "preco": 8.87
+        },
+        "ICNE11": {
+            "preco": 700.0
+        },
+        "IMMB11": {
+            "preco": 180.0
+        },
+        "INDE11": {
+            "preco": 80.0
+        },
+        "INLG11": {
+            "preco": 66.8
+        },
+        "INRD11": {
+            "preco": 75.1
+        },
+        "ITIP11": {
+            "preco": 57.5
+        },
+        "ITIT11": {
+            "preco": 59.11
+        },
+        "IBBP11": {
+            "preco": 8.0
+        },
+        "XPIN11": {
+            "preco": 62.04
+        },
+        "IRIM11": {
+            "preco": 65.75
+        },
+        "ICRI11": {
+            "preco": 93.05
+        },
+        "TMPS11": {
+            "preco": 74.1
+        },
+        "ITRI11": {
+            "preco": 79.94
+        },
+        "JASC11": {
+            "preco": 99.28
+        },
+        "VJFD11": {
+            "preco": 126.96
+        },
+        "JFLL11": {
+            "preco": 55.51
+        },
+        "JCCJ11": {
+            "preco": 139.32
+        },
+        "JPPA11": {
+            "preco": 81.5
+        },
+        "JPRD11": {
+            "preco": 100.0
+        },
+        "JSAF11": {
+            "preco": 7.26
+        },
+        "JSRE11": {
+            "preco": 60.9
+        },
+        "JSCR11": {
+            "preco": 7.96
+        },
+        "KISU11": {
+            "preco": 6.45
+        },
+        "KIVO11": {
+            "preco": 58.9
+        },
+        "KCRE11": {
+            "preco": 8.99
+        },
+        "KFEN11": {
+            "preco": 1100.0
+        },
+        "KNHF11": {
+            "preco": 96.5
+        },
+        "KNHY11": {
+            "preco": 100.39
+        },
+        "KNRE11": {
+            "preco": 0.34
+        },
+        "KNIP11": {
+            "preco": 92.01
+        },
+        "KORE11": {
+            "preco": 66.7
+        },
+        "KNPR11": {
+            "preco": 64.43
+        },
+        "KNRI11": {
+            "preco": 156.0
+        },
+        "KNCR11": {
+            "preco": 108.5
+        },
+        "KNSC11": {
+            "preco": 9.16
+        },
+        "KNUQ11": {
+            "preco": 105.65
+        },
+        "LMAI11": {
+            "preco": 36.88
+        },
+        "LPLP11": {
+            "preco": 225.0
+        },
+        "LRED11": {
+            "preco": 12.0
+        },
+        "LSOI11": {
+            "preco": 12.02
+        },
+        "LSOP11": {
+            "preco": 10.6
+        },
+        "LRDI11": {
+            "preco": 114.09
+        },
+        "LASC11": {
+            "preco": 111.23
+        },
+        "LIFE11": {
+            "preco": 6.77
+        },
+        "MAGM11": {
+            "preco": 10.0
+        },
+        "MANA11": {
+            "preco": 9.15
+        },
+        "MMVE11": {
+            "preco": 147.0
+        },
+        "MCLO11": {
+            "preco": 10.44
+        },
+        "MCRE11": {
+            "preco": 8.71
+        },
+        "MXRF11": {
+            "preco": 9.73
+        },
+        "MFII11": {
+            "preco": 52.71
+        },
+        "MIDW11": {
+            "preco": 10.65
+        },
+        "NCRI11": {
+            "preco": 9.06
+        },
+        "NAVT11": {
+            "preco": 74.2
+        },
+        "APTO11": {
+            "preco": 8.29
+        },
+        "NEWL11": {
+            "preco": 104.69
+        },
+        "NEWU11": {
+            "preco": 117.94
+        },
+        "NMKS11": {
+            "preco": 1052.26
+        },
+        "OCRE11": {
+            "preco": 62.98
+        },
+        "ONDA11": {
+            "preco": 7.14
+        },
+        "ARRI11": {
+            "preco": 4.68
+        },
+        "OBAL11": {
+            "preco": 1095.0
+        },
+        "FTCE11": {
+            "preco": 2914.9
+        },
+        "OUJP11": {
+            "preco": 71.95
+        },
+        "OXRL11": {
+            "preco": 130.03
+        },
+        "PNDL11": {
+            "preco": 160.0
+        },
+        "PNPR11": {
+            "preco": 48.0
+        },
+        "PNRC11": {
+            "preco": 28.13
+        },
+        "PMIS11": {
+            "preco": 7.8
+        },
+        "PQAG11": {
+            "preco": 56.12
+        },
+        "PATA11": {
+            "preco": 9.99
+        },
+        "PCIP11": {
+            "preco": 76.68
+        },
+        "RCFF11": {
+            "preco": 71.52
+        },
+        "PATC11": {
+            "preco": 39.99
+        },
+        "HGRE11": {
+            "preco": 123.6
+        },
+        "HGLG11": {
+            "preco": 148.92
+        },
+        "PLAG11": {
+            "preco": 62.4
+        },
+        "PATL11": {
+            "preco": 64.15
+        },
+        "RBRL11": {
+            "preco": 72.05
+        },
+        "PMLL11": {
+            "preco": 101.25
+        },
+        "RBRX11": {
+            "preco": 8.03
+        },
+        "HGPO11": {
+            "preco": 153.42
+        },
+        "HGCR11": {
+            "preco": 93.94
+        },
+        "VCRR11": {
+            "preco": 56.32
+        },
+        "HGRU11": {
+            "preco": 126.41
+        },
+        "PSEC11": {
+            "preco": 55.52
+        },
+        "TOPP11": {
+            "preco": 69.37
+        },
+        "PEMA11": {
+            "preco": 25.0
+        },
+        "PMRL11": {
+            "preco": 108.91
+        },
+        "PRSN11": {
+            "preco": 6.01
+        },
+        "PORD11": {
+            "preco": 8.44
+        },
+        "PLRI11": {
+            "preco": 7.95
+        },
+        "PRSV11": {
+            "preco": 33.84
+        },
+        "TSER11": {
+            "preco": 108.0
+        },
+        "FPAB11": {
+            "preco": 201.0
+        },
+        "RZZV11": {
+            "preco": 1050.0
+        },
+        "RZZI11": {
+            "preco": 1050.0
+        },
+        "RZZR11": {
+            "preco": 129.0
+        },
+        "RBDS11": {
+            "preco": 1.61
+        },
+        "RSPD11": {
+            "preco": 700.0
+        },
+        "RBIR11": {
+            "preco": 74.0
+        },
+        "RFOF11": {
+            "preco": 64.49
+        },
+        "RBLG11": {
+            "preco": 17.73
+        },
+        "FIIP11": {
+            "preco": 132.98
+        },
+        "RBRD11": {
+            "preco": 37.1
+        },
+        "REME11": {
+            "preco": 75.78
+        },
+        "RBTS11": {
+            "preco": 285.05
+        },
+        "RDLI11": {
+            "preco": 29.95
+        },
+        "RPRI11": {
+            "preco": 77.87
+        },
+        "RINV11": {
+            "preco": 104.03
+        },
+        "RCRI11": {
+            "preco": 99.2
+        },
+        "RECD11": {
+            "preco": 6.29
+        },
+        "RMBS11": {
+            "preco": 8.04
+        },
+        "RECM11": {
+            "preco": 7.58
+        },
+        "RBHG11": {
+            "preco": 61.7
+        },
+        "RBHY11": {
+            "preco": 71.11
+        },
+        "RBFY11": {
+            "preco": 72.0
+        },
+        "RBFM11": {
+            "preco": 10.43
+        },
+        "RBOP11": {
+            "preco": 230.0
+        },
+        "RCRB11": {
+            "preco": 137.46
+        },
+        "RBRS11": {
+            "preco": 44.04
+        },
+        "RBVA11": {
+            "preco": 9.15
+        },
+        "RNGO11": {
+            "preco": 52.92
+        },
+        "RZAK11": {
+            "preco": 80.3
+        },
+        "RZAT11": {
+            "preco": 92.65
+        },
+        "RZLC11": {
+            "preco": 1007.41
+        },
+        "RJDA11": {
+            "preco": 115.0
+        },
+        "SAPI11": {
+            "preco": 9.07
+        },
+        "SCPF11": {
+            "preco": 3.4
+        },
+        "SEQR11": {
+            "preco": 53.27
+        },
+        "SHPH11": {
+            "preco": 945.53
+        },
+        "SHPP11": {
+            "preco": 10.88
+        },
+        "WPLZ11": {
+            "preco": 49.79
+        },
+        "REIT11": {
+            "preco": 80.01
+        },
+        "SJAU11": {
+            "preco": 1.99
+        },
+        "SOLR11": {
+            "preco": 1051.35
+        },
+        "SPTW11": {
+            "preco": 36.85
+        },
+        "LTMT11": {
+            "preco": 93.78
+        },
+        "DVLP11": {
+            "preco": 150.29
+        },
+        "DVLT11": {
+            "preco": 103.41
+        },
+        "PMFO11": {
+            "preco": 86.5
+        },
+        "SPGM11": {
+            "preco": 13.36
+        },
+        "SPG211": {
+            "preco": 11.94
+        },
+        "SPXS11": {
+            "preco": 7.93
+        },
+        "STYI11": {
+            "preco": 1249.99
+        },
+        "SNEL11": {
+            "preco": 8.36
+        },
+        "SNFF11": {
+            "preco": 72.4
+        },
+        "SNME11": {
+            "preco": 9.3
+        },
+        "SNCI11": {
+            "preco": 85.81
+        },
+        "SPMO11": {
+            "preco": 120.0
+        },
+        "TELM11": {
+            "preco": 10.3
+        },
+        "TEPP11": {
+            "preco": 7.87
+        },
+        "TRBL11": {
+            "preco": 61.4
+        },
+        "NAUI11": {
+            "preco": 1000.0
+        },
+        "TRPL11": {
+            "preco": 1.1
+        },
+        "TVRI11": {
+            "preco": 91.6
+        },
+        "VOTS11": {
+            "preco": 84.12
+        },
+        "TJKB11": {
+            "preco": 250.5
+        },
+        "TORD11": {
+            "preco": 1.15
+        },
+        "TSNC11": {
+            "preco": 58.9
+        },
+        "TRXY11": {
+            "preco": 7.77
+        },
+        "TRXF11": {
+            "preco": 91.43
+        },
+        "TRXB11": {
+            "preco": 188.0
+        },
+        "MGHT11": {
+            "preco": 12.04
+        },
+        "URHF11": {
+            "preco": 58.67
+        },
+        "URPR11": {
+            "preco": 19.28
+        },
+        "VVCO11": {
+            "preco": 9.87
+        },
+        "VVMR11": {
+            "preco": 83.0
+        },
+        "VPPR11": {
+            "preco": 20.39
+        },
+        "VVCR11": {
+            "preco": 8.04
+        },
+        "VVRI11": {
+            "preco": 9.0
+        },
+        "VGIR11": {
+            "preco": 9.68
+        },
+        "VGIP11": {
+            "preco": 79.6
+        },
+        "VGII11": {
+            "preco": 72.67
+        },
+        "VGHF11": {
+            "preco": 5.92
+        },
+        "VGRI11": {
+            "preco": 5.52
+        },
+        "BLMO11": {
+            "preco": 88.87
+        },
+        "VCJR11": {
+            "preco": 72.9
+        },
+        "VSLH11": {
+            "preco": 1.79
+        },
+        "FVPQ11": {
+            "preco": 55.28
+        },
+        "VCRI11": {
+            "preco": 7.19
+        },
+        "VIUR11": {
+            "preco": 2.28
+        },
+        "VILG11": {
+            "preco": 94.24
+        },
+        "VINO11": {
+            "preco": 4.7
+        },
+        "VISC11": {
+            "preco": 106.21
+        },
+        "SPDE11": {
+            "preco": 1266.67
+        },
+        "WHGR11": {
+            "preco": 9.08
+        },
+        "XLPR11": {
+            "preco": 69.0
+        },
+        "XPCM11": {
+            "preco": 8.16
+        },
+        "XPCI11": {
+            "preco": 83.96
+        },
+        "XPLG11": {
+            "preco": 91.28
+        },
+        "XPML11": {
+            "preco": 106.87
+        },
+        "XPSF11": {
+            "preco": 6.2
+        },
+        "YUFI11": {
+            "preco": 15.0
+        },
+        "ZAGH11": {
+            "preco": 8.98
+        },
+        "GGRC11": {
+            "preco": 9.92
+        },
+        "ZAVC11": {
+            "preco": 9.2
+        },
+        "ZAVI11": {
+            "preco": 9.72
+        },
+        "ZIFI11": {
+            "preco": 899.89
+        }
+    },
+    "falhas": [
+        {
+            "ticker": "ATWN11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "MTOF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "AZPE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "AZSG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CEBB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BZEL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BPDR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BPLC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BPMW11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BINR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BGRJ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BRSE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RTEL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BRCT11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BRCD11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "MCMV11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BETW11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BTHR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KONG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CVFL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CDHY11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CFII11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CFHF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CLSM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CIXM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CSMC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "CVPR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "DLMT11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FTRR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FTRE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "OPTM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FLNR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "HLMB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BRHT11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BRCQ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "IDUA11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FINF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VTPA11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "ESTQ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RZRM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SOFF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPVJ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FIIC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TCIN11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "ATCR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "HCTB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "STRY11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VGRH11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "HIRE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "IVCI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "INHF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "ICDI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "ILOG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "JCDB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "JCDA11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "JFLR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "JCSC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "JTPR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BGS111",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KRES11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KNGR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KGUJ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KLOG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KDLG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KOIM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KNPL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KPMR11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KPRP11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SLDZ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "LSII11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "LOFT11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "MGRI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "MOSO11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "MOFF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "EAGL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "NVIF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "PNLM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VTVI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "PATB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RBRK11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "PCAS11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "PBLV11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "QTZD11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "DRIM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "MTES11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RDCI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SHIP11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BOAT11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TPOS11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TINF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FRRE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FISD11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPAF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPXM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPXL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPXG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPXT11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "STRX11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SURE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SNLG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TELD11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TVOI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TIOM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TCPF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VVDI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VGRM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VLJS11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VNSS11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SALI11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VCTH11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VGRD11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VIDS11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VDSV11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VIMO11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VIOL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        }
+    ]
+}

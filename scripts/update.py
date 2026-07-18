@@ -1,36 +1,22 @@
-import requests
 import base64
 import json
 from datetime import datetime
 from io import StringIO
-from pathlib import Path
 
+from numpy import rint
 import pandas as pd
+import requests
 
-
-# Endpoint B3 - Fundos Imobiliários
-URL_B3 = (
-    "https://sistemaswebb3-listados.b3.com.br/"
-    "fundsListedProxy/Search/GetDownload/"
-    "eyJsYW5ndWFnZSI6InB0LWJyIiwidHlwZUZ1bmQiOiJGSUkifQ=="
-)
-
-
-PASTA_SAIDA = Path("docs")
-PASTA_SAIDA.mkdir(exist_ok=True)
+import config
+import logger
 
 
 def baixar_b3():
 
-    headers = {
-        "User-Agent": "Mozilla/5.0",
-        "Accept": "*/*",
-        "Referer": "https://www.b3.com.br/"
-    }
-
     resposta = requests.get(
-        URL_B3,
-        headers=headers
+        config.URL_B3,
+        headers=config.HEADERS,
+        timeout=30
     )
 
     resposta.raise_for_status()
@@ -38,187 +24,145 @@ def baixar_b3():
     return resposta.text
 
 
+def ler_csv(texto_base64):
 
-def ler_csv_b3(texto_base64):
+    dados = base64.b64decode(texto_base64)
 
-    dados = base64.b64decode(
-        texto_base64
-    )
+    texto = dados.decode("latin1").lstrip()
 
-    texto_csv = dados.decode(
-        "latin1"
-    )
-
-
-    # Remove possíveis caracteres estranhos no início
-    texto_csv = texto_csv.lstrip()
-
-
-    linhas = texto_csv.splitlines()
-
-
-    # Remove linhas vazias
     linhas = [
-        linha for linha in linhas
+        linha
+        for linha in texto.splitlines()
         if linha.strip()
     ]
 
+    texto = "\n".join(linhas)
 
-    texto_csv = "\n".join(linhas)
-
+# A B3 gera um ';' extra ao final de cada linha do CSV.
+# Removemos esse caractere para evitar que versões mais novas
+# do pandas interpretem a primeira coluna como índice.
+    texto = "\n".join(
+    linha.rstrip(";")
+    for linha in linhas
+    )
+    
 
     df = pd.read_csv(
-        StringIO(texto_csv),
-        sep=";",
-        header=0,
-        index_col=False,
-        engine="python"
-    )
+    StringIO(texto),
+    sep=";",
+    engine="python"
+)
 
+    print(df.head())
 
-    # Caso venha uma coluna vazia extra
+    print(df.columns.tolist())
+
+    print(df.iloc[0].tolist())
+
     df = df.iloc[:, :3]
 
+    df.columns = [c.strip() for c in df.columns]
 
     return df
 
 
-def gerar_json(df):
+def preparar(df):
 
-    # Remove espaços dos nomes das colunas
-    df.columns = [
-        c.strip()
-        for c in df.columns
-    ]
-
-    
-    # Corrige nomes vindos da B3
-    df.rename(
+    df = df.rename(
         columns={
             "Razão Social": "razao_social",
             "Fundo": "nome",
             "Código": "codigo"
-        },
-        inplace=True
-    )
-  
-
-
-    # Remove linhas sem código
-    df = df.dropna(
-        subset=["codigo"]
+        }
     )
 
+    df = df.reset_index(drop=True)
+
+    df["codigo"] = df["codigo"].astype(str).str.strip()
+
+    df["ticker"] = df["codigo"] + "11"
+
+    return df
+
+
+def gerar(df):
 
     lista = []
 
-
     for _, linha in df.iterrows():
 
-        codigo = str(linha["codigo"]).strip()
         lista.append(
-    {
-        "codigo": codigo,
-        "ticker": codigo + "11",
-        "nome": str(linha["nome"]).strip(),
-        "razao_social": str(linha["razao_social"]).strip()
-    }
-)
+            {
+                "codigo": linha["codigo"],
+                "ticker": linha["ticker"],
+                "nome": linha["nome"].strip(),
+                "razao_social": linha["razao_social"].strip()
+            }
+        )
 
-    lista.sort(key=lambda x: x["codigo"])
     return lista
 
 
-
-def salvar_json(lista):
+def salvar(lista):
 
     resultado = {
 
-        "atualizado":
-            datetime.now()
-            .strftime(
-                "%Y-%m-%d %H:%M:%S"
-            ),
+        "versao": config.VERSAO,
 
-        "quantidade":
-            len(lista),
+        "gerado_em": datetime.utcnow().strftime(
+            "%Y-%m-%dT%H:%M:%SZ"
+        ),
 
-        "fiis":
-            lista
+        "origem": config.ORIGEM,
+
+        "quantidade": len(lista),
+
+        "dados": lista
     }
 
-
-    arquivo = (
-        PASTA_SAIDA /
-        "fiis.json"
-    )
-
-
     with open(
-        arquivo,
+        config.FIIS_JSON,
         "w",
         encoding="utf-8"
-    ) as f:
+    ) as arquivo:
 
         json.dump(
             resultado,
-            f,
+            arquivo,
             indent=4,
             ensure_ascii=False
         )
 
 
-    print(
-        "Arquivo criado:",
-        arquivo
-    )
+def atualizar():
 
-    print(
-        "Quantidade de FIIs:",
-        len(lista)
-    )
+    logger.linha()
 
+    logger.info("Baixando lista de FIIs da B3...")
 
+    texto = baixar_b3()
 
-# ==========================
-# EXECUÇÃO
-# ==========================
+    logger.info("Lendo CSV...")
 
-try:
+    df = ler_csv(texto)
 
-    print("Baixando dados da B3...")
+    logger.info(f"Registros encontrados: {len(df)}")
 
-    dados = baixar_b3()
+    df = preparar(df)
 
+    lista = gerar(df)
 
-    print("Lendo CSV...")
+    salvar(lista)
 
-    df = ler_csv_b3(
-        dados
-    )
+    logger.linha()
 
+    logger.info(f"FIIs salvos: {len(lista)}")
 
-    print("Colunas:")
-    print(
-        df.columns.tolist()
-    )
+    logger.info(f"Arquivo: {config.FIIS_JSON}")
+
+    logger.linha()
 
 
-    fiis = gerar_json(
-        df
-    )
+if __name__ == "__main__":
 
-
-    salvar_json(
-        fiis
-    )
-
-
-except Exception as erro:
-
-    print(
-        "ERRO:",
-        erro
-    )
-
-    raise
+    atualizar()

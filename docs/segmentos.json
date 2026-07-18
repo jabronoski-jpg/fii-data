@@ -1,0 +1,47 @@
+{
+    "versao": 1,
+    "gerado_em": "2026-07-18T11:13:28Z",
+    "quantidade": 10,
+    "classificacao": {
+        "MXRF11": {
+            "tipo": "papel",
+            "segmento": "cri"
+        },
+        "AFHI11": {
+            "tipo": "papel",
+            "segmento": "cri"
+        },
+        "KNCR11": {
+            "tipo": "papel",
+            "segmento": "cri"
+        },
+        "RBRR11": {
+            "tipo": "papel",
+            "segmento": "cri"
+        },
+        "HGLG11": {
+            "tipo": "tijolo",
+            "segmento": "logistica"
+        },
+        "XPLG11": {
+            "tipo": "tijolo",
+            "segmento": "logistica"
+        },
+        "BTLG11": {
+            "tipo": "tijolo",
+            "segmento": "logistica"
+        },
+        "XPML11": {
+            "tipo": "tijolo",
+            "segmento": "shopping"
+        },
+        "VISC11": {
+            "tipo": "tijolo",
+            "segmento": "shopping"
+        },
+        "HGRU11": {
+            "tipo": "tijolo",
+            "segmento": "renda_urbana"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-18T10:20:45Z",
+    "gerado_em": "2026-07-18T11:59:19Z",
     "origem": "B3",
-    "quantidade": 523,
+    "quantidade": 522,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1941,12 +1941,6 @@
             "ticker": "LOFT11",
             "nome": "FII LOFT I",
             "razao_social": "LOFT I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "MAGM",
-            "ticker": "MAGM11",
-            "nome": "FII MAGM",
-            "razao_social": "MAG MULT FII RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "MAGM",

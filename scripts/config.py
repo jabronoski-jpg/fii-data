@@ -19,6 +19,8 @@ LOGS.mkdir(exist_ok=True)
 FIIS_JSON = DOCS / "fiis.json"
 COTACOES_JSON = DOCS / "cotacoes.json"
 VERSION_JSON = DOCS / "version.json"
+SEGMENTOS_JSON = DOCS / "segmentos.json"
+DIVIDENDOS_JSON = DOCS / "dividendos.json"
 
 FALHAS_TXT = LOGS / "falhas.txt"
 

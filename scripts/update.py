@@ -1,6 +1,6 @@
 import base64
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from io import StringIO
 
 from numpy import rint
@@ -91,14 +91,44 @@ def gerar(df):
 
     for _, linha in df.iterrows():
 
+        #lista.append(
+        #    {
+        #        "codigo": linha["codigo"],
+        #        "ticker": linha["ticker"],
+        #        "nome": linha["nome"].strip(),
+        #        "razao_social": linha["razao_social"].strip()
+        #    }
+        #)
         lista.append(
             {
-                "codigo": linha["codigo"],
-                "ticker": linha["ticker"],
-                "nome": linha["nome"].strip(),
-                "razao_social": linha["razao_social"].strip()
+                "codigo": str(
+                    linha["codigo"]
+                ).strip(),
+
+                "ticker": str(
+                    linha["ticker"]
+                ).strip(),
+
+                "nome": str(
+                    linha["nome"]
+                ).strip(),
+
+                "razao_social": str(
+                    linha["razao_social"]
+                ).strip()
             }
         )
+
+        # Remove duplicados pelo ticker
+    unicos = {}
+
+    for item in lista:
+        unicos[item["ticker"]] = item
+
+    lista = list(
+        unicos.values()
+    )
+
 
     return lista
 
@@ -109,7 +139,7 @@ def salvar(lista):
 
         "versao": config.VERSAO,
 
-        "gerado_em": datetime.utcnow().strftime(
+        "gerado_em": datetime.now(timezone.utc).strftime(
             "%Y-%m-%dT%H:%M:%SZ"
         ),
 

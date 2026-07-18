@@ -4,7 +4,6 @@ import config
 import logger
 
 
-
 def carregar_json(arquivo):
 
     with open(
@@ -19,11 +18,13 @@ def carregar_json(arquivo):
 
 def validar_duplicados(lista):
 
-    return [
+    duplicados = [
         item
         for item in set(lista)
         if lista.count(item) > 1
     ]
+
+    return duplicados
 
 
 
@@ -48,9 +49,11 @@ def validar_cotacoes(tickers_b3):
         config.COTACOES_JSON
     )
 
+    cotacoes = dados["dados"]
+
     erros = []
 
-    for ticker in dados["dados"]:
+    for ticker in cotacoes:
 
         if ticker not in tickers_b3:
 
@@ -59,7 +62,7 @@ def validar_cotacoes(tickers_b3):
             )
 
     return (
-        len(dados["dados"]),
+        len(cotacoes),
         erros
     )
 
@@ -71,9 +74,11 @@ def validar_segmentos(tickers_b3):
         config.SEGMENTOS_JSON
     )
 
+    classificacao = dados["classificacao"]
+
     erros = []
 
-    for ticker in dados["classificacao"]:
+    for ticker in classificacao:
 
         if ticker not in tickers_b3:
 
@@ -82,43 +87,7 @@ def validar_segmentos(tickers_b3):
             )
 
     return (
-        len(dados["classificacao"]),
-        erros
-    )
-
-
-
-def validar_dividendos(tickers_b3):
-
-    dados = carregar_json(
-        config.DIVIDENDOS_JSON
-    )
-
-    dividendos = dados["dados"]
-
-    erros = []
-
-    com_dividendos = 0
-
-
-    for ticker, historico in dividendos.items():
-
-
-        if ticker not in tickers_b3:
-
-            erros.append(
-                ticker
-            )
-
-
-        if len(historico) > 0:
-
-            com_dividendos += 1
-
-
-
-    return (
-        com_dividendos,
+        len(classificacao),
         erros
     )
 
@@ -151,11 +120,6 @@ def executar():
     )
 
 
-    dividendos, erros_dividendos = validar_dividendos(
-        tickers
-    )
-
-
     print()
 
     print(
@@ -172,10 +136,6 @@ def executar():
 
     print(
         f"Classificados: {segmentos}"
-    )
-
-    print(
-        f"Com dividendos: {dividendos}"
     )
 
 
@@ -223,19 +183,7 @@ def executar():
         )
 
 
-
-    if erros_dividendos:
-
-        logger.aviso(
-            f"Dividendos inválidos: {erros_dividendos}"
-        )
-
-    else:
-
-        logger.info(
-            "Dividendos: OK"
-        )
-
+    print()
 
     logger.linha()
 

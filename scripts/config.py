@@ -21,6 +21,7 @@ COTACOES_JSON = DOCS / "cotacoes.json"
 VERSION_JSON = DOCS / "version.json"
 SEGMENTOS_JSON = DOCS / "segmentos.json"
 DIVIDENDOS_JSON = DOCS / "dividendos.json"
+INDICADORES_JSON = DOCS / "indicadores.json"
 
 FALHAS_TXT = LOGS / "falhas.txt"
 

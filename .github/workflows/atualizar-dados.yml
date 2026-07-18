@@ -41,12 +41,14 @@ jobs:
       - name: Commit automático
         run: |
 
-          git config user.name "github-actions"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git config user.email "github-actions@github.com"
+            git add docs/
 
-          git add docs/
-
-          git diff --cached --quiet || git commit -m "Atualização automática da base"
-
-          git push
+            if git diff --cached --quiet; then
+            echo "Nenhuma alteração."
+            else
+            git commit -m "Atualização automática da base"
+            git push origin main
+            fi

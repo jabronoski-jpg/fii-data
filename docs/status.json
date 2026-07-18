@@ -1,6 +1,6 @@
 {
-    "ultima_atualizacao": "2026-07-18T14:27:14Z",
-    "status": "OK",
-    "tempo_segundos": 449.5,
-    "erro": null
+    "ultima_atualizacao": "2026-07-18T14:57:55Z",
+    "status": "ERRO",
+    "tempo_segundos": 1.92,
+    "erro": "Falha em cotacoes.py"
 }

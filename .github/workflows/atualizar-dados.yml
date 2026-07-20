@@ -5,7 +5,8 @@ on:
 
   schedule:
     # Segunda a sexta às 21:30 UTC (18:30 Brasília quando UTC-3)
-    - cron: '30 21 * * 1-5'
+    #- cron: '30 21 * * 1-5'
+    - cron: '*/15 * * * *'
 
 jobs:
   atualizar:

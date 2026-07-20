@@ -8,7 +8,8 @@ on:
 
     # Segunda a sexta às 21:30 UTC
     # 18:30 horário de Brasília
-    - cron: '30 21 * * 1-5'
+    #- cron: '30 21 * * 1-5'
+    - cron: '*/15 * * * *'
 
 jobs:
 

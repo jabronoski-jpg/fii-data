@@ -1,10 +1,10 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-22T07:43:31Z",
+    "gerado_em": "2026-07-22T13:11:03Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 522,
-        "com_dividendos": 366
+        "com_dividendos": 365
     },
     "dados": {
         "ADSH11": [
@@ -9717,16 +9717,6 @@
             {
                 "data": "2026-07-20",
                 "valor": 0.100695
-            }
-        ],
-        "ERCR11": [
-            {
-                "data": "2026-06-18",
-                "valor": 366.55505
-            },
-            {
-                "data": "2026-07-20",
-                "valor": 199.66795
             }
         ],
         "ERPA11": [

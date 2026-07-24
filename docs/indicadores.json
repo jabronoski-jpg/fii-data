@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-24T00:12:51Z",
+    "gerado_em": "2026-07-24T09:14:37Z",
     "origem": "Calculado",
     "quantidade": 408,
     "dados": {
@@ -453,7 +453,7 @@
             "dy_12m": 10.49
         },
         "CPLG11": {
-            "preco": 10.95,
+            "preco": 10.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -1061,7 +1061,7 @@
             "dy_12m": 10.14
         },
         "HUCG11": {
-            "preco": 99.99,
+            "preco": 100.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.75,
@@ -1557,7 +1557,7 @@
             "dy_12m": 0
         },
         "HRDF11": {
-            "preco": 4.18,
+            "preco": 4.1,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -3029,12 +3029,12 @@
             "dy_12m": 13.73
         },
         "VVRI11": {
-            "preco": 9.0,
+            "preco": 8.82,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.016,
             "dividendos_12m": 0.546241,
-            "dy_12m": 6.07
+            "dy_12m": 6.19
         },
         "VGIR11": {
             "preco": 9.47,

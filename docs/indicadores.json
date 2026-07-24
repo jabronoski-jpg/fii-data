@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-24T09:14:37Z",
+    "gerado_em": "2026-07-24T15:17:23Z",
     "origem": "Calculado",
     "quantidade": 408,
     "dados": {
@@ -21,36 +21,36 @@
             "dy_12m": 12.77
         },
         "AFHF11": {
-            "preco": 10.0,
+            "preco": 10.02,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.22,
             "dividendos_12m": 1.615,
-            "dy_12m": 16.15
+            "dy_12m": 16.12
         },
         "AJFI11": {
-            "preco": 8.22,
+            "preco": 8.13,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.055,
             "dividendos_12m": 0.605,
-            "dy_12m": 7.36
+            "dy_12m": 7.44
         },
         "ALZC11": {
-            "preco": 7.32,
+            "preco": 7.33,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.12,
             "dividendos_12m": 1.222,
-            "dy_12m": 16.69
+            "dy_12m": 16.67
         },
         "ALZR11": {
-            "preco": 9.94,
+            "preco": 9.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.08355,
             "dividendos_12m": 1.001693,
-            "dy_12m": 10.08
+            "dy_12m": 10.03
         },
         "AURB11": {
             "preco": 81.2,
@@ -61,12 +61,12 @@
             "dy_12m": 6.94
         },
         "APXM11": {
-            "preco": 66.28,
+            "preco": 66.17,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.37131,
             "dividendos_12m": 4.699678,
-            "dy_12m": 7.09
+            "dy_12m": 7.1
         },
         "APXU11": {
             "preco": 100.0,
@@ -77,12 +77,12 @@
             "dy_12m": 0
         },
         "AIEC11": {
-            "preco": 59.32,
+            "preco": 59.04,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.38,
             "dividendos_12m": 4.12,
-            "dy_12m": 6.95
+            "dy_12m": 6.98
         },
         "AVUR11": {
             "preco": 96.46,
@@ -109,36 +109,36 @@
             "dy_12m": 14.82
         },
         "ARTE11": {
-            "preco": 7.48,
+            "preco": 7.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.12,
             "dividendos_12m": 0.48,
-            "dy_12m": 6.42
+            "dy_12m": 6.66
         },
         "ARXD11": {
-            "preco": 7.92,
+            "preco": 7.97,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
             "dividendos_12m": 1.11,
-            "dy_12m": 14.02
+            "dy_12m": 13.93
         },
         "AZPL11": {
-            "preco": 7.36,
+            "preco": 7.37,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.085,
             "dividendos_12m": 0.93,
-            "dy_12m": 12.64
+            "dy_12m": 12.62
         },
         "BCRI11": {
-            "preco": 59.65,
+            "preco": 59.88,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.79,
             "dividendos_12m": 9.72,
-            "dy_12m": 16.3
+            "dy_12m": 16.23
         },
         "BNFS11": {
             "preco": 39.3,
@@ -157,28 +157,28 @@
             "dy_12m": 11.65
         },
         "BBFO11": {
-            "preco": 69.39,
+            "preco": 69.3,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
             "dividendos_12m": 9.84,
-            "dy_12m": 14.18
+            "dy_12m": 14.2
         },
         "BBIG11": {
-            "preco": 5.43,
+            "preco": 5.3,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.02,
             "dividendos_12m": 0.87,
-            "dy_12m": 16.02
+            "dy_12m": 16.42
         },
         "BBRC11": {
-            "preco": 104.0,
+            "preco": 104.9,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 2.15,
             "dividendos_12m": 14.75,
-            "dy_12m": 14.18
+            "dy_12m": 14.06
         },
         "BFCC11": {
             "preco": 104.2,
@@ -205,28 +205,28 @@
             "dy_12m": 7.31
         },
         "BLMG11": {
-            "preco": 30.87,
+            "preco": 31.32,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.39,
             "dividendos_12m": 4.6259,
-            "dy_12m": 14.99
+            "dy_12m": 14.77
         },
         "BMLC11": {
-            "preco": 99.0,
+            "preco": 99.19,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.75,
             "dividendos_12m": 8.59,
-            "dy_12m": 8.68
+            "dy_12m": 8.66
         },
         "BCIA11": {
-            "preco": 89.34,
+            "preco": 88.94,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.97,
             "dividendos_12m": 10.37,
-            "dy_12m": 11.61
+            "dy_12m": 11.66
         },
         "BVAR11": {
             "preco": 1144.33,
@@ -237,7 +237,7 @@
             "dy_12m": 12.68
         },
         "CARE11": {
-            "preco": 2.61,
+            "preco": 2.65,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -245,7 +245,7 @@
             "dy_12m": 0
         },
         "FATN11": {
-            "preco": 79.59,
+            "preco": 79.61,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.8,
@@ -253,12 +253,12 @@
             "dy_12m": 12.06
         },
         "BRCO11": {
-            "preco": 112.8,
+            "preco": 112.56,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.05,
             "dividendos_12m": 10.88,
-            "dy_12m": 9.65
+            "dy_12m": 9.67
         },
         "BICE11": {
             "preco": 540.0,
@@ -269,12 +269,12 @@
             "dy_12m": 68.44
         },
         "BIME11": {
-            "preco": 4.6,
+            "preco": 4.65,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.06,
             "dividendos_12m": 0.84,
-            "dy_12m": 18.26
+            "dy_12m": 18.06
         },
         "BRIM11": {
             "preco": 95.0,
@@ -309,12 +309,12 @@
             "dy_12m": 0
         },
         "BROF11": {
-            "preco": 60.03,
+            "preco": 60.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.57,
             "dividendos_12m": 6.35,
-            "dy_12m": 10.58
+            "dy_12m": 10.46
         },
         "LLAO11": {
             "preco": 57.2,
@@ -325,47 +325,47 @@
             "dy_12m": 76.37
         },
         "BTHI11": {
-            "preco": 43.43,
+            "preco": 43.96,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
             "dividendos_12m": 4.790732,
-            "dy_12m": 11.03
+            "dy_12m": 10.9
         },
         "BRCR11": {
-            "preco": 40.28,
+            "preco": 40.17,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.41,
             "dividendos_12m": 4.92,
-            "dy_12m": 12.21
+            "dy_12m": 12.25
         },
         "BTCI11": {
-            "preco": 9.1,
+            "preco": 9.04,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.105,
             "dividendos_12m": 1.172,
-            "dy_12m": 12.88
+            "dy_12m": 12.96
         },
         "BTLG11": {
-            "preco": 100.84,
+            "preco": 100.94,
             "tipo": "tijolo",
             "segmento": "logistica",
             "ultimo_dividendo": 0.81,
             "dividendos_12m": 9.553296,
-            "dy_12m": 9.47
+            "dy_12m": 9.46
         },
         "BTHF11": {
-            "preco": 8.88,
+            "preco": 8.93,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.101,
             "dividendos_12m": 1.17199,
-            "dy_12m": 13.2
+            "dy_12m": 13.12
         },
         "HSRE11": {
-            "preco": 86.29,
+            "preco": 86.24,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
@@ -373,20 +373,20 @@
             "dy_12m": 12.23
         },
         "BPML11": {
-            "preco": 84.9,
+            "preco": 84.62,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.92,
             "dividendos_12m": 11.04,
-            "dy_12m": 13.0
+            "dy_12m": 13.05
         },
         "BTYU11": {
-            "preco": 7.32,
+            "preco": 7.17,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.074753,
             "dividendos_12m": 1.129053,
-            "dy_12m": 15.42
+            "dy_12m": 15.75
         },
         "BTWR11": {
             "preco": 90.0,
@@ -413,12 +413,12 @@
             "dy_12m": 12.56
         },
         "CRFF11": {
-            "preco": 64.62,
+            "preco": 65.89,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.65,
             "dividendos_12m": 7.56,
-            "dy_12m": 11.7
+            "dy_12m": 11.47
         },
         "CXRI11": {
             "preco": 64.89,
@@ -429,12 +429,12 @@
             "dy_12m": 11.28
         },
         "CCME11": {
-            "preco": 8.8,
+            "preco": 8.86,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.094,
             "dividendos_12m": 1.028,
-            "dy_12m": 11.68
+            "dy_12m": 11.6
         },
         "CCVA11": {
             "preco": 100.07,
@@ -445,12 +445,12 @@
             "dy_12m": 6.98
         },
         "CPUR11": {
-            "preco": 10.6,
+            "preco": 10.78,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.112,
-            "dy_12m": 10.49
+            "dy_12m": 10.32
         },
         "CPLG11": {
             "preco": 10.99,
@@ -477,52 +477,52 @@
             "dy_12m": 14.32
         },
         "CPSH11": {
-            "preco": 9.59,
+            "preco": 9.58,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
             "dividendos_12m": 1.34,
-            "dy_12m": 13.97
+            "dy_12m": 13.99
         },
         "CACR11": {
-            "preco": 15.67,
+            "preco": 15.76,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.23,
             "dividendos_12m": 14.77,
-            "dy_12m": 94.26
+            "dy_12m": 93.72
         },
         "CBOP11": {
-            "preco": 30.0,
+            "preco": 30.93,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.16,
             "dividendos_12m": 1.96,
-            "dy_12m": 6.53
+            "dy_12m": 6.34
         },
         "BLCA11": {
-            "preco": 87.28,
+            "preco": 85.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.55,
             "dividendos_12m": 6.55,
-            "dy_12m": 7.5
+            "dy_12m": 7.64
         },
         "CNES11": {
-            "preco": 1.43,
+            "preco": 1.42,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.007439,
             "dividendos_12m": 0.102303,
-            "dy_12m": 7.15
+            "dy_12m": 7.2
         },
         "CTXT11": {
-            "preco": 4.61,
+            "preco": 4.69,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.474837,
             "dividendos_12m": 0.949674,
-            "dy_12m": 20.6
+            "dy_12m": 20.25
         },
         "CENU11": {
             "preco": 100.0,
@@ -565,36 +565,36 @@
             "dy_12m": 17.36
         },
         "CLIN11": {
-            "preco": 89.0,
+            "preco": 88.65,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.32,
             "dividendos_12m": 12.06,
-            "dy_12m": 13.55
+            "dy_12m": 13.6
         },
         "RENV11": {
-            "preco": 5.76,
+            "preco": 5.87,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.08,
             "dividendos_12m": 0.875,
-            "dy_12m": 15.19
+            "dy_12m": 14.91
         },
         "IBCR11": {
-            "preco": 44.76,
+            "preco": 44.45,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 7.81,
-            "dy_12m": 17.45
+            "dy_12m": 17.57
         },
         "CYCR11": {
-            "preco": 8.64,
+            "preco": 8.61,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.106,
             "dividendos_12m": 1.272,
-            "dy_12m": 14.72
+            "dy_12m": 14.77
         },
         "CYLD11": {
             "preco": 81.0,
@@ -605,20 +605,20 @@
             "dy_12m": 75.59
         },
         "DAMA11": {
-            "preco": 5.82,
+            "preco": 5.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.056251,
             "dividendos_12m": 0.89884,
-            "dy_12m": 15.44
+            "dy_12m": 15.01
         },
         "DAYM11": {
-            "preco": 3.95,
+            "preco": 3.91,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.037,
             "dividendos_12m": 0.427,
-            "dy_12m": 10.81
+            "dy_12m": 10.92
         },
         "ASRF11": {
             "preco": 10974.0,
@@ -637,15 +637,15 @@
             "dy_12m": 13.21
         },
         "DEVA11": {
-            "preco": 18.0,
+            "preco": 18.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.34,
             "dividendos_12m": 4.02,
-            "dy_12m": 22.33
+            "dy_12m": 22.09
         },
         "DAMT11": {
-            "preco": 14.01,
+            "preco": 14.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.582451,
@@ -685,12 +685,12 @@
             "dy_12m": 0
         },
         "EQIR11": {
-            "preco": 8.3,
+            "preco": 8.33,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.100695,
             "dividendos_12m": 1.200695,
-            "dy_12m": 14.47
+            "dy_12m": 14.41
         },
         "ERCR11": {
             "preco": 5008.34,
@@ -717,28 +717,28 @@
             "dy_12m": 117.66
         },
         "EXES11": {
-            "preco": 9.53,
+            "preco": 9.5,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.13,
             "dividendos_12m": 1.56,
-            "dy_12m": 16.37
+            "dy_12m": 16.42
         },
         "FLCR11": {
-            "preco": 94.19,
+            "preco": 94.96,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.15,
             "dividendos_12m": 13.1,
-            "dy_12m": 13.91
+            "dy_12m": 13.8
         },
         "VRTA11": {
-            "preco": 72.45,
+            "preco": 73.08,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
             "dividendos_12m": 10.2,
-            "dy_12m": 14.08
+            "dy_12m": 13.96
         },
         "VRTM11": {
             "preco": 6.91,
@@ -749,7 +749,7 @@
             "dy_12m": 15.63
         },
         "FLMA11": {
-            "preco": 149.89,
+            "preco": 149.88,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.38,
@@ -797,12 +797,12 @@
             "dy_12m": 51.82
         },
         "FIIB11": {
-            "preco": 437.35,
+            "preco": 438.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.94,
             "dividendos_12m": 38.52,
-            "dy_12m": 8.81
+            "dy_12m": 8.79
         },
         "FMOF11": {
             "preco": 35.06,
@@ -821,20 +821,20 @@
             "dy_12m": 6.61
         },
         "KFOF11": {
-            "preco": 78.15,
+            "preco": 77.92,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.8,
             "dividendos_12m": 9.55,
-            "dy_12m": 12.22
+            "dy_12m": 12.26
         },
         "DVFF11": {
-            "preco": 5.15,
+            "preco": 5.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.34,
             "dividendos_12m": 1.06,
-            "dy_12m": 20.58
+            "dy_12m": 20.38
         },
         "ANCR11": {
             "preco": 290.0,
@@ -845,28 +845,28 @@
             "dy_12m": 4.13
         },
         "FAED11": {
-            "preco": 152.78,
+            "preco": 153.85,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.775891,
             "dividendos_12m": 20.430045,
-            "dy_12m": 13.37
+            "dy_12m": 13.28
         },
         "FCFL11": {
-            "preco": 121.8,
+            "preco": 122.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.93,
             "dividendos_12m": 11.021916,
-            "dy_12m": 9.05
+            "dy_12m": 8.96
         },
         "CEOC11": {
-            "preco": 40.25,
+            "preco": 40.4,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.485038,
             "dividendos_12m": 5.570822,
-            "dy_12m": 13.84
+            "dy_12m": 13.79
         },
         "FAMB11": {
             "preco": 701.01,
@@ -877,60 +877,60 @@
             "dy_12m": 189.63
         },
         "EDGA11": {
-            "preco": 13.45,
+            "preco": 13.71,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.04,
             "dividendos_12m": 0.751298,
-            "dy_12m": 5.59
+            "dy_12m": 5.48
         },
         "FYTO11": {
-            "preco": 8.18,
+            "preco": 8.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1021,
             "dividendos_12m": 1.2091,
-            "dy_12m": 14.78
+            "dy_12m": 14.73
         },
         "HCRI11": {
-            "preco": 262.5,
+            "preco": 264.89,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 2.671625,
             "dividendos_12m": 50.970634,
-            "dy_12m": 19.42
+            "dy_12m": 19.24
         },
         "NSLU11": {
-            "preco": 172.07,
+            "preco": 173.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.72,
             "dividendos_12m": 45.773786,
-            "dy_12m": 26.6
+            "dy_12m": 26.31
         },
         "MAXR11": {
-            "preco": 51.9,
+            "preco": 52.75,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.27,
             "dividendos_12m": 3.870368,
-            "dy_12m": 7.46
+            "dy_12m": 7.34
         },
         "PQDP11": {
-            "preco": 2546.98,
+            "preco": 2570.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 17.808134,
             "dividendos_12m": 228.863677,
-            "dy_12m": 8.99
+            "dy_12m": 8.91
         },
         "RBRR11": {
-            "preco": 75.87,
+            "preco": 75.49,
             "tipo": "papel",
             "segmento": "cri",
             "ultimo_dividendo": 0.98,
             "dividendos_12m": 9.93,
-            "dy_12m": 13.09
+            "dy_12m": 13.15
         },
         "RBRI11": {
             "preco": 225.02,
@@ -949,20 +949,20 @@
             "dy_12m": 1.45
         },
         "RECR11": {
-            "preco": 80.04,
+            "preco": 80.32,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0759,
             "dividendos_12m": 10.020569,
-            "dy_12m": 12.52
+            "dy_12m": 12.48
         },
         "RECT11": {
-            "preco": 35.26,
+            "preco": 35.38,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
             "dividendos_12m": 4.898823,
-            "dy_12m": 13.89
+            "dy_12m": 13.85
         },
         "SHDP11": {
             "preco": 1210.05,
@@ -989,28 +989,28 @@
             "dy_12m": 0
         },
         "CXAG11": {
-            "preco": 74.75,
+            "preco": 75.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.72,
             "dividendos_12m": 8.7,
-            "dy_12m": 11.64
+            "dy_12m": 11.57
         },
         "CXCI11": {
-            "preco": 65.0,
+            "preco": 65.11,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.75,
             "dividendos_12m": 9.2,
-            "dy_12m": 14.15
+            "dy_12m": 14.13
         },
         "CXCE11": {
-            "preco": 40.09,
+            "preco": 39.56,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.459937,
             "dividendos_12m": 5.593077,
-            "dy_12m": 13.95
+            "dy_12m": 14.14
         },
         "CXTL11": {
             "preco": 235.0,
@@ -1045,12 +1045,12 @@
             "dy_12m": 10.55
         },
         "GTWR11": {
-            "preco": 80.22,
+            "preco": 80.34,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.9,
             "dividendos_12m": 10.8,
-            "dy_12m": 13.46
+            "dy_12m": 13.44
         },
         "HBCR11": {
             "preco": 152.0,
@@ -1101,20 +1101,20 @@
             "dy_12m": 90.36
         },
         "MCCI11": {
-            "preco": 93.95,
+            "preco": 94.03,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 12.0,
-            "dy_12m": 12.77
+            "dy_12m": 12.76
         },
         "WTSP11": {
-            "preco": 65.0,
+            "preco": 62.5,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.77,
             "dividendos_12m": 5.21,
-            "dy_12m": 8.02
+            "dy_12m": 8.34
         },
         "PABY11": {
             "preco": 28.49,
@@ -1125,20 +1125,20 @@
             "dy_12m": 0
         },
         "RBRY11": {
-            "preco": 87.3,
+            "preco": 87.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 13.725,
-            "dy_12m": 15.72
+            "dy_12m": 15.74
         },
         "RBRP11": {
-            "preco": 45.9,
+            "preco": 45.27,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.4,
             "dividendos_12m": 4.8,
-            "dy_12m": 10.46
+            "dy_12m": 10.6
         },
         "FPNG11": {
             "preco": 465.06,
@@ -1165,20 +1165,20 @@
             "dy_12m": 14.23
         },
         "RELG11": {
-            "preco": 69.0,
+            "preco": 66.25,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.8,
             "dividendos_12m": 8.923533,
-            "dy_12m": 12.93
+            "dy_12m": 13.47
         },
         "RZTR11": {
-            "preco": 86.64,
+            "preco": 86.98,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.9,
             "dividendos_12m": 11.9,
-            "dy_12m": 13.73
+            "dy_12m": 13.68
         },
         "ROOF11": {
             "preco": 274.81,
@@ -1213,20 +1213,20 @@
             "dy_12m": 0
         },
         "SMRE11": {
-            "preco": 55.15,
+            "preco": 55.74,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.004753,
             "dividendos_12m": 12.283098,
-            "dy_12m": 22.27
+            "dy_12m": 22.04
         },
         "TGAR11": {
-            "preco": 50.5,
+            "preco": 50.53,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.72,
             "dividendos_12m": 10.31,
-            "dy_12m": 20.42
+            "dy_12m": 20.4
         },
         "TRCO11": {
             "preco": 10.2,
@@ -1237,7 +1237,7 @@
             "dy_12m": 0.12
         },
         "TRUE11": {
-            "preco": 22.51,
+            "preco": 22.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -1245,20 +1245,20 @@
             "dy_12m": 0
         },
         "LVBI11": {
-            "preco": 103.65,
+            "preco": 104.17,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.75,
             "dividendos_12m": 9.0,
-            "dy_12m": 8.68
+            "dy_12m": 8.64
         },
         "PVBI11": {
-            "preco": 70.49,
+            "preco": 70.52,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.4,
             "dividendos_12m": 5.25,
-            "dy_12m": 7.45
+            "dy_12m": 7.44
         },
         "VERE11": {
             "preco": 445.76,
@@ -1269,7 +1269,7 @@
             "dy_12m": 13.66
         },
         "FIVN11": {
-            "preco": 2.7,
+            "preco": 3.02,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -1277,12 +1277,12 @@
             "dy_12m": 0
         },
         "VSHO11": {
-            "preco": 73.91,
+            "preco": 73.95,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.7,
             "dividendos_12m": 8.16,
-            "dy_12m": 11.04
+            "dy_12m": 11.03
         },
         "BMLT11": {
             "preco": 109.0,
@@ -1293,7 +1293,7 @@
             "dy_12m": 0
         },
         "BSLT11": {
-            "preco": 69.9,
+            "preco": 78.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -1341,12 +1341,12 @@
             "dy_12m": 10.97
         },
         "GCRI11": {
-            "preco": 66.7,
+            "preco": 66.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.98,
             "dividendos_12m": 10.13,
-            "dy_12m": 15.19
+            "dy_12m": 15.3
         },
         "GCOI11": {
             "preco": 72.87,
@@ -1357,23 +1357,23 @@
             "dy_12m": 56.77
         },
         "GZIT11": {
-            "preco": 43.6,
+            "preco": 43.31,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.42,
             "dividendos_12m": 7.56,
-            "dy_12m": 17.34
+            "dy_12m": 17.46
         },
         "FIGS11": {
-            "preco": 50.0,
+            "preco": 49.97,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.5,
             "dividendos_12m": 5.78,
-            "dy_12m": 11.56
+            "dy_12m": 11.57
         },
         "GSFI11": {
-            "preco": 11.39,
+            "preco": 11.22,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -1421,12 +1421,12 @@
             "dy_12m": 0
         },
         "GAME11": {
-            "preco": 8.2,
+            "preco": 8.19,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.17,
-            "dy_12m": 14.27
+            "dy_12m": 14.29
         },
         "GARE11": {
             "preco": 8.18,
@@ -1437,12 +1437,12 @@
             "dy_12m": 12.18
         },
         "HABT11": {
-            "preco": 71.15,
+            "preco": 71.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.97,
             "dividendos_12m": 11.62,
-            "dy_12m": 16.33
+            "dy_12m": 16.32
         },
         "AERO11": {
             "preco": 100.01,
@@ -1453,12 +1453,12 @@
             "dy_12m": 0
         },
         "HCTR11": {
-            "preco": 16.07,
+            "preco": 16.09,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.3,
             "dividendos_12m": 3.45,
-            "dy_12m": 21.47
+            "dy_12m": 21.44
         },
         "HCST11": {
             "preco": 35.1,
@@ -1493,20 +1493,20 @@
             "dy_12m": 6.42
         },
         "HGBL11": {
-            "preco": 8.71,
+            "preco": 8.78,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.072,
             "dividendos_12m": 0.876,
-            "dy_12m": 10.06
+            "dy_12m": 9.98
         },
         "HGBS11": {
-            "preco": 19.08,
+            "preco": 19.1,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.17,
             "dividendos_12m": 1.91,
-            "dy_12m": 10.01
+            "dy_12m": 10.0
         },
         "HDEL11": {
             "preco": 3.31,
@@ -1517,12 +1517,12 @@
             "dy_12m": 4430.51
         },
         "FLRP11": {
-            "preco": 20.26,
+            "preco": 20.37,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.15,
             "dividendos_12m": 1.77,
-            "dy_12m": 8.74
+            "dy_12m": 8.69
         },
         "HJCT11": {
             "preco": 120.0,
@@ -1533,12 +1533,12 @@
             "dy_12m": 7.38
         },
         "HLOG11": {
-            "preco": 9.8,
+            "preco": 9.39,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
             "dividendos_12m": 0.945,
-            "dy_12m": 9.64
+            "dy_12m": 10.06
         },
         "HOFC11": {
             "preco": 34.24,
@@ -1557,7 +1557,7 @@
             "dy_12m": 0
         },
         "HRDF11": {
-            "preco": 4.1,
+            "preco": 4.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -1565,12 +1565,12 @@
             "dy_12m": 0
         },
         "HREC11": {
-            "preco": 8.27,
+            "preco": 8.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.095,
             "dividendos_12m": 1.02,
-            "dy_12m": 12.33
+            "dy_12m": 12.42
         },
         "SEED11": {
             "preco": 100.0,
@@ -1605,12 +1605,12 @@
             "dy_12m": 0
         },
         "HGIC11": {
-            "preco": 52.64,
+            "preco": 53.17,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.67,
             "dividendos_12m": 8.6558,
-            "dy_12m": 16.44
+            "dy_12m": 16.28
         },
         "HILG11": {
             "preco": 186.81,
@@ -1621,15 +1621,15 @@
             "dy_12m": 28.32
         },
         "HTMX11": {
-            "preco": 138.61,
+            "preco": 140.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 2.95,
             "dividendos_12m": 17.19,
-            "dy_12m": 12.4
+            "dy_12m": 12.26
         },
         "HSAF11": {
-            "preco": 77.11,
+            "preco": 77.13,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
@@ -1637,20 +1637,20 @@
             "dy_12m": 14.78
         },
         "HSLG11": {
-            "preco": 91.02,
+            "preco": 90.83,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.74,
             "dividendos_12m": 8.52,
-            "dy_12m": 9.36
+            "dy_12m": 9.38
         },
         "HSML11": {
-            "preco": 85.72,
+            "preco": 85.6,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.75,
             "dividendos_12m": 8.42,
-            "dy_12m": 9.82
+            "dy_12m": 9.84
         },
         "HUSI11": {
             "preco": 1010.0,
@@ -1661,12 +1661,12 @@
             "dy_12m": 10.77
         },
         "GRUL11": {
-            "preco": 8.33,
+            "preco": 8.51,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.08,
             "dividendos_12m": 0.99,
-            "dy_12m": 11.88
+            "dy_12m": 11.63
         },
         "ICNE11": {
             "preco": 687.82,
@@ -1693,7 +1693,7 @@
             "dy_12m": 0
         },
         "INLG11": {
-            "preco": 65.65,
+            "preco": 65.66,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.6,
@@ -1701,7 +1701,7 @@
             "dy_12m": 12.35
         },
         "INRD11": {
-            "preco": 75.9,
+            "preco": 75.91,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.72,
@@ -1709,28 +1709,28 @@
             "dy_12m": 10.66
         },
         "ITIP11": {
-            "preco": 56.87,
+            "preco": 56.65,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.73,
             "dividendos_12m": 8.66,
-            "dy_12m": 15.23
+            "dy_12m": 15.29
         },
         "ITIT11": {
-            "preco": 58.0,
+            "preco": 58.29,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.64,
             "dividendos_12m": 7.44,
-            "dy_12m": 12.83
+            "dy_12m": 12.76
         },
         "IBBP11": {
-            "preco": 7.7,
+            "preco": 7.89,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.0821,
             "dividendos_12m": 0.90973,
-            "dy_12m": 11.81
+            "dy_12m": 11.53
         },
         "XPIN11": {
             "preco": 62.04,
@@ -1741,28 +1741,28 @@
             "dy_12m": 18.66
         },
         "IRIM11": {
-            "preco": 65.22,
+            "preco": 65.5,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.18,
             "dividendos_12m": 10.09,
-            "dy_12m": 15.47
+            "dy_12m": 15.4
         },
         "ICRI11": {
-            "preco": 94.55,
+            "preco": 93.58,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.1,
             "dividendos_12m": 11.95,
-            "dy_12m": 12.64
+            "dy_12m": 12.77
         },
         "TMPS11": {
-            "preco": 74.5,
+            "preco": 74.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.8,
             "dividendos_12m": 22.73,
-            "dy_12m": 30.51
+            "dy_12m": 30.63
         },
         "ITRI11": {
             "preco": 78.1,
@@ -1797,20 +1797,20 @@
             "dy_12m": 26.12
         },
         "JCCJ11": {
-            "preco": 141.5,
+            "preco": 139.68,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.77,
             "dividendos_12m": 15.590863,
-            "dy_12m": 11.02
+            "dy_12m": 11.16
         },
         "JPPA11": {
-            "preco": 82.2,
+            "preco": 82.97,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.52,
             "dividendos_12m": 13.8,
-            "dy_12m": 16.79
+            "dy_12m": 16.63
         },
         "JPRD11": {
             "preco": 100.0,
@@ -1829,44 +1829,44 @@
             "dy_12m": 13.75
         },
         "JSRE11": {
-            "preco": 59.44,
+            "preco": 59.59,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.48,
             "dividendos_12m": 5.76,
-            "dy_12m": 9.69
+            "dy_12m": 9.67
         },
         "JSCR11": {
-            "preco": 7.82,
+            "preco": 7.79,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.102,
             "dividendos_12m": 1.172,
-            "dy_12m": 14.99
+            "dy_12m": 15.04
         },
         "KISU11": {
-            "preco": 6.38,
+            "preco": 6.46,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 0.82871,
-            "dy_12m": 12.99
+            "dy_12m": 12.83
         },
         "KIVO11": {
-            "preco": 56.5,
+            "preco": 56.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
             "dividendos_12m": 10.71,
-            "dy_12m": 18.96
+            "dy_12m": 18.89
         },
         "KCRE11": {
-            "preco": 8.92,
+            "preco": 8.91,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.13,
             "dividendos_12m": 1.15,
-            "dy_12m": 12.89
+            "dy_12m": 12.91
         },
         "KFEN11": {
             "preco": 1100.0,
@@ -1877,20 +1877,20 @@
             "dy_12m": 10.71
         },
         "KNHF11": {
-            "preco": 95.0,
+            "preco": 95.09,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 12.0,
-            "dy_12m": 12.63
+            "dy_12m": 12.62
         },
         "KNHY11": {
-            "preco": 99.8,
+            "preco": 99.92,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.2,
             "dividendos_12m": 13.18,
-            "dy_12m": 13.21
+            "dy_12m": 13.19
         },
         "KNRE11": {
             "preco": 0.34,
@@ -1901,7 +1901,7 @@
             "dy_12m": 353.25
         },
         "KNIP11": {
-            "preco": 90.73,
+            "preco": 90.72,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.12,
@@ -1909,60 +1909,60 @@
             "dy_12m": 11.03
         },
         "KORE11": {
-            "preco": 64.86,
+            "preco": 65.07,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 11.1,
-            "dy_12m": 17.11
+            "dy_12m": 17.06
         },
         "KNPR11": {
-            "preco": 65.5,
+            "preco": 66.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 22.0,
             "dividendos_12m": 22.75,
-            "dy_12m": 34.73
+            "dy_12m": 34.36
         },
         "KNRI11": {
-            "preco": 153.94,
+            "preco": 154.86,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.38,
             "dividendos_12m": 12.91,
-            "dy_12m": 8.39
+            "dy_12m": 8.34
         },
         "KNCR11": {
-            "preco": 107.37,
+            "preco": 107.02,
             "tipo": "papel",
             "segmento": "cri",
             "ultimo_dividendo": 1.1,
             "dividendos_12m": 14.432112,
-            "dy_12m": 13.44
+            "dy_12m": 13.49
         },
         "KNSC11": {
-            "preco": 9.15,
+            "preco": 9.12,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.14,
-            "dy_12m": 12.46
+            "dy_12m": 12.5
         },
         "KNUQ11": {
-            "preco": 104.76,
+            "preco": 105.13,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.15,
             "dividendos_12m": 14.97,
-            "dy_12m": 14.29
+            "dy_12m": 14.24
         },
         "LMAI11": {
-            "preco": 35.55,
+            "preco": 35.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.12,
             "dividendos_12m": 4.17,
-            "dy_12m": 11.73
+            "dy_12m": 11.91
         },
         "LPLP11": {
             "preco": 225.0,
@@ -1997,36 +1997,36 @@
             "dy_12m": 3.61
         },
         "LRDI11": {
-            "preco": 168.29,
+            "preco": 168.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 29.710136,
             "dividendos_12m": 96.384619,
-            "dy_12m": 57.27
+            "dy_12m": 57.37
         },
         "LASC11": {
-            "preco": 110.98,
+            "preco": 110.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.56,
             "dividendos_12m": 14.160936,
-            "dy_12m": 12.76
+            "dy_12m": 12.87
         },
         "LIFE11": {
-            "preco": 7.2,
+            "preco": 7.18,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.12,
             "dividendos_12m": 1.44,
-            "dy_12m": 20.0
+            "dy_12m": 20.06
         },
         "MAGM11": {
-            "preco": 9.99,
+            "preco": 10.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.12,
             "dividendos_12m": 1.07,
-            "dy_12m": 10.71
+            "dy_12m": 10.7
         },
         "MANA11": {
             "preco": 9.14,
@@ -2053,28 +2053,28 @@
             "dy_12m": 10.16
         },
         "MCRE11": {
-            "preco": 8.51,
+            "preco": 8.55,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
             "dividendos_12m": 1.32,
-            "dy_12m": 15.51
+            "dy_12m": 15.44
         },
         "MXRF11": {
-            "preco": 9.66,
+            "preco": 9.65,
             "tipo": "papel",
             "segmento": "cri",
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.194146,
-            "dy_12m": 12.36
+            "dy_12m": 12.37
         },
         "MFII11": {
-            "preco": 51.2,
+            "preco": 50.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.91,
             "dividendos_12m": 12.29,
-            "dy_12m": 24.0
+            "dy_12m": 24.24
         },
         "MIDW11": {
             "preco": 10.8,
@@ -2093,36 +2093,36 @@
             "dy_12m": 14.47
         },
         "NAVT11": {
-            "preco": 74.0,
+            "preco": 74.33,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 10.741772,
-            "dy_12m": 14.52
+            "dy_12m": 14.45
         },
         "APTO11": {
-            "preco": 8.27,
+            "preco": 8.32,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.066,
-            "dy_12m": 12.89
+            "dy_12m": 12.81
         },
         "NEWL11": {
-            "preco": 102.91,
+            "preco": 102.67,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 11.83,
-            "dy_12m": 11.5
+            "dy_12m": 11.52
         },
         "NEWU11": {
-            "preco": 117.6,
+            "preco": 112.14,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 3.968643,
-            "dy_12m": 3.37
+            "dy_12m": 3.54
         },
         "NMKS11": {
             "preco": 1052.26,
@@ -2149,12 +2149,12 @@
             "dy_12m": 16.78
         },
         "ARRI11": {
-            "preco": 4.6,
+            "preco": 4.61,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 1.0,
-            "dy_12m": 21.74
+            "dy_12m": 21.69
         },
         "OBAL11": {
             "preco": 1095.0,
@@ -2237,12 +2237,12 @@
             "dy_12m": 10.92
         },
         "PCIP11": {
-            "preco": 76.3,
+            "preco": 76.8,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.07,
             "dividendos_12m": 11.09,
-            "dy_12m": 14.53
+            "dy_12m": 14.44
         },
         "RCFF11": {
             "preco": 71.52,
@@ -2253,7 +2253,7 @@
             "dy_12m": 42.9
         },
         "PATC11": {
-            "preco": 39.37,
+            "preco": 39.39,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.05,
@@ -2261,28 +2261,28 @@
             "dy_12m": 1.52
         },
         "HGRE11": {
-            "preco": 119.83,
+            "preco": 119.95,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.5,
             "dividendos_12m": 11.5,
-            "dy_12m": 9.6
+            "dy_12m": 9.59
         },
         "HGLG11": {
-            "preco": 147.75,
+            "preco": 147.39,
             "tipo": "tijolo",
             "segmento": "logistica",
             "ultimo_dividendo": 1.1,
             "dividendos_12m": 13.2,
-            "dy_12m": 8.93
+            "dy_12m": 8.96
         },
         "PLAG11": {
-            "preco": 61.93,
+            "preco": 62.49,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.65,
             "dividendos_12m": 6.62,
-            "dy_12m": 10.69
+            "dy_12m": 10.59
         },
         "PATL11": {
             "preco": 64.15,
@@ -2293,28 +2293,28 @@
             "dy_12m": 21.5
         },
         "RBRL11": {
-            "preco": 72.59,
+            "preco": 72.48,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 8.55,
-            "dy_12m": 11.78
+            "dy_12m": 11.8
         },
         "PMLL11": {
-            "preco": 101.0,
+            "preco": 101.17,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 11.16,
-            "dy_12m": 11.05
+            "dy_12m": 11.03
         },
         "RBRX11": {
-            "preco": 7.61,
+            "preco": 7.68,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.09,
             "dividendos_12m": 1.08,
-            "dy_12m": 14.19
+            "dy_12m": 14.06
         },
         "HGPO11": {
             "preco": 153.42,
@@ -2325,44 +2325,44 @@
             "dy_12m": 113.62
         },
         "HGCR11": {
-            "preco": 92.8,
+            "preco": 92.94,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
             "dividendos_12m": 11.85,
-            "dy_12m": 12.77
+            "dy_12m": 12.75
         },
         "VCRR11": {
-            "preco": 55.0,
+            "preco": 54.42,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.4,
             "dividendos_12m": 5.4,
-            "dy_12m": 9.82
+            "dy_12m": 9.92
         },
         "HGRU11": {
-            "preco": 125.1,
+            "preco": 125.15,
             "tipo": "tijolo",
             "segmento": "renda_urbana",
             "ultimo_dividendo": 0.95,
             "dividendos_12m": 12.49152,
-            "dy_12m": 9.99
+            "dy_12m": 9.98
         },
         "PSEC11": {
-            "preco": 54.94,
+            "preco": 54.96,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.55,
             "dividendos_12m": 7.9,
-            "dy_12m": 14.38
+            "dy_12m": 14.37
         },
         "TOPP11": {
-            "preco": 67.8,
+            "preco": 67.77,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
             "dividendos_12m": 10.19,
-            "dy_12m": 15.03
+            "dy_12m": 15.04
         },
         "PEMA11": {
             "preco": 25.0,
@@ -2389,12 +2389,12 @@
             "dy_12m": 476.63
         },
         "PORD11": {
-            "preco": 8.42,
+            "preco": 8.45,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.098,
             "dividendos_12m": 1.183,
-            "dy_12m": 14.05
+            "dy_12m": 14.0
         },
         "PLRI11": {
             "preco": 7.2,
@@ -2445,12 +2445,12 @@
             "dy_12m": 4.71
         },
         "RZZR11": {
-            "preco": 128.15,
+            "preco": 125.1,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.232,
             "dividendos_12m": 14.611,
-            "dy_12m": 11.4
+            "dy_12m": 11.68
         },
         "RBDS11": {
             "preco": 1.74,
@@ -2469,12 +2469,12 @@
             "dy_12m": 61.19
         },
         "RBIR11": {
-            "preco": 72.18,
+            "preco": 73.88,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 5.706555,
             "dividendos_12m": 31.015736,
-            "dy_12m": 42.97
+            "dy_12m": 41.98
         },
         "RFOF11": {
             "preco": 64.49,
@@ -2493,20 +2493,20 @@
             "dy_12m": 27.55
         },
         "FIIP11": {
-            "preco": 130.0,
+            "preco": 129.64,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.42,
             "dividendos_12m": 16.84,
-            "dy_12m": 12.95
+            "dy_12m": 12.99
         },
         "RBRD11": {
-            "preco": 37.0,
+            "preco": 37.34,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.55,
             "dividendos_12m": 6.56,
-            "dy_12m": 17.73
+            "dy_12m": 17.57
         },
         "REME11": {
             "preco": 74.0,
@@ -2533,20 +2533,20 @@
             "dy_12m": 512.42
         },
         "RPRI11": {
-            "preco": 77.0,
+            "preco": 76.8,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.4,
             "dividendos_12m": 11.845,
-            "dy_12m": 15.38
+            "dy_12m": 15.42
         },
         "RINV11": {
-            "preco": 103.75,
+            "preco": 104.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.4,
             "dividendos_12m": 13.452502,
-            "dy_12m": 12.97
+            "dy_12m": 12.94
         },
         "RCRI11": {
             "preco": 98.6,
@@ -2573,28 +2573,28 @@
             "dy_12m": 8.49
         },
         "RECM11": {
-            "preco": 7.54,
+            "preco": 7.47,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.3,
-            "dy_12m": 17.24
+            "dy_12m": 17.4
         },
         "RBHG11": {
-            "preco": 59.99,
+            "preco": 60.1,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.8,
             "dividendos_12m": 9.68,
-            "dy_12m": 16.14
+            "dy_12m": 16.11
         },
         "RBHY11": {
-            "preco": 66.81,
+            "preco": 66.9,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 12.58,
-            "dy_12m": 18.83
+            "dy_12m": 18.8
         },
         "RBFY11": {
             "preco": 72.0,
@@ -2613,28 +2613,28 @@
             "dy_12m": 13.22
         },
         "RBOP11": {
-            "preco": 227.0,
+            "preco": 230.5,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.1,
             "dividendos_12m": 31.8,
-            "dy_12m": 14.01
+            "dy_12m": 13.8
         },
         "RCRB11": {
-            "preco": 138.5,
+            "preco": 138.36,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.08,
             "dividendos_12m": 12.04,
-            "dy_12m": 8.69
+            "dy_12m": 8.7
         },
         "RBRS11": {
-            "preco": 39.9,
+            "preco": 39.8,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.36,
             "dividendos_12m": 1.98,
-            "dy_12m": 4.96
+            "dy_12m": 4.97
         },
         "RBVA11": {
             "preco": 8.99,
@@ -2645,36 +2645,36 @@
             "dy_12m": 12.01
         },
         "RNGO11": {
-            "preco": 51.8,
+            "preco": 52.49,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.52,
             "dividendos_12m": 4.67,
-            "dy_12m": 9.02
+            "dy_12m": 8.9
         },
         "RZAK11": {
-            "preco": 79.29,
+            "preco": 79.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.05,
             "dividendos_12m": 13.2,
-            "dy_12m": 16.65
+            "dy_12m": 16.67
         },
         "RZAT11": {
-            "preco": 92.26,
+            "preco": 92.45,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.7,
             "dividendos_12m": 14.05,
-            "dy_12m": 15.23
+            "dy_12m": 15.2
         },
         "RZLC11": {
-            "preco": 1009.69,
+            "preco": 1010.23,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 12.053894,
             "dividendos_12m": 148.994079,
-            "dy_12m": 14.76
+            "dy_12m": 14.75
         },
         "RJDA11": {
             "preco": 115.0,
@@ -2685,28 +2685,28 @@
             "dy_12m": 0
         },
         "SAPI11": {
-            "preco": 9.09,
+            "preco": 9.05,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1185,
             "dividendos_12m": 1.4418,
-            "dy_12m": 15.86
+            "dy_12m": 15.93
         },
         "SCPF11": {
-            "preco": 3.15,
+            "preco": 3.08,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.04,
             "dividendos_12m": 0.274,
-            "dy_12m": 8.7
+            "dy_12m": 8.9
         },
         "SEQR11": {
-            "preco": 53.85,
+            "preco": 53.92,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.5883,
             "dividendos_12m": 6.9996,
-            "dy_12m": 13.0
+            "dy_12m": 12.98
         },
         "SHPH11": {
             "preco": 940.01,
@@ -2717,12 +2717,12 @@
             "dy_12m": 7.0
         },
         "SHPP11": {
-            "preco": 10.59,
+            "preco": 10.73,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.055,
             "dividendos_12m": 0.776,
-            "dy_12m": 7.33
+            "dy_12m": 7.23
         },
         "WPLZ11": {
             "preco": 45.4,
@@ -2757,12 +2757,12 @@
             "dy_12m": 0
         },
         "SPTW11": {
-            "preco": 37.32,
+            "preco": 37.16,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
             "dividendos_12m": 5.83,
-            "dy_12m": 15.62
+            "dy_12m": 15.69
         },
         "LTMT11": {
             "preco": 93.78,
@@ -2813,12 +2813,12 @@
             "dy_12m": 4.37
         },
         "SPXS11": {
-            "preco": 7.7,
+            "preco": 7.76,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.098,
             "dividendos_12m": 1.212,
-            "dy_12m": 15.74
+            "dy_12m": 15.62
         },
         "STYI11": {
             "preco": 1249.99,
@@ -2829,31 +2829,31 @@
             "dy_12m": 0
         },
         "SNEL11": {
-            "preco": 8.33,
+            "preco": 8.36,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.2,
-            "dy_12m": 14.41
+            "dy_12m": 14.35
         },
         "SNFF11": {
-            "preco": 72.96,
+            "preco": 73.21,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.1,
             "dividendos_12m": 10.24,
-            "dy_12m": 14.04
+            "dy_12m": 13.99
         },
         "SNME11": {
-            "preco": 9.37,
+            "preco": 9.45,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.22,
             "dividendos_12m": 1.59,
-            "dy_12m": 16.97
+            "dy_12m": 16.83
         },
         "SNCI11": {
-            "preco": 84.75,
+            "preco": 84.73,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
@@ -2877,20 +2877,20 @@
             "dy_12m": 18.29
         },
         "TEPP11": {
-            "preco": 7.88,
+            "preco": 7.87,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.131,
             "dividendos_12m": 1.141155,
-            "dy_12m": 14.48
+            "dy_12m": 14.5
         },
         "TRBL11": {
-            "preco": 56.6,
+            "preco": 56.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 2.68,
             "dividendos_12m": 10.16,
-            "dy_12m": 17.95
+            "dy_12m": 17.92
         },
         "NAUI11": {
             "preco": 1000.0,
@@ -2909,7 +2909,7 @@
             "dy_12m": 0
         },
         "TVRI11": {
-            "preco": 91.47,
+            "preco": 91.41,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.05,
@@ -2933,12 +2933,12 @@
             "dy_12m": 13.67
         },
         "TORD11": {
-            "preco": 1.26,
+            "preco": 1.25,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.0096,
             "dividendos_12m": 0.0931,
-            "dy_12m": 7.39
+            "dy_12m": 7.45
         },
         "TSNC11": {
             "preco": 58.9,
@@ -2949,28 +2949,28 @@
             "dy_12m": 30.31
         },
         "TRXY11": {
-            "preco": 7.8,
+            "preco": 7.88,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.13,
             "dividendos_12m": 1.347574,
-            "dy_12m": 17.28
+            "dy_12m": 17.1
         },
         "TRXF11": {
-            "preco": 91.17,
+            "preco": 91.22,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.5,
             "dividendos_12m": 12.38,
-            "dy_12m": 13.58
+            "dy_12m": 13.57
         },
         "TRXB11": {
-            "preco": 194.97,
+            "preco": 196.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 10.3,
             "dividendos_12m": 36.31087,
-            "dy_12m": 18.62
+            "dy_12m": 18.53
         },
         "MGHT11": {
             "preco": 11.7,
@@ -2981,23 +2981,23 @@
             "dy_12m": 50.94
         },
         "URHF11": {
-            "preco": 59.32,
+            "preco": 58.66,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.0,
             "dividendos_12m": 13.07,
-            "dy_12m": 22.03
+            "dy_12m": 22.28
         },
         "URPR11": {
-            "preco": 19.0,
+            "preco": 19.08,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.3,
             "dividendos_12m": 4.19,
-            "dy_12m": 22.05
+            "dy_12m": 21.96
         },
         "VVCO11": {
-            "preco": 9.25,
+            "preco": 9.1,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,
@@ -3013,20 +3013,20 @@
             "dy_12m": 9.07
         },
         "VPPR11": {
-            "preco": 19.36,
+            "preco": 19.6,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 0.84,
-            "dy_12m": 4.34
+            "dy_12m": 4.29
         },
         "VVCR11": {
-            "preco": 8.94,
+            "preco": 8.7,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.13,
             "dividendos_12m": 1.227651,
-            "dy_12m": 13.73
+            "dy_12m": 14.11
         },
         "VVRI11": {
             "preco": 8.82,
@@ -3037,20 +3037,20 @@
             "dy_12m": 6.19
         },
         "VGIR11": {
-            "preco": 9.47,
+            "preco": 9.39,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
             "dividendos_12m": 1.52,
-            "dy_12m": 16.05
+            "dy_12m": 16.19
         },
         "VGIP11": {
-            "preco": 78.95,
+            "preco": 79.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.16,
             "dividendos_12m": 10.0,
-            "dy_12m": 12.67
+            "dy_12m": 12.66
         },
         "VGII11": {
             "preco": 72.67,
@@ -3061,20 +3061,20 @@
             "dy_12m": 72.28
         },
         "VGHF11": {
-            "preco": 5.86,
+            "preco": 5.84,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 0.89,
-            "dy_12m": 15.19
+            "dy_12m": 15.24
         },
         "VGRI11": {
-            "preco": 5.58,
+            "preco": 5.62,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.075,
             "dividendos_12m": 1.26,
-            "dy_12m": 22.58
+            "dy_12m": 22.42
         },
         "BLMO11": {
             "preco": 88.88,
@@ -3085,12 +3085,12 @@
             "dy_12m": 7.16
         },
         "VCJR11": {
-            "preco": 71.99,
+            "preco": 71.07,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.25,
             "dividendos_12m": 10.92,
-            "dy_12m": 15.17
+            "dy_12m": 15.37
         },
         "VCTH11": {
             "preco": 101.0,
@@ -3109,52 +3109,52 @@
             "dy_12m": 18.94
         },
         "FVPQ11": {
-            "preco": 54.09,
+            "preco": 52.8,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.4,
             "dividendos_12m": 4.79,
-            "dy_12m": 8.86
+            "dy_12m": 9.07
         },
         "VCRI11": {
-            "preco": 7.22,
+            "preco": 7.25,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.095,
             "dividendos_12m": 1.995,
-            "dy_12m": 27.63
+            "dy_12m": 27.52
         },
         "VIUR11": {
-            "preco": 2.21,
+            "preco": 2.22,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.262944,
             "dividendos_12m": 1.161644,
-            "dy_12m": 52.56
+            "dy_12m": 52.33
         },
         "VILG11": {
-            "preco": 92.45,
+            "preco": 92.13,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.82,
             "dividendos_12m": 9.24,
-            "dy_12m": 9.99
+            "dy_12m": 10.03
         },
         "VINO11": {
-            "preco": 4.6,
+            "preco": 4.61,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.042,
             "dividendos_12m": 0.547,
-            "dy_12m": 11.89
+            "dy_12m": 11.87
         },
         "VISC11": {
-            "preco": 104.69,
+            "preco": 105.07,
             "tipo": "tijolo",
             "segmento": "shopping",
             "ultimo_dividendo": 0.84,
             "dividendos_12m": 9.9,
-            "dy_12m": 9.46
+            "dy_12m": 9.42
         },
         "SPDE11": {
             "preco": 1266.67,
@@ -3165,60 +3165,60 @@
             "dy_12m": 10.28
         },
         "WHGR11": {
-            "preco": 8.97,
+            "preco": 8.95,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.2,
-            "dy_12m": 13.38
+            "dy_12m": 13.41
         },
         "XLPR11": {
-            "preco": 68.5,
+            "preco": 68.98,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.379574,
             "dividendos_12m": 9.7976,
-            "dy_12m": 14.3
+            "dy_12m": 14.2
         },
         "XPCM11": {
-            "preco": 8.03,
+            "preco": 8.05,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.019741,
             "dividendos_12m": 0.94756,
-            "dy_12m": 11.8
+            "dy_12m": 11.77
         },
         "XPCI11": {
-            "preco": 82.4,
+            "preco": 82.94,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
             "dividendos_12m": 10.87,
-            "dy_12m": 13.19
+            "dy_12m": 13.11
         },
         "XPLG11": {
-            "preco": 89.94,
+            "preco": 90.38,
             "tipo": "tijolo",
             "segmento": "logistica",
             "ultimo_dividendo": 0.82,
             "dividendos_12m": 9.84,
-            "dy_12m": 10.94
+            "dy_12m": 10.89
         },
         "XPML11": {
-            "preco": 104.22,
+            "preco": 104.74,
             "tipo": "tijolo",
             "segmento": "shopping",
             "ultimo_dividendo": 0.92,
             "dividendos_12m": 11.03904,
-            "dy_12m": 10.59
+            "dy_12m": 10.54
         },
         "XPSF11": {
-            "preco": 6.14,
+            "preco": 6.12,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 0.82,
-            "dy_12m": 13.36
+            "dy_12m": 13.4
         },
         "YUFI11": {
             "preco": 15.0,
@@ -3229,12 +3229,12 @@
             "dy_12m": 211.28
         },
         "ZAGH11": {
-            "preco": 9.18,
+            "preco": 9.16,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.08,
             "dividendos_12m": 0.668018,
-            "dy_12m": 7.28
+            "dy_12m": 7.29
         },
         "GGRC11": {
             "preco": 9.91,
@@ -3245,20 +3245,20 @@
             "dy_12m": 12.16
         },
         "ZAVC11": {
-            "preco": 9.0,
+            "preco": 9.08,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.13,
             "dividendos_12m": 1.53,
-            "dy_12m": 17.0
+            "dy_12m": 16.85
         },
         "ZAVI11": {
-            "preco": 9.58,
+            "preco": 9.62,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.12,
             "dividendos_12m": 1.36,
-            "dy_12m": 14.2
+            "dy_12m": 14.14
         },
         "ZIFI11": {
             "preco": 899.89,

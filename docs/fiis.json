@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-28T20:36:51Z",
+    "gerado_em": "2026-07-29T00:08:05Z",
     "origem": "B3",
-    "quantidade": 522,
+    "quantidade": 520,
     "dados": [
         {
             "codigo": "ADSH",
@@ -297,12 +297,6 @@
             "ticker": "BIME11",
             "nome": "FII BRIO ME",
             "razao_social": "BRIO MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "BRIM",
-            "ticker": "BRIM11",
-            "nome": "FII BRIO II",
-            "razao_social": "BRIO REAL ESTATE II - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BRIP",
@@ -1307,12 +1301,6 @@
             "razao_social": "GENESIS MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII -  RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "GLOG",
-            "ticker": "GLOG11",
-            "nome": "FII PLURAL L",
-            "razao_social": "GENIAL LOGÍSTICA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "ABCP",
             "ticker": "ABCP11",
             "nome": "FII ABC IMOB",
@@ -1605,6 +1593,12 @@
             "ticker": "IBBP11",
             "nome": "FII IBBP",
             "razao_social": "INVISTA BRAZILIAN BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "IVBP",
+            "ticker": "IVBP11",
+            "nome": "FII IVBP",
+            "razao_social": "INVISTA BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "XPIN",
@@ -2211,12 +2205,6 @@
             "ticker": "RBRX11",
             "nome": "FII RBRX PAX",
             "razao_social": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "HGPO",
-            "ticker": "HGPO11",
-            "nome": "FII HGPO PAX",
-            "razao_social": "PATRIA PRIME OFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "RBRK",

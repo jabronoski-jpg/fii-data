@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-28T20:37:25Z",
+    "gerado_em": "2026-07-29T00:08:34Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-07-28",
     "estatisticas": {
-        "consultados": 522,
-        "com_cotacao": 407,
-        "sem_cotacao": 115
+        "consultados": 520,
+        "com_cotacao": 404,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -110,9 +110,6 @@
         },
         "BIME11": {
             "preco": 4.54
-        },
-        "BRIM11": {
-            "preco": 95.0
         },
         "BRIP11": {
             "preco": 335.0
@@ -528,9 +525,6 @@
         "VXXV11": {
             "preco": 790.0
         },
-        "GLOG11": {
-            "preco": 75.0
-        },
         "ABCP11": {
             "preco": 74.21
         },
@@ -872,9 +866,6 @@
         },
         "RBRX11": {
             "preco": 7.61
-        },
-        "HGPO11": {
-            "preco": 153.42
         },
         "HGCR11": {
             "preco": 93.7
@@ -1438,6 +1429,10 @@
         },
         {
             "ticker": "INHF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "IVBP11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

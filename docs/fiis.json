@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-07-29T23:47:10Z",
+    "gerado_em": "2026-07-30T08:00:23Z",
     "origem": "B3",
-    "quantidade": 520,
+    "quantidade": 523,
     "dados": [
         {
             "codigo": "ADSH",
@@ -93,6 +93,12 @@
             "ticker": "EIRA11",
             "nome": "FII EIRA",
             "razao_social": "AROEIRA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AQPA",
+            "ticker": "AQPA11",
+            "nome": "FII AQPA",
+            "razao_social": "ARQUIPEO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "ARTE",
@@ -651,6 +657,12 @@
             "ticker": "DOVL11",
             "nome": "FII DOVEL",
             "razao_social": "DOVEL FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "EBTA",
+            "ticker": "EBTA11",
+            "nome": "FII EBTA",
+            "razao_social": "EBT FUNDO DE INVESTIMENTO IMOBILIÁRIO"
         },
         {
             "codigo": "EDGE",
@@ -3051,6 +3063,12 @@
             "ticker": "WHGR11",
             "nome": "FII WHG REAL",
             "razao_social": "WHG REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "WTXA",
+            "ticker": "WTXA11",
+            "nome": "FII WTXA",
+            "razao_social": "WITEX FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "XLPR",

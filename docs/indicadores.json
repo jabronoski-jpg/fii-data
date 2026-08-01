@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-01T15:44:36Z",
+    "gerado_em": "2026-08-01T20:04:10Z",
     "origem": "Calculado",
     "quantidade": 408,
     "dados": {
@@ -765,12 +765,12 @@
             "dy_12m": 15.63
         },
         "FLMA11": {
-            "preco": 148.27,
+            "preco": 150.04,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.38,
             "dividendos_12m": 13.8,
-            "dy_12m": 9.31
+            "dy_12m": 9.2
         },
         "EGDB11": {
             "preco": 1279.59,
@@ -1293,12 +1293,12 @@
             "dy_12m": 0
         },
         "VSHO11": {
-            "preco": 74.88,
+            "preco": 75.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.7,
             "dividendos_12m": 8.16,
-            "dy_12m": 10.9
+            "dy_12m": 10.88
         },
         "BMLT11": {
             "preco": 109.0,
@@ -1333,7 +1333,7 @@
             "dy_12m": 0
         },
         "GFDL11": {
-            "preco": 118.73,
+            "preco": 118.77,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.16,
@@ -1637,12 +1637,12 @@
             "dy_12m": 14.83
         },
         "HSLG11": {
-            "preco": 90.19,
+            "preco": 91.11,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.74,
             "dividendos_12m": 8.52,
-            "dy_12m": 9.45
+            "dy_12m": 9.35
         },
         "HSML11": {
             "preco": 87.28,
@@ -1725,12 +1725,12 @@
             "dy_12m": 12.02
         },
         "IBBP11": {
-            "preco": 7.48,
+            "preco": 7.18,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.0821,
             "dividendos_12m": 0.90973,
-            "dy_12m": 12.16
+            "dy_12m": 12.67
         },
         "XPIN11": {
             "preco": 62.04,
@@ -2261,12 +2261,12 @@
             "dy_12m": 1.5
         },
         "HGRE11": {
-            "preco": 118.52,
+            "preco": 119.8,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.5,
             "dividendos_12m": 11.5,
-            "dy_12m": 9.7
+            "dy_12m": 9.6
         },
         "HGLG11": {
             "preco": 147.42,
@@ -2693,12 +2693,12 @@
             "dy_12m": 9.19
         },
         "SEQR11": {
-            "preco": 54.27,
+            "preco": 54.2,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.5883,
             "dividendos_12m": 6.9996,
-            "dy_12m": 12.9
+            "dy_12m": 12.91
         },
         "SHPH11": {
             "preco": 950.11,

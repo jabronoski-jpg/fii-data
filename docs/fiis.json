@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-03T22:36:59Z",
+    "gerado_em": "2026-08-04T08:07:37Z",
     "origem": "B3",
-    "quantidade": 524,
+    "quantidade": 525,
     "dados": [
         {
             "codigo": "ADSH",
@@ -2337,6 +2337,12 @@
             "ticker": "RZZR11",
             "nome": "FII RZZR",
             "razao_social": "RAIZZ RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RZZE",
+            "ticker": "RZZE11",
+            "nome": "FII RZZE",
+            "razao_social": "RAIZZ VILA VELHA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "RBDS",

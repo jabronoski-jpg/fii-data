@@ -1,6 +1,6 @@
 {
-    "ultima_atualizacao": "2026-08-08T06:09:19Z",
-    "status": "OK",
-    "tempo_segundos": 126.31,
-    "erro": null
+    "ultima_atualizacao": "2026-08-08T08:08:48Z",
+    "status": "ERRO",
+    "tempo_segundos": 0.86,
+    "erro": "Falha em update.py"
 }

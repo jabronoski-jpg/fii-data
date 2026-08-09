@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-09T04:50:05Z",
+    "gerado_em": "2026-08-09T07:58:46Z",
     "origem": "Calculado",
     "quantidade": 407,
     "dados": {
@@ -8,9 +8,9 @@
             "preco": 10.89,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0,
-            "dividendos_12m": 0,
-            "dy_12m": 0
+            "ultimo_dividendo": 0.07,
+            "dividendos_12m": 0.19,
+            "dy_12m": 1.74
         },
         "AFHI11": {
             "preco": 94.5,

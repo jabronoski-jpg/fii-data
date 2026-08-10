@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-09T23:54:39Z",
+    "gerado_em": "2026-08-10T05:11:02Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-07",
     "estatisticas": {
         "consultados": 525,
-        "com_cotacao": 407,
-        "sem_cotacao": 118
+        "com_cotacao": 406,
+        "sem_cotacao": 119
     },
     "dados": {
         "ADSH11": {
@@ -1185,9 +1185,6 @@
         "VISC11": {
             "preco": 103.93
         },
-        "SPDE11": {
-            "preco": 1266.67
-        },
         "WHGR11": {
             "preco": 8.66
         },
@@ -1702,6 +1699,10 @@
         },
         {
             "ticker": "VIOL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPDE11",
             "motivo": "Sem dados no Yahoo Finance"
         }
     ]

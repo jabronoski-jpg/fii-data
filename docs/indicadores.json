@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-12T08:51:38Z",
+    "gerado_em": "2026-08-12T11:36:22Z",
     "origem": "Calculado",
     "quantidade": 406,
     "dados": {
@@ -329,8 +329,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
-            "dividendos_12m": 4.22275,
-            "dy_12m": 9.94
+            "dividendos_12m": 4.830732,
+            "dy_12m": 11.37
         },
         "BRCR11": {
             "preco": 39.22,
@@ -349,12 +349,12 @@
             "dy_12m": 13.07
         },
         "BTLG11": {
-            "preco": 100.48,
+            "preco": 100.38,
             "tipo": "tijolo",
             "segmento": "logistica",
             "ultimo_dividendo": 0.81,
             "dividendos_12m": 9.553296,
-            "dy_12m": 9.51
+            "dy_12m": 9.52
         },
         "BTHF11": {
             "preco": 8.7,
@@ -369,8 +369,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
-            "dividendos_12m": 11.42,
-            "dy_12m": 13.19
+            "dividendos_12m": 5.5,
+            "dy_12m": 6.35
         },
         "BPML11": {
             "preco": 85.0,
@@ -741,12 +741,12 @@
             "dy_12m": 14.73
         },
         "VRTA11": {
-            "preco": 70.0,
+            "preco": 69.6,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
             "dividendos_12m": 10.2,
-            "dy_12m": 14.57
+            "dy_12m": 14.66
         },
         "VRTM11": {
             "preco": 6.41,
@@ -3061,12 +3061,12 @@
             "dy_12m": 16.73
         },
         "VGRI11": {
-            "preco": 5.31,
+            "preco": 5.25,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.075,
             "dividendos_12m": 1.215,
-            "dy_12m": 22.88
+            "dy_12m": 23.14
         },
         "BLMO11": {
             "preco": 92.63,

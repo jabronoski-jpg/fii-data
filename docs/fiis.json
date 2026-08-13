@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-12T21:25:08Z",
+    "gerado_em": "2026-08-13T05:22:57Z",
     "origem": "B3",
-    "quantidade": 525,
+    "quantidade": 527,
     "dados": [
         {
             "codigo": "ADSH",
@@ -939,6 +939,12 @@
             "ticker": "APXR11",
             "nome": "FII APXR",
             "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO APEX REALTY - FII"
+        },
+        {
+            "codigo": "AUMT",
+            "ticker": "AUMT11",
+            "nome": "FII AUMT",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO AURUM TERRA RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BRHT",
@@ -2271,6 +2277,12 @@
             "ticker": "PRSN11",
             "nome": "FII PERSONAL",
             "razao_social": "PERSONALE I FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "PLTB",
+            "ticker": "PLTB11",
+            "nome": "FII PLTB",
+            "razao_social": "PLT FUNDO DE INVESTIMENTO IMOBILIÁRIO"
         },
         {
             "codigo": "PORD",

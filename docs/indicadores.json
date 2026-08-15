@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-15T23:01:02Z",
+    "gerado_em": "2026-08-15T23:23:03Z",
     "origem": "Calculado",
     "quantidade": 406,
     "dados": {
@@ -113,8 +113,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.47,
-            "dy_12m": 6.38
+            "dividendos_12m": 0.59,
+            "dy_12m": 8.01
         },
         "ARXD11": {
             "preco": 7.85,
@@ -1913,8 +1913,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 40.0,
-            "dividendos_12m": 62.0,
-            "dy_12m": 194.97
+            "dividendos_12m": 62.75,
+            "dy_12m": 197.33
         },
         "KNRI11": {
             "preco": 150.8,

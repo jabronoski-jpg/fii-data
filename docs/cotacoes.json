@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-15T16:14:53Z",
+    "gerado_em": "2026-08-15T16:59:54Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-14",
     "estatisticas": {
         "consultados": 525,
-        "com_cotacao": 406,
-        "sem_cotacao": 119
+        "com_cotacao": 405,
+        "sem_cotacao": 120
     },
     "dados": {
         "ADSH11": {
@@ -1092,9 +1092,6 @@
         "TRPL11": {
             "preco": 1.08
         },
-        "TVRI11": {
-            "preco": 88.86
-        },
         "VOTS11": {
             "preco": 81.97
         },
@@ -1659,6 +1656,10 @@
         },
         {
             "ticker": "TIOM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TVRI11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

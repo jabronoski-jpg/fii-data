@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-15T16:15:46Z",
+    "gerado_em": "2026-08-15T17:00:54Z",
     "origem": "Calculado",
-    "quantidade": 406,
+    "quantidade": 405,
     "dados": {
         "ADSH11": {
             "preco": 10.89,
@@ -1913,8 +1913,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 40.0,
-            "dividendos_12m": 62.0,
-            "dy_12m": 194.97
+            "dividendos_12m": 62.75,
+            "dy_12m": 197.33
         },
         "KNRI11": {
             "preco": 150.8,
@@ -2891,14 +2891,6 @@
             "ultimo_dividendo": 0,
             "dividendos_12m": 0,
             "dy_12m": 0
-        },
-        "TVRI11": {
-            "preco": 88.86,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 1.05,
-            "dividendos_12m": 12.6,
-            "dy_12m": 14.18
         },
         "VOTS11": {
             "preco": 81.97,

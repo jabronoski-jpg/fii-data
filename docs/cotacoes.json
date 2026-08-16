@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-16T11:33:56Z",
+    "gerado_em": "2026-08-16T11:55:52Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-14",
     "estatisticas": {
         "consultados": 525,
-        "com_cotacao": 406,
-        "sem_cotacao": 119
+        "com_cotacao": 412,
+        "sem_cotacao": 113
     },
     "dados": {
         "ADSH11": {
@@ -450,6 +450,9 @@
         "RELG11": {
             "preco": 69.95
         },
+        "RRES11": {
+            "preco": 9.8
+        },
         "RZTR11": {
             "preco": 82.48
         },
@@ -467,6 +470,9 @@
         },
         "SMRE11": {
             "preco": 55.58
+        },
+        "SOFF11": {
+            "preco": 94.2
         },
         "TGAR11": {
             "preco": 44.6
@@ -497,6 +503,9 @@
         },
         "BSLT11": {
             "preco": 61.96
+        },
+        "TCIN11": {
+            "preco": 145.92
         },
         "GCDL11": {
             "preco": 126.12
@@ -536,6 +545,9 @@
         },
         "GRAV11": {
             "preco": 36.5
+        },
+        "RCFA11": {
+            "preco": 0.85
         },
         "GAME11": {
             "preco": 8.45
@@ -873,6 +885,9 @@
         "RBRX11": {
             "preco": 7.32
         },
+        "RBRK11": {
+            "preco": 107.0
+        },
         "HGCR11": {
             "preco": 89.19
         },
@@ -1058,6 +1073,9 @@
         },
         "SPXS11": {
             "preco": 7.39
+        },
+        "STRX11": {
+            "preco": 141.96
         },
         "STYI11": {
             "preco": 1287.99
@@ -1386,15 +1404,7 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "RRES11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "RZRM11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "SOFF11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1403,14 +1413,6 @@
         },
         {
             "ticker": "FIIC11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "TCIN11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "RCFA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1554,10 +1556,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "RBRK11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "PLTB11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1631,10 +1629,6 @@
         },
         {
             "ticker": "SPXT11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "STRX11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

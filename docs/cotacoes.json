@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-16T13:08:19Z",
+    "gerado_em": "2026-08-16T13:43:28Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-14",
     "estatisticas": {
         "consultados": 525,
-        "com_cotacao": 410,
-        "sem_cotacao": 115
+        "com_cotacao": 409,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -1143,9 +1143,6 @@
         "VVMR11": {
             "preco": 84.96
         },
-        "VPPR11": {
-            "preco": 20.0
-        },
         "VVDI11": {
             "preco": 10.0
         },
@@ -1659,6 +1656,10 @@
         },
         {
             "ticker": "TCPF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "VPPR11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

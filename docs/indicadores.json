@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-16T13:09:46Z",
+    "gerado_em": "2026-08-16T13:47:05Z",
     "origem": "Calculado",
-    "quantidade": 410,
+    "quantidade": 409,
     "dados": {
         "ADSH11": {
             "preco": 10.89,
@@ -113,8 +113,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.47,
-            "dy_12m": 6.38
+            "dividendos_12m": 0.59,
+            "dy_12m": 8.01
         },
         "ARXD11": {
             "preco": 7.85,
@@ -329,8 +329,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
-            "dividendos_12m": 4.278585,
-            "dy_12m": 10.12
+            "dividendos_12m": 4.830732,
+            "dy_12m": 11.42
         },
         "BRCR11": {
             "preco": 38.79,
@@ -1617,8 +1617,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
-            "dividendos_12m": 5.7231,
-            "dy_12m": 5.7
+            "dividendos_12m": 6.3925,
+            "dy_12m": 6.37
         },
         "HILG11": {
             "preco": 186.81,
@@ -1929,8 +1929,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 40.0,
-            "dividendos_12m": 62.0,
-            "dy_12m": 194.97
+            "dividendos_12m": 62.75,
+            "dy_12m": 197.33
         },
         "KNRI11": {
             "preco": 150.8,
@@ -2521,8 +2521,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.88,
-            "dividendos_12m": 2.1,
-            "dy_12m": 2.88
+            "dividendos_12m": 3.1,
+            "dy_12m": 4.25
         },
         "RBTS11": {
             "preco": 285.05,
@@ -2585,8 +2585,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
-            "dividendos_12m": 1.3,
-            "dy_12m": 17.11
+            "dividendos_12m": 1.28,
+            "dy_12m": 16.84
         },
         "RBHG11": {
             "preco": 56.49,
@@ -3027,14 +3027,6 @@
             "ultimo_dividendo": 3.55,
             "dividendos_12m": 10.88,
             "dy_12m": 12.81
-        },
-        "VPPR11": {
-            "preco": 20.0,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 0.07,
-            "dividendos_12m": 0.84,
-            "dy_12m": 4.2
         },
         "VVDI11": {
             "preco": 10.0,

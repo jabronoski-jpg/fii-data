@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-16T11:55:52Z",
+    "gerado_em": "2026-08-16T12:21:24Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-14",
     "estatisticas": {
         "consultados": 525,
-        "com_cotacao": 412,
-        "sem_cotacao": 113
+        "com_cotacao": 410,
+        "sem_cotacao": 115
     },
     "dados": {
         "ADSH11": {
@@ -450,9 +450,6 @@
         "RELG11": {
             "preco": 69.95
         },
-        "RRES11": {
-            "preco": 9.8
-        },
         "RZTR11": {
             "preco": 82.48
         },
@@ -545,9 +542,6 @@
         },
         "GRAV11": {
             "preco": 36.5
-        },
-        "RCFA11": {
-            "preco": 0.85
         },
         "GAME11": {
             "preco": 8.45
@@ -1404,6 +1398,10 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
+            "ticker": "RRES11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
             "ticker": "RZRM11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1413,6 +1411,10 @@
         },
         {
             "ticker": "FIIC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RCFA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

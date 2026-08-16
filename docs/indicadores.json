@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-16T11:56:53Z",
+    "gerado_em": "2026-08-16T12:22:18Z",
     "origem": "Calculado",
-    "quantidade": 412,
+    "quantidade": 410,
     "dados": {
         "ADSH11": {
             "preco": 10.89,
@@ -113,8 +113,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.59,
-            "dy_12m": 8.01
+            "dividendos_12m": 0.47,
+            "dy_12m": 6.38
         },
         "ARXD11": {
             "preco": 7.85,
@@ -369,8 +369,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
-            "dividendos_12m": 11.42,
-            "dy_12m": 13.3
+            "dividendos_12m": 6.95,
+            "dy_12m": 8.09
         },
         "BPML11": {
             "preco": 84.79,
@@ -1180,14 +1180,6 @@
             "dividendos_12m": 8.923533,
             "dy_12m": 12.76
         },
-        "RRES11": {
-            "preco": 9.8,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 0.2,
-            "dividendos_12m": 0.2,
-            "dy_12m": 2.04
-        },
         "RZTR11": {
             "preco": 82.48,
             "tipo": null,
@@ -1436,14 +1428,6 @@
             "dividendos_12m": 0,
             "dy_12m": 0
         },
-        "RCFA11": {
-            "preco": 0.85,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 0,
-            "dividendos_12m": 0,
-            "dy_12m": 0
-        },
         "GAME11": {
             "preco": 8.45,
             "tipo": null,
@@ -1633,8 +1617,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
-            "dividendos_12m": 6.3925,
-            "dy_12m": 6.37
+            "dividendos_12m": 5.7231,
+            "dy_12m": 5.7
         },
         "HILG11": {
             "preco": 186.81,
@@ -2849,8 +2833,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.82,
-            "dividendos_12m": 3.33,
-            "dy_12m": 2.35
+            "dividendos_12m": 0.82,
+            "dy_12m": 0.58
         },
         "STYI11": {
             "preco": 1287.99,

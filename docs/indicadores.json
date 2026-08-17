@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-17T11:50:28Z",
+    "gerado_em": "2026-08-17T12:26:06Z",
     "origem": "Calculado",
     "quantidade": 410,
     "dados": {
@@ -113,8 +113,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.47,
-            "dy_12m": 6.38
+            "dividendos_12m": 0.59,
+            "dy_12m": 8.01
         },
         "ARXD11": {
             "preco": 7.85,
@@ -329,8 +329,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
-            "dividendos_12m": 4.278585,
-            "dy_12m": 10.12
+            "dividendos_12m": 4.830732,
+            "dy_12m": 11.42
         },
         "BRCR11": {
             "preco": 38.79,
@@ -1105,8 +1105,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.880685,
-            "dividendos_12m": 13.402305,
-            "dy_12m": 19.73
+            "dividendos_12m": 61.371635,
+            "dy_12m": 90.36
         },
         "MCCI11": {
             "preco": 90.9,
@@ -1929,8 +1929,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 40.0,
-            "dividendos_12m": 62.0,
-            "dy_12m": 194.97
+            "dividendos_12m": 62.75,
+            "dy_12m": 197.33
         },
         "KNRI11": {
             "preco": 150.8,
@@ -2521,8 +2521,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.88,
-            "dividendos_12m": 2.1,
-            "dy_12m": 2.88
+            "dividendos_12m": 3.1,
+            "dy_12m": 4.25
         },
         "RBTS11": {
             "preco": 285.05,
@@ -2833,8 +2833,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.82,
-            "dividendos_12m": 0.82,
-            "dy_12m": 0.58
+            "dividendos_12m": 3.33,
+            "dy_12m": 2.35
         },
         "STYI11": {
             "preco": 1287.99,

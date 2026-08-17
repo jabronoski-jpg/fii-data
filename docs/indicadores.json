@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-17T04:02:52Z",
+    "gerado_em": "2026-08-17T04:56:49Z",
     "origem": "Calculado",
     "quantidade": 410,
     "dados": {
@@ -113,8 +113,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.59,
-            "dy_12m": 8.01
+            "dividendos_12m": 0.47,
+            "dy_12m": 6.38
         },
         "ARXD11": {
             "preco": 7.85,
@@ -329,8 +329,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
-            "dividendos_12m": 4.830732,
-            "dy_12m": 11.42
+            "dividendos_12m": 4.278585,
+            "dy_12m": 10.12
         },
         "BRCR11": {
             "preco": 38.79,
@@ -369,8 +369,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,
-            "dividendos_12m": 6.95,
-            "dy_12m": 8.09
+            "dividendos_12m": 11.42,
+            "dy_12m": 13.3
         },
         "BPML11": {
             "preco": 84.79,
@@ -2833,8 +2833,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.82,
-            "dividendos_12m": 0.82,
-            "dy_12m": 0.58
+            "dividendos_12m": 3.33,
+            "dy_12m": 2.35
         },
         "STYI11": {
             "preco": 1287.99,

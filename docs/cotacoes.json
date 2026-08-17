@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-17T20:23:19Z",
+    "gerado_em": "2026-08-17T20:51:57Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-17",
     "estatisticas": {
         "consultados": 525,
-        "com_cotacao": 410,
-        "sem_cotacao": 115
+        "com_cotacao": 409,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -831,9 +831,6 @@
         "OXRL11": {
             "preco": 130.03
         },
-        "PNDL11": {
-            "preco": 160.0
-        },
         "PNPR11": {
             "preco": 45.99
         },
@@ -910,7 +907,7 @@
             "preco": 8.07
         },
         "PLRI11": {
-            "preco": 6.29
+            "preco": 7.95
         },
         "PRSV11": {
             "preco": 28.07
@@ -1543,6 +1540,10 @@
         },
         {
             "ticker": "NVIF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "PNDL11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

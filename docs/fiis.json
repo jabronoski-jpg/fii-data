@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-17T23:59:50Z",
+    "gerado_em": "2026-08-18T01:24:04Z",
     "origem": "B3",
-    "quantidade": 525,
+    "quantidade": 526,
     "dados": [
         {
             "codigo": "ADSH",
@@ -243,6 +243,12 @@
             "ticker": "BRSE11",
             "nome": "FII BR7 SENA",
             "razao_social": "BR7 SENADO FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "BRGL",
+            "ticker": "BRGL11",
+            "nome": "FII BRGL",
+            "razao_social": "BRADESCO BTS LOGÍSTICA GRAVATAÍ FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BCIA",

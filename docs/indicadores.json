@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-18T04:50:55Z",
+    "gerado_em": "2026-08-18T05:22:05Z",
     "origem": "Calculado",
-    "quantidade": 409,
+    "quantidade": 410,
     "dados": {
         "ADSH11": {
             "preco": 10.84,
@@ -329,8 +329,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
-            "dividendos_12m": 4.830732,
-            "dy_12m": 11.37
+            "dividendos_12m": 4.418722,
+            "dy_12m": 10.4
         },
         "BRCR11": {
             "preco": 38.79,
@@ -379,6 +379,14 @@
             "ultimo_dividendo": 0.92,
             "dividendos_12m": 11.04,
             "dy_12m": 13.02
+        },
+        "BTYU11": {
+            "preco": 6.6,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0.05,
+            "dividendos_12m": 1.073853,
+            "dy_12m": 16.27
         },
         "BTWR11": {
             "preco": 90.0,
@@ -1097,8 +1105,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.880685,
-            "dividendos_12m": 61.371635,
-            "dy_12m": 90.36
+            "dividendos_12m": 13.912494,
+            "dy_12m": 20.48
         },
         "MCCI11": {
             "preco": 90.9,
@@ -1609,8 +1617,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
-            "dividendos_12m": 6.3925,
-            "dy_12m": 6.37
+            "dividendos_12m": 5.7231,
+            "dy_12m": 5.7
         },
         "HILG11": {
             "preco": 186.81,
@@ -1921,8 +1929,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 40.0,
-            "dividendos_12m": 62.75,
-            "dy_12m": 214.6
+            "dividendos_12m": 62.0,
+            "dy_12m": 212.04
         },
         "KNRI11": {
             "preco": 149.12,
@@ -2825,8 +2833,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.82,
-            "dividendos_12m": 3.33,
-            "dy_12m": 2.35
+            "dividendos_12m": 0.82,
+            "dy_12m": 0.58
         },
         "STYI11": {
             "preco": 1287.99,

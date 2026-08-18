@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-18T04:50:16Z",
+    "gerado_em": "2026-08-18T05:21:08Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-17",
     "estatisticas": {
         "consultados": 526,
-        "com_cotacao": 409,
-        "sem_cotacao": 117
+        "com_cotacao": 410,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -149,6 +149,9 @@
         },
         "BPML11": {
             "preco": 84.79
+        },
+        "BTYU11": {
+            "preco": 6.6
         },
         "BTWR11": {
             "preco": 90.0
@@ -1316,10 +1319,6 @@
         },
         {
             "ticker": "BTHR11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "BTYU11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

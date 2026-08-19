@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-19T23:40:31Z",
+    "gerado_em": "2026-08-19T23:59:13Z",
     "origem": "Calculado",
     "quantidade": 410,
     "dados": {
@@ -9,8 +9,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.02,
-            "dividendos_12m": 0.17,
-            "dy_12m": 1.57
+            "dividendos_12m": 0.21,
+            "dy_12m": 1.94
         },
         "AFHI11": {
             "preco": 92.14,
@@ -40,9 +40,9 @@
             "preco": 7.33,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.12,
-            "dividendos_12m": 1.222,
-            "dy_12m": 16.67
+            "ultimo_dividendo": 0.1,
+            "dividendos_12m": 1.217,
+            "dy_12m": 16.6
         },
         "ALZR11": {
             "preco": 9.84,
@@ -600,9 +600,9 @@
             "preco": 114.48,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 19.355642,
-            "dividendos_12m": 61.225642,
-            "dy_12m": 53.48
+            "ultimo_dividendo": 6.53,
+            "dividendos_12m": 67.755642,
+            "dy_12m": 59.19
         },
         "DAMA11": {
             "preco": 5.09,
@@ -704,9 +704,9 @@
             "preco": 5008.34,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 199.66795,
-            "dividendos_12m": 566.223,
-            "dy_12m": 11.31
+            "ultimo_dividendo": 744.8238,
+            "dividendos_12m": 1311.0468,
+            "dy_12m": 26.18
         },
         "ERPA11": {
             "preco": 126.05,
@@ -1929,8 +1929,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 40.0,
-            "dividendos_12m": 62.0,
-            "dy_12m": 183.59
+            "dividendos_12m": 62.75,
+            "dy_12m": 185.82
         },
         "KNRI11": {
             "preco": 153.48,
@@ -2064,9 +2064,9 @@
             "preco": 8.3,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.11,
-            "dividendos_12m": 1.32,
-            "dy_12m": 15.9
+            "ultimo_dividendo": 0.1,
+            "dividendos_12m": 1.31,
+            "dy_12m": 15.78
         },
         "MXRF11": {
             "preco": 9.29,
@@ -2521,8 +2521,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.88,
-            "dividendos_12m": 3.1,
-            "dy_12m": 4.27
+            "dividendos_12m": 2.1,
+            "dy_12m": 2.89
         },
         "RBTS11": {
             "preco": 285.05,

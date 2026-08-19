@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-18T23:57:10Z",
+    "gerado_em": "2026-08-19T00:56:19Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-18",
     "estatisticas": {
-        "consultados": 526,
+        "consultados": 527,
         "com_cotacao": 410,
-        "sem_cotacao": 116
+        "sem_cotacao": 117
     },
     "dados": {
         "ADSH11": {
@@ -82,7 +82,7 @@
             "preco": 110.0
         },
         "BLOG11": {
-            "preco": 6.6
+            "preco": 6.53
         },
         "BLMG11": {
             "preco": 31.29
@@ -1307,6 +1307,10 @@
         },
         {
             "ticker": "BRCD11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "BPOF11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-18T23:56:27Z",
+    "gerado_em": "2026-08-19T00:55:28Z",
     "origem": "B3",
-    "quantidade": 526,
+    "quantidade": 527,
     "dados": [
         {
             "codigo": "ADSH",
@@ -309,6 +309,12 @@
             "ticker": "BIME11",
             "nome": "FII BRIO ME",
             "razao_social": "BRIO MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "BPOF",
+            "ticker": "BPOF11",
+            "nome": "FII BPOF",
+            "razao_social": "BRIO PRIME OFFICE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BRIM",

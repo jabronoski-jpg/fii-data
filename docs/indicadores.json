@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-19T00:58:25Z",
+    "gerado_em": "2026-08-19T02:14:48Z",
     "origem": "Calculado",
     "quantidade": 410,
     "dados": {
@@ -197,12 +197,12 @@
             "dy_12m": 6.13
         },
         "BLOG11": {
-            "preco": 6.53,
+            "preco": 6.6,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.02,
             "dividendos_12m": 0.482703,
-            "dy_12m": 7.39
+            "dy_12m": 7.31
         },
         "BLMG11": {
             "preco": 31.29,

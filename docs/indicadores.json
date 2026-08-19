@@ -1,16 +1,16 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-19T07:04:49Z",
+    "gerado_em": "2026-08-19T07:53:49Z",
     "origem": "Calculado",
-    "quantidade": 409,
+    "quantidade": 410,
     "dados": {
         "ADSH11": {
             "preco": 10.84,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.02,
-            "dividendos_12m": 0.21,
-            "dy_12m": 1.94
+            "dividendos_12m": 0.17,
+            "dy_12m": 1.57
         },
         "AFHI11": {
             "preco": 92.4,
@@ -860,6 +860,14 @@
             "dividendos_12m": 20.490045,
             "dy_12m": 13.57
         },
+        "FCFL11": {
+            "preco": 120.0,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0.93,
+            "dividendos_12m": 11.021916,
+            "dy_12m": 9.18
+        },
         "CEOC11": {
             "preco": 40.75,
             "tipo": null,
@@ -1097,8 +1105,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.880685,
-            "dividendos_12m": 15.790883,
-            "dy_12m": 23.25
+            "dividendos_12m": 61.371635,
+            "dy_12m": 90.36
         },
         "MCCI11": {
             "preco": 90.17,
@@ -1609,8 +1617,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
-            "dividendos_12m": 6.3925,
-            "dy_12m": 6.37
+            "dividendos_12m": 5.7231,
+            "dy_12m": 5.7
         },
         "HILG11": {
             "preco": 186.81,
@@ -2513,8 +2521,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.88,
-            "dividendos_12m": 3.1,
-            "dy_12m": 4.19
+            "dividendos_12m": 2.1,
+            "dy_12m": 2.84
         },
         "RBTS11": {
             "preco": 285.05,

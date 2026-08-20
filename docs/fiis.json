@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-19T23:57:02Z",
+    "gerado_em": "2026-08-20T01:00:37Z",
     "origem": "B3",
-    "quantidade": 527,
+    "quantidade": 528,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1395,6 +1395,12 @@
             "ticker": "HCST11",
             "nome": "FII HECT DES",
             "razao_social": "HECTARE DESENVOLVIMENTO STUDENT HOUSING - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITAD"
+        },
+        {
+            "codigo": "HCHG",
+            "ticker": "HCHG11",
+            "nome": "FII HECT CRI",
+            "razao_social": "HECTARE RECEBÍVEIS HIGH GRADE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESP LIMITADA"
         },
         {
             "codigo": "HAAA",

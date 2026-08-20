@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-20T18:57:30Z",
+    "gerado_em": "2026-08-20T19:26:53Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-20",
     "estatisticas": {
@@ -13,7 +13,7 @@
             "preco": 10.84
         },
         "AFHI11": {
-            "preco": 91.82
+            "preco": 91.9
         },
         "AFHF11": {
             "preco": 10.0
@@ -31,13 +31,13 @@
             "preco": 83.0
         },
         "APXM11": {
-            "preco": 41.77
+            "preco": 41.88
         },
         "APXU11": {
             "preco": 100.0
         },
         "AIEC11": {
-            "preco": 61.22
+            "preco": 61.2
         },
         "AVUR11": {
             "preco": 91.3
@@ -70,7 +70,7 @@
             "preco": 66.16
         },
         "BBIG11": {
-            "preco": 4.57
+            "preco": 4.58
         },
         "BBRC11": {
             "preco": 102.59
@@ -85,13 +85,13 @@
             "preco": 6.53
         },
         "BLMG11": {
-            "preco": 30.5
+            "preco": 30.49
         },
         "BMLC11": {
             "preco": 99.45
         },
         "BCIA11": {
-            "preco": 86.21
+            "preco": 86.19
         },
         "BVAR11": {
             "preco": 1144.33
@@ -100,16 +100,16 @@
             "preco": 2.9
         },
         "FATN11": {
-            "preco": 77.25
+            "preco": 77.1
         },
         "BRCO11": {
-            "preco": 110.07
+            "preco": 109.8
         },
         "BICE11": {
             "preco": 400.0
         },
         "BIME11": {
-            "preco": 4.39
+            "preco": 4.4
         },
         "BRIM11": {
             "preco": 95.0
@@ -124,7 +124,7 @@
             "preco": 1000.0
         },
         "BROF11": {
-            "preco": 56.03
+            "preco": 56.04
         },
         "LLAO11": {
             "preco": 57.2
@@ -136,19 +136,19 @@
             "preco": 38.99
         },
         "BTCI11": {
-            "preco": 8.88
+            "preco": 8.91
         },
         "BTLG11": {
-            "preco": 97.43
+            "preco": 97.17
         },
         "BTHF11": {
-            "preco": 8.44
+            "preco": 8.42
         },
         "BTRU11": {
             "preco": 82.8
         },
         "BPML11": {
-            "preco": 82.75
+            "preco": 82.67
         },
         "BTYU11": {
             "preco": 5.5
@@ -160,7 +160,7 @@
             "preco": 109.17
         },
         "CXCO11": {
-            "preco": 69.93
+            "preco": 70.07
         },
         "CRFF11": {
             "preco": 65.17
@@ -169,7 +169,7 @@
             "preco": 63.59
         },
         "CCME11": {
-            "preco": 8.28
+            "preco": 8.26
         },
         "CCVA11": {
             "preco": 100.07
@@ -178,19 +178,19 @@
             "preco": 10.79
         },
         "CPLG11": {
-            "preco": 10.99
+            "preco": 10.97
         },
         "CPOF11": {
             "preco": 114.99
         },
         "CPTS11": {
-            "preco": 7.29
+            "preco": 7.28
         },
         "CPSH11": {
             "preco": 9.52
         },
         "CACR11": {
-            "preco": 18.98
+            "preco": 18.97
         },
         "CBOP11": {
             "preco": 28.51
@@ -199,7 +199,7 @@
             "preco": 104.86
         },
         "CNES11": {
-            "preco": 1.35
+            "preco": 1.36
         },
         "CTXT11": {
             "preco": 5.24
@@ -220,22 +220,22 @@
             "preco": 109.24
         },
         "CLIN11": {
-            "preco": 83.34
+            "preco": 83.64
         },
         "RENV11": {
-            "preco": 5.81
+            "preco": 5.71
         },
         "IBCR11": {
-            "preco": 37.98
+            "preco": 38.09
         },
         "CYCR11": {
-            "preco": 8.26
+            "preco": 8.27
         },
         "CYLD11": {
             "preco": 114.48
         },
         "DAMA11": {
-            "preco": 4.95
+            "preco": 5.1
         },
         "DAYM11": {
             "preco": 4.0
@@ -247,7 +247,7 @@
             "preco": 4.92
         },
         "DEVA11": {
-            "preco": 16.74
+            "preco": 16.81
         },
         "DAMT11": {
             "preco": 13.13
@@ -280,19 +280,19 @@
             "preco": 525.0
         },
         "EXES11": {
-            "preco": 9.5
+            "preco": 9.51
         },
         "FLCR11": {
-            "preco": 89.01
+            "preco": 88.83
         },
         "VRTA11": {
             "preco": 68.5
         },
         "VRTM11": {
-            "preco": 6.37
+            "preco": 6.36
         },
         "FLMA11": {
-            "preco": 151.6
+            "preco": 150.33
         },
         "EGDB11": {
             "preco": 1285.71
@@ -301,7 +301,7 @@
             "preco": 928.55
         },
         "EURO11": {
-            "preco": 287.33
+            "preco": 287.3
         },
         "HYPI11": {
             "preco": 181.5
@@ -319,7 +319,7 @@
             "preco": 587.0
         },
         "KFOF11": {
-            "preco": 74.69
+            "preco": 74.62
         },
         "DVFF11": {
             "preco": 5.09
@@ -328,7 +328,7 @@
             "preco": 270.0
         },
         "FAED11": {
-            "preco": 152.59
+            "preco": 152.6
         },
         "FCFL11": {
             "preco": 120.0
@@ -340,25 +340,25 @@
             "preco": 701.0
         },
         "EDGA11": {
-            "preco": 13.0
+            "preco": 13.06
         },
         "FYTO11": {
-            "preco": 7.76
+            "preco": 7.75
         },
         "HCRI11": {
             "preco": 274.09
         },
         "NSLU11": {
-            "preco": 170.07
+            "preco": 171.67
         },
         "MAXR11": {
-            "preco": 48.76
+            "preco": 48.74
         },
         "PQDP11": {
             "preco": 2480.03
         },
         "RBRR11": {
-            "preco": 73.85
+            "preco": 74.0
         },
         "RBRI11": {
             "preco": 225.02
@@ -367,10 +367,10 @@
             "preco": 86.0
         },
         "RECR11": {
-            "preco": 75.23
+            "preco": 75.15
         },
         "RECT11": {
-            "preco": 32.35
+            "preco": 32.37
         },
         "SHDP11": {
             "preco": 1210.05
@@ -382,7 +382,7 @@
             "preco": 99.99
         },
         "CXAG11": {
-            "preco": 73.76
+            "preco": 73.7
         },
         "CXCI11": {
             "preco": 64.34
@@ -391,7 +391,7 @@
             "preco": 40.39
         },
         "CXTL11": {
-            "preco": 185.0
+            "preco": 183.5
         },
         "LKDV11": {
             "preco": 1104.12
@@ -403,7 +403,7 @@
             "preco": 12.9
         },
         "GTWR11": {
-            "preco": 78.42
+            "preco": 78.13
         },
         "HBCR11": {
             "preco": 153.52
@@ -415,7 +415,7 @@
             "preco": 96.01
         },
         "HOSI11": {
-            "preco": 73.99
+            "preco": 77.01
         },
         "BLUE11": {
             "preco": 98.0
@@ -424,16 +424,16 @@
             "preco": 67.92
         },
         "MCCI11": {
-            "preco": 92.78
+            "preco": 93.04
         },
         "WTSP11": {
-            "preco": 59.0
+            "preco": 59.53
         },
         "PABY11": {
-            "preco": 24.76
+            "preco": 24.74
         },
         "RBRY11": {
-            "preco": 75.5
+            "preco": 75.66
         },
         "RBRP11": {
             "preco": 41.98
@@ -451,7 +451,7 @@
             "preco": 69.95
         },
         "RZTR11": {
-            "preco": 81.59
+            "preco": 81.55
         },
         "ROOF11": {
             "preco": 249.99
@@ -466,13 +466,13 @@
             "preco": 34.04
         },
         "SMRE11": {
-            "preco": 55.3
+            "preco": 55.5
         },
         "SOFF11": {
             "preco": 94.2
         },
         "TGAR11": {
-            "preco": 43.42
+            "preco": 43.43
         },
         "TRCO11": {
             "preco": 10.2
@@ -481,10 +481,10 @@
             "preco": 23.39
         },
         "LVBI11": {
-            "preco": 96.88
+            "preco": 96.84
         },
         "PVBI11": {
-            "preco": 64.89
+            "preco": 64.75
         },
         "VERE11": {
             "preco": 445.76
@@ -499,7 +499,7 @@
             "preco": 109.0
         },
         "BSLT11": {
-            "preco": 61.92
+            "preco": 61.84
         },
         "TCIN11": {
             "preco": 145.92
@@ -514,25 +514,25 @@
             "preco": 119.38
         },
         "GLPF11": {
-            "preco": 109.32
+            "preco": 109.41
         },
         "GLCR11": {
             "preco": 98.67
         },
         "GCRI11": {
-            "preco": 65.1
+            "preco": 65.08
         },
         "GCOI11": {
             "preco": 72.87
         },
         "GZIT11": {
-            "preco": 36.85
+            "preco": 36.6
         },
         "FIGS11": {
-            "preco": 47.47
+            "preco": 47.45
         },
         "GSFI11": {
-            "preco": 10.96
+            "preco": 10.9
         },
         "VXXV11": {
             "preco": 790.0
@@ -544,19 +544,19 @@
             "preco": 36.5
         },
         "GAME11": {
-            "preco": 8.53
+            "preco": 8.39
         },
         "GARE11": {
-            "preco": 8.21
+            "preco": 8.2
         },
         "HABT11": {
-            "preco": 65.18
+            "preco": 64.75
         },
         "AERO11": {
             "preco": 100.01
         },
         "HCTR11": {
-            "preco": 13.79
+            "preco": 13.83
         },
         "HCST11": {
             "preco": 35.1
@@ -574,7 +574,7 @@
             "preco": 8.53
         },
         "HGBS11": {
-            "preco": 18.43
+            "preco": 18.42
         },
         "HDEL11": {
             "preco": 3.32
@@ -589,7 +589,7 @@
             "preco": 9.18
         },
         "HOFC11": {
-            "preco": 32.89
+            "preco": 32.42
         },
         "HDOF11": {
             "preco": 90.0
@@ -607,7 +607,7 @@
             "preco": 87.92
         },
         "HFOF11": {
-            "preco": 6.08
+            "preco": 6.05
         },
         "YEES11": {
             "preco": 102.0
@@ -622,22 +622,22 @@
             "preco": 186.81
         },
         "HTMX11": {
-            "preco": 134.7
+            "preco": 134.44
         },
         "HSAF11": {
             "preco": 73.33
         },
         "HSLG11": {
-            "preco": 73.97
+            "preco": 73.89
         },
         "HSML11": {
-            "preco": 82.11
+            "preco": 82.05
         },
         "HUSI11": {
             "preco": 1200.0
         },
         "GRUL11": {
-            "preco": 8.05
+            "preco": 8.08
         },
         "ICNE11": {
             "preco": 750.0
@@ -649,7 +649,7 @@
             "preco": 65.0
         },
         "INLG11": {
-            "preco": 62.63
+            "preco": 62.87
         },
         "INRD11": {
             "preco": 71.61
@@ -658,25 +658,25 @@
             "preco": 52.39
         },
         "ITIT11": {
-            "preco": 59.81
+            "preco": 59.97
         },
         "IBBP11": {
-            "preco": 8.49
+            "preco": 8.19
         },
         "XPIN11": {
             "preco": 62.04
         },
         "IRIM11": {
-            "preco": 59.64
+            "preco": 59.56
         },
         "ICRI11": {
-            "preco": 86.07
+            "preco": 86.11
         },
         "TMPS11": {
             "preco": 72.46
         },
         "ITRI11": {
-            "preco": 73.8
+            "preco": 73.55
         },
         "JASC11": {
             "preco": 100.0
@@ -691,19 +691,19 @@
             "preco": 132.1
         },
         "JPPA11": {
-            "preco": 74.51
+            "preco": 74.88
         },
         "JPRD11": {
             "preco": 100.0
         },
         "JSAF11": {
-            "preco": 6.67
+            "preco": 6.69
         },
         "JSRE11": {
-            "preco": 56.53
+            "preco": 56.49
         },
         "JSCR11": {
-            "preco": 7.85
+            "preco": 7.86
         },
         "KISU11": {
             "preco": 6.03
@@ -712,40 +712,40 @@
             "preco": 52.75
         },
         "KCRE11": {
-            "preco": 8.41
+            "preco": 8.42
         },
         "KFEN11": {
             "preco": 1100.0
         },
         "KNHF11": {
-            "preco": 89.09
+            "preco": 89.11
         },
         "KNHY11": {
-            "preco": 94.66
+            "preco": 94.88
         },
         "KNRE11": {
             "preco": 0.31
         },
         "KNIP11": {
-            "preco": 89.43
+            "preco": 89.3
         },
         "KORE11": {
-            "preco": 63.33
+            "preco": 63.28
         },
         "KNPR11": {
-            "preco": 34.0
+            "preco": 33.77
         },
         "KNRI11": {
-            "preco": 153.97
+            "preco": 153.96
         },
         "KNCR11": {
-            "preco": 106.71
+            "preco": 106.6
         },
         "KNSC11": {
-            "preco": 8.96
+            "preco": 8.95
         },
         "KNUQ11": {
-            "preco": 103.02
+            "preco": 102.93
         },
         "LMAI11": {
             "preco": 34.5
@@ -769,13 +769,13 @@
             "preco": 109.58
         },
         "LIFE11": {
-            "preco": 6.85
+            "preco": 6.83
         },
         "MAGM11": {
             "preco": 9.99
         },
         "MANA11": {
-            "preco": 8.88
+            "preco": 8.89
         },
         "MMVE11": {
             "preco": 147.0
@@ -784,13 +784,13 @@
             "preco": 10.45
         },
         "MCRE11": {
-            "preco": 7.96
+            "preco": 7.92
         },
         "MXRF11": {
             "preco": 9.22
         },
         "MFII11": {
-            "preco": 30.5
+            "preco": 30.64
         },
         "MIDW11": {
             "preco": 10.98
@@ -799,10 +799,10 @@
             "preco": 8.82
         },
         "NAVT11": {
-            "preco": 63.3
+            "preco": 63.93
         },
         "APTO11": {
-            "preco": 8.13
+            "preco": 8.09
         },
         "NEWL11": {
             "preco": 102.01
@@ -820,7 +820,7 @@
             "preco": 7.49
         },
         "ARRI11": {
-            "preco": 4.54
+            "preco": 4.53
         },
         "OBAL11": {
             "preco": 1095.0
@@ -829,7 +829,7 @@
             "preco": 2914.9
         },
         "OUJP11": {
-            "preco": 66.77
+            "preco": 66.68
         },
         "OXRL11": {
             "preco": 130.03
@@ -844,7 +844,7 @@
             "preco": 28.13
         },
         "PMIS11": {
-            "preco": 7.46
+            "preco": 7.48
         },
         "PQAG11": {
             "preco": 56.79
@@ -853,64 +853,64 @@
             "preco": 10.28
         },
         "PCIP11": {
-            "preco": 69.51
+            "preco": 69.66
         },
         "RCFF11": {
             "preco": 58.0
         },
         "PATC11": {
-            "preco": 39.34
+            "preco": 38.94
         },
         "HGRE11": {
-            "preco": 113.9
+            "preco": 113.83
         },
         "HGLG11": {
-            "preco": 145.02
+            "preco": 144.88
         },
         "PLAG11": {
-            "preco": 59.99
+            "preco": 60.06
         },
         "PATL11": {
             "preco": 64.15
         },
         "RBRL11": {
-            "preco": 69.85
+            "preco": 69.7
         },
         "PMLL11": {
-            "preco": 99.77
+            "preco": 99.75
         },
         "RBRX11": {
-            "preco": 6.94
+            "preco": 6.95
         },
         "RBRK11": {
             "preco": 107.0
         },
         "HGCR11": {
-            "preco": 91.87
+            "preco": 92.47
         },
         "VCRR11": {
             "preco": 55.0
         },
         "HGRU11": {
-            "preco": 113.04
+            "preco": 112.87
         },
         "PSEC11": {
             "preco": 49.05
         },
         "TOPP11": {
-            "preco": 62.9
+            "preco": 62.89
         },
         "PEMA11": {
             "preco": 27.03
         },
         "PMRL11": {
-            "preco": 109.93
+            "preco": 109.97
         },
         "PRSN11": {
             "preco": 4.81
         },
         "PORD11": {
-            "preco": 8.25
+            "preco": 8.22
         },
         "PLRI11": {
             "preco": 7.94
@@ -955,7 +955,7 @@
             "preco": 36.25
         },
         "REME11": {
-            "preco": 72.89
+            "preco": 72.42
         },
         "RBTS11": {
             "preco": 285.05
@@ -964,10 +964,10 @@
             "preco": 13.0
         },
         "RPRI11": {
-            "preco": 69.84
+            "preco": 69.54
         },
         "RINV11": {
-            "preco": 99.0
+            "preco": 99.05
         },
         "RCRI11": {
             "preco": 95.5
@@ -982,7 +982,7 @@
             "preco": 7.4
         },
         "RBHG11": {
-            "preco": 54.67
+            "preco": 54.82
         },
         "RBHY11": {
             "preco": 60.75
@@ -997,22 +997,22 @@
             "preco": 216.57
         },
         "RCRB11": {
-            "preco": 128.15
+            "preco": 127.99
         },
         "RBRS11": {
-            "preco": 41.0
+            "preco": 41.38
         },
         "RBVA11": {
             "preco": 8.67
         },
         "RNGO11": {
-            "preco": 52.08
+            "preco": 52.36
         },
         "RZAK11": {
-            "preco": 75.15
+            "preco": 75.1
         },
         "RZAT11": {
-            "preco": 85.79
+            "preco": 85.56
         },
         "RZLC11": {
             "preco": 1007.89
@@ -1021,10 +1021,10 @@
             "preco": 115.0
         },
         "SAPI11": {
-            "preco": 8.69
+            "preco": 8.7
         },
         "SCPF11": {
-            "preco": 2.85
+            "preco": 2.83
         },
         "SEQR11": {
             "preco": 52.49
@@ -1048,7 +1048,7 @@
             "preco": 1051.35
         },
         "SPTW11": {
-            "preco": 29.22
+            "preco": 29.25
         },
         "LTMT11": {
             "preco": 93.78
@@ -1069,7 +1069,7 @@
             "preco": 12.07
         },
         "SPXS11": {
-            "preco": 7.45
+            "preco": 7.53
         },
         "STRX11": {
             "preco": 141.96
@@ -1078,16 +1078,16 @@
             "preco": 1287.99
         },
         "SNEL11": {
-            "preco": 8.08
+            "preco": 8.09
         },
         "SNFF11": {
-            "preco": 70.38
+            "preco": 70.3
         },
         "SNME11": {
-            "preco": 9.28
+            "preco": 9.31
         },
         "SNCI11": {
-            "preco": 81.4
+            "preco": 81.3
         },
         "SPMO11": {
             "preco": 120.0
@@ -1099,7 +1099,7 @@
             "preco": 7.46
         },
         "TRBL11": {
-            "preco": 46.55
+            "preco": 46.42
         },
         "NAUI11": {
             "preco": 1000.0
@@ -1108,7 +1108,7 @@
             "preco": 1.08
         },
         "TVRI11": {
-            "preco": 88.37
+            "preco": 88.38
         },
         "VOTS11": {
             "preco": 82.12
@@ -1117,16 +1117,16 @@
             "preco": 248.75
         },
         "TORD11": {
-            "preco": 1.09
+            "preco": 1.05
         },
         "TSNC11": {
             "preco": 58.9
         },
         "TRXY11": {
-            "preco": 7.5
+            "preco": 7.37
         },
         "TRXF11": {
-            "preco": 74.7
+            "preco": 74.23
         },
         "TRXB11": {
             "preco": 177.53
@@ -1138,7 +1138,7 @@
             "preco": 56.34
         },
         "URPR11": {
-            "preco": 19.33
+            "preco": 19.26
         },
         "VVCO11": {
             "preco": 10.5
@@ -1147,28 +1147,28 @@
             "preco": 85.0
         },
         "VPPR11": {
-            "preco": 19.97
+            "preco": 19.96
         },
         "VVDI11": {
             "preco": 10.0
         },
         "VVCR11": {
-            "preco": 7.3
+            "preco": 7.23
         },
         "VVRI11": {
             "preco": 8.64
         },
         "VGIR11": {
-            "preco": 9.3
+            "preco": 9.28
         },
         "VGIP11": {
-            "preco": 73.91
+            "preco": 73.93
         },
         "VGII11": {
             "preco": 61.18
         },
         "VGHF11": {
-            "preco": 5.05
+            "preco": 5.04
         },
         "VGRI11": {
             "preco": 5.31
@@ -1177,10 +1177,10 @@
             "preco": 92.63
         },
         "VCJR11": {
-            "preco": 66.05
+            "preco": 65.78
         },
         "VSLH11": {
-            "preco": 1.62
+            "preco": 1.61
         },
         "FVPQ11": {
             "preco": 52.25
@@ -1192,52 +1192,52 @@
             "preco": 2.26
         },
         "VILG11": {
-            "preco": 90.12
+            "preco": 89.44
         },
         "VINO11": {
-            "preco": 4.26
+            "preco": 4.21
         },
         "VISC11": {
-            "preco": 101.36
+            "preco": 101.4
         },
         "SPDE11": {
             "preco": 1266.67
         },
         "WHGR11": {
-            "preco": 8.23
+            "preco": 8.18
         },
         "XLPR11": {
             "preco": 66.0
         },
         "XPCM11": {
-            "preco": 7.88
+            "preco": 7.82
         },
         "XPCI11": {
-            "preco": 75.54
+            "preco": 75.36
         },
         "XPLG11": {
-            "preco": 88.98
+            "preco": 88.83
         },
         "XPML11": {
-            "preco": 97.79
+            "preco": 97.87
         },
         "XPSF11": {
-            "preco": 5.8
+            "preco": 5.78
         },
         "YUFI11": {
             "preco": 15.0
         },
         "ZAGH11": {
-            "preco": 6.93
+            "preco": 7.2
         },
         "GGRC11": {
-            "preco": 9.05
+            "preco": 9.03
         },
         "ZAVC11": {
             "preco": 9.16
         },
         "ZAVI11": {
-            "preco": 9.18
+            "preco": 9.19
         },
         "ZIFI11": {
             "preco": 749.99

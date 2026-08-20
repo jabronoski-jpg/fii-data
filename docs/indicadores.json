@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-20T05:55:31Z",
+    "gerado_em": "2026-08-20T06:31:22Z",
     "origem": "Calculado",
     "quantidade": 411,
     "dados": {
@@ -1625,8 +1625,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.95,
-            "dividendos_12m": 5.7231,
-            "dy_12m": 5.7
+            "dividendos_12m": 6.3925,
+            "dy_12m": 6.37
         },
         "HILG11": {
             "preco": 186.81,
@@ -2529,8 +2529,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.88,
-            "dividendos_12m": 3.1,
-            "dy_12m": 4.27
+            "dividendos_12m": 2.1,
+            "dy_12m": 2.89
         },
         "RBTS11": {
             "preco": 285.05,

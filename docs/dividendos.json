@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-20T04:06:38Z",
+    "gerado_em": "2026-08-20T04:51:57Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 528,
@@ -8,6 +8,10 @@
     },
     "dados": {
         "ADSH11": [
+            {
+                "data": "2026-03-26",
+                "valor": 0.04
+            },
             {
                 "data": "2026-04-24",
                 "valor": 0.04
@@ -29516,6 +29520,10 @@
             }
         ],
         "KNPR11": [
+            {
+                "data": "2026-07-01",
+                "valor": 0.75
+            },
             {
                 "data": "2026-07-02",
                 "valor": 22.0

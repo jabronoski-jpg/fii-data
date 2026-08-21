@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-20T23:48:21Z",
+    "gerado_em": "2026-08-21T00:47:47Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-20",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 411,
-        "sem_cotacao": 117
+        "com_cotacao": 416,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -47,6 +47,9 @@
         },
         "EIRA11": {
             "preco": 104.55
+        },
+        "AQPA11": {
+            "preco": 1.0
         },
         "ARTE11": {
             "preco": 7.02
@@ -211,7 +214,7 @@
             "preco": 365.0
         },
         "CJCT11": {
-            "preco": 68.0
+            "preco": 69.48
         },
         "CIXF11": {
             "preco": 114.52
@@ -250,7 +253,7 @@
             "preco": 16.75
         },
         "DAMT11": {
-            "preco": 13.13
+            "preco": 13.0
         },
         "DOVL11": {
             "preco": 583.04
@@ -450,6 +453,9 @@
         "RELG11": {
             "preco": 69.95
         },
+        "RRES11": {
+            "preco": 9.8
+        },
         "RZTR11": {
             "preco": 81.7
         },
@@ -542,6 +548,9 @@
         },
         "GRAV11": {
             "preco": 36.5
+        },
+        "RCFA11": {
+            "preco": 0.85
         },
         "GAME11": {
             "preco": 8.38
@@ -1179,6 +1188,9 @@
         "VCJR11": {
             "preco": 66.5
         },
+        "VCTH11": {
+            "preco": 101.0
+        },
         "VSLH11": {
             "preco": 1.61
         },
@@ -1205,6 +1217,9 @@
         },
         "WHGR11": {
             "preco": 8.2
+        },
+        "WTXA11": {
+            "preco": 1.0
         },
         "XLPR11": {
             "preco": 66.0
@@ -1250,10 +1265,6 @@
         },
         {
             "ticker": "MTOF11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "AQPA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1409,10 +1420,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "RRES11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "RZRM11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1422,10 +1429,6 @@
         },
         {
             "ticker": "FIIC11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "RCFA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1685,10 +1688,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "VCTH11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "VGRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1706,10 +1705,6 @@
         },
         {
             "ticker": "VIOL11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "WTXA11",
             "motivo": "Sem dados no Yahoo Finance"
         }
     ]

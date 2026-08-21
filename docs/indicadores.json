@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-21T21:17:08Z",
+    "gerado_em": "2026-08-21T21:43:41Z",
     "origem": "Calculado",
     "quantidade": 412,
     "dados": {
@@ -2849,8 +2849,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.82,
-            "dividendos_12m": 0.82,
-            "dy_12m": 0.58
+            "dividendos_12m": 3.33,
+            "dy_12m": 2.35
         },
         "STYI11": {
             "preco": 1287.99,

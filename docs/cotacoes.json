@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-22T10:14:40Z",
+    "gerado_em": "2026-08-22T10:42:03Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-21",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 411,
-        "sem_cotacao": 117
+        "com_cotacao": 412,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -647,6 +647,9 @@
         },
         "IMMB11": {
             "preco": 180.0
+        },
+        "INDE11": {
+            "preco": 65.0
         },
         "INLG11": {
             "preco": 62.87
@@ -1442,10 +1445,6 @@
         },
         {
             "ticker": "IVCI11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "INDE11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

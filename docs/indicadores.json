@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-22T03:55:32Z",
+    "gerado_em": "2026-08-22T04:25:19Z",
     "origem": "Calculado",
     "quantidade": 411,
     "dados": {
@@ -1156,6 +1156,14 @@
             "dividendos_12m": 4.75,
             "dy_12m": 11.29
         },
+        "FPNG11": {
+            "preco": 410.0,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 4.83,
+            "dividendos_12m": 10.459745,
+            "dy_12m": 2.55
+        },
         "VTPL11": {
             "preco": 65.9,
             "tipo": null,
@@ -1251,14 +1259,6 @@
             "ultimo_dividendo": 0.012286,
             "dividendos_12m": 0.012286,
             "dy_12m": 0.12
-        },
-        "TRUE11": {
-            "preco": 24.0,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 0,
-            "dividendos_12m": 0,
-            "dy_12m": 0
         },
         "LVBI11": {
             "preco": 96.97,

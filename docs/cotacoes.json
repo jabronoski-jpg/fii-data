@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-23T11:57:58Z",
+    "gerado_em": "2026-08-23T12:35:51Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-21",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 416,
-        "sem_cotacao": 112
+        "com_cotacao": 412,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -453,9 +453,6 @@
         "RELG11": {
             "preco": 69.95
         },
-        "RRES11": {
-            "preco": 9.8
-        },
         "RZTR11": {
             "preco": 84.33
         },
@@ -548,9 +545,6 @@
         },
         "GRAV11": {
             "preco": 36.5
-        },
-        "RCFA11": {
-            "preco": 0.85
         },
         "GAME11": {
             "preco": 8.36
@@ -1188,9 +1182,6 @@
         "VCJR11": {
             "preco": 67.26
         },
-        "VCTH11": {
-            "preco": 101.0
-        },
         "VSLH11": {
             "preco": 1.62
         },
@@ -1217,9 +1208,6 @@
         },
         "WHGR11": {
             "preco": 8.3
-        },
-        "WTXA11": {
-            "preco": 1.0
         },
         "XLPR11": {
             "preco": 66.84
@@ -1420,6 +1408,10 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
+            "ticker": "RRES11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
             "ticker": "RZRM11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1429,6 +1421,10 @@
         },
         {
             "ticker": "FIIC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RCFA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1688,6 +1684,10 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
+            "ticker": "VCTH11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
             "ticker": "VGRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1705,6 +1705,10 @@
         },
         {
             "ticker": "VIOL11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "WTXA11",
             "motivo": "Sem dados no Yahoo Finance"
         }
     ]

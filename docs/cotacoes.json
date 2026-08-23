@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-23T19:56:42Z",
+    "gerado_em": "2026-08-23T20:15:21Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-21",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 411,
-        "sem_cotacao": 117
+        "com_cotacao": 412,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -1221,6 +1221,9 @@
         "XPLG11": {
             "preco": 90.0
         },
+        "XPML11": {
+            "preco": 98.4
+        },
         "XPSF11": {
             "preco": 5.83
         },
@@ -1706,10 +1709,6 @@
         },
         {
             "ticker": "WTXA11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "XPML11",
             "motivo": "Sem dados no Yahoo Finance"
         }
     ]

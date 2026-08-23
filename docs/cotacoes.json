@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-23T18:55:18Z",
+    "gerado_em": "2026-08-23T19:16:37Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-21",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 411,
-        "sem_cotacao": 117
+        "com_cotacao": 412,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -786,6 +786,9 @@
         "MCLO11": {
             "preco": 10.45
         },
+        "MCRE11": {
+            "preco": 8.03
+        },
         "MXRF11": {
             "preco": 9.26
         },
@@ -1530,10 +1533,6 @@
         },
         {
             "ticker": "LOFT11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "MCRE11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

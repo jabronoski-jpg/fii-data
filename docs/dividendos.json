@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-24T08:29:23Z",
+    "gerado_em": "2026-08-24T09:13:00Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 528,
@@ -43188,6 +43188,18 @@
             }
         ],
         "STRX11": [
+            {
+                "data": "2026-05-04",
+                "valor": 0.86
+            },
+            {
+                "data": "2026-06-01",
+                "valor": 0.84
+            },
+            {
+                "data": "2026-07-01",
+                "valor": 0.81
+            },
             {
                 "data": "2026-08-03",
                 "valor": 0.82

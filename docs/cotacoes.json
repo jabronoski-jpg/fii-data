@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-24T22:51:34Z",
+    "gerado_em": "2026-08-24T23:15:49Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-24",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 411,
-        "sem_cotacao": 117
+        "com_cotacao": 412,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -365,6 +365,9 @@
         },
         "RBRI11": {
             "preco": 225.02
+        },
+        "RDIV11": {
+            "preco": 86.0
         },
         "RECR11": {
             "preco": 75.0
@@ -1374,10 +1377,6 @@
         },
         {
             "ticker": "HLMB11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "RDIV11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

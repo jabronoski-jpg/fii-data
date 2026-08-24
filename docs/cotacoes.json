@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-24T20:20:36Z",
+    "gerado_em": "2026-08-24T20:56:48Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-24",
     "estatisticas": {
@@ -37,7 +37,7 @@
             "preco": 99.47
         },
         "AIEC11": {
-            "preco": 61.49
+            "preco": 63.6
         },
         "AVUR11": {
             "preco": 91.3
@@ -52,7 +52,7 @@
             "preco": 1.05
         },
         "ARTE11": {
-            "preco": 7.36
+            "preco": 7.1
         },
         "ARXD11": {
             "preco": 7.6
@@ -76,7 +76,7 @@
             "preco": 4.64
         },
         "BBRC11": {
-            "preco": 102.99
+            "preco": 103.0
         },
         "BFCC11": {
             "preco": 104.8
@@ -721,7 +721,7 @@
             "preco": 1100.0
         },
         "KNHF11": {
-            "preco": 89.47
+            "preco": 89.45
         },
         "KNHY11": {
             "preco": 95.85
@@ -781,19 +781,19 @@
             "preco": 9.08
         },
         "MMVE11": {
-            "preco": 147.0
+            "preco": 145.0
         },
         "MCLO11": {
             "preco": 10.45
         },
         "MCRE11": {
-            "preco": 8.21
+            "preco": 8.25
         },
         "MXRF11": {
             "preco": 9.2
         },
         "MFII11": {
-            "preco": 32.9
+            "preco": 31.7
         },
         "MIDW11": {
             "preco": 10.98
@@ -958,7 +958,7 @@
             "preco": 35.51
         },
         "REME11": {
-            "preco": 80.01
+            "preco": 84.01
         },
         "RBTS11": {
             "preco": 285.05
@@ -1129,7 +1129,7 @@
             "preco": 7.6
         },
         "TRXF11": {
-            "preco": 70.71
+            "preco": 70.65
         },
         "TRXB11": {
             "preco": 175.0

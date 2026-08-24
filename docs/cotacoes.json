@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-24T11:51:55Z",
+    "gerado_em": "2026-08-24T12:30:36Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-21",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 411,
-        "sem_cotacao": 117
+        "com_cotacao": 412,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -810,6 +810,9 @@
         "NEWL11": {
             "preco": 102.52
         },
+        "NEWU11": {
+            "preco": 110.0
+        },
         "NMKS11": {
             "preco": 1300.0
         },
@@ -1546,10 +1549,6 @@
         },
         {
             "ticker": "EAGL11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "NEWU11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-25T04:10:11Z",
+    "gerado_em": "2026-08-25T04:53:15Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 529,
@@ -7897,6 +7897,10 @@
             {
                 "data": "2026-06-01",
                 "valor": 0.23
+            },
+            {
+                "data": "2026-08-24",
+                "valor": 1.16
             }
         ],
         "CBOP11": [

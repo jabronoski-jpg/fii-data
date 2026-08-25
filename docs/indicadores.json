@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-25T04:10:11Z",
+    "gerado_em": "2026-08-25T04:53:15Z",
     "origem": "Calculado",
     "quantidade": 412,
     "dados": {
@@ -496,9 +496,9 @@
             "preco": 16.3,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.23,
-            "dividendos_12m": 14.77,
-            "dy_12m": 90.61
+            "ultimo_dividendo": 1.16,
+            "dividendos_12m": 14.56,
+            "dy_12m": 89.33
         },
         "CBOP11": {
             "preco": 28.8,

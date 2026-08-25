@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-24T23:56:29Z",
+    "gerado_em": "2026-08-25T00:57:30Z",
     "origem": "B3",
-    "quantidade": 528,
+    "quantidade": 529,
     "dados": [
         {
             "codigo": "ADSH",
@@ -2001,6 +2001,12 @@
             "ticker": "MXRF11",
             "nome": "FII MAXI REN",
             "razao_social": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GANT",
+            "ticker": "GANT11",
+            "nome": "FII GANT",
+            "razao_social": "MELLO  ALVES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "MFII",

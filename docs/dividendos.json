@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-25T12:32:36Z",
+    "gerado_em": "2026-08-25T13:35:05Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 529,
@@ -7306,6 +7306,10 @@
             }
         ],
         "CPLG11": [
+            {
+                "data": "2024-11-08",
+                "valor": 0.09475
+            },
             {
                 "data": "2026-08-17",
                 "valor": 0.13

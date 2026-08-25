@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-25T21:04:04Z",
+    "gerado_em": "2026-08-25T22:00:11Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-25",
     "estatisticas": {
         "consultados": 529,
-        "com_cotacao": 414,
-        "sem_cotacao": 115
+        "com_cotacao": 413,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -1131,9 +1131,6 @@
         "TSNC11": {
             "preco": 58.9
         },
-        "TRXY11": {
-            "preco": 7.59
-        },
         "TRXF11": {
             "preco": 70.93
         },
@@ -1671,6 +1668,10 @@
         },
         {
             "ticker": "TCPF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "TRXY11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

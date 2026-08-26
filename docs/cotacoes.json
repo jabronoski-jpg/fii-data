@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-25T23:47:53Z",
+    "gerado_em": "2026-08-26T00:46:38Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-08-25",
     "estatisticas": {
         "consultados": 529,
-        "com_cotacao": 414,
-        "sem_cotacao": 115
+        "com_cotacao": 417,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -49,7 +49,7 @@
             "preco": 104.55
         },
         "AQPA11": {
-            "preco": 1.05
+            "preco": 1.0
         },
         "ARTE11": {
             "preco": 7.37
@@ -455,6 +455,9 @@
         },
         "RELG11": {
             "preco": 69.95
+        },
+        "RRES11": {
+            "preco": 9.8
         },
         "RZTR11": {
             "preco": 84.0
@@ -1188,6 +1191,9 @@
         "VCJR11": {
             "preco": 68.5
         },
+        "VCTH11": {
+            "preco": 101.0
+        },
         "VSLH11": {
             "preco": 1.62
         },
@@ -1214,6 +1220,9 @@
         },
         "WHGR11": {
             "preco": 8.57
+        },
+        "WTXA11": {
+            "preco": 1.0
         },
         "XLPR11": {
             "preco": 68.0
@@ -1407,10 +1416,6 @@
         },
         {
             "ticker": "ESTQ11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "RRES11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1686,10 +1691,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "VCTH11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "VGRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1707,10 +1708,6 @@
         },
         {
             "ticker": "VIOL11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "WTXA11",
             "motivo": "Sem dados no Yahoo Finance"
         }
     ]

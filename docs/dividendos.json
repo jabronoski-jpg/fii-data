@@ -1,12 +1,34 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-26T16:35:57Z",
+    "gerado_em": "2026-08-26T18:25:23Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 529,
-        "com_dividendos": 366
+        "com_dividendos": 367
     },
     "dados": {
+        "ADSH11": [
+            {
+                "data": "2026-03-26",
+                "valor": 0.04
+            },
+            {
+                "data": "2026-04-24",
+                "valor": 0.04
+            },
+            {
+                "data": "2026-05-25",
+                "valor": 0.04
+            },
+            {
+                "data": "2026-06-24",
+                "valor": 0.07
+            },
+            {
+                "data": "2026-08-17",
+                "valor": 0.02
+            }
+        ],
         "AFHI11": [
             {
                 "data": "2024-02-19",

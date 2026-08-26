@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-26T03:32:46Z",
+    "gerado_em": "2026-08-26T04:26:37Z",
     "origem": "Calculado",
     "quantidade": 416,
     "dados": {
@@ -409,8 +409,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.83,
-            "dividendos_12m": 9.799576,
-            "dy_12m": 8.98
+            "dividendos_12m": 9.84,
+            "dy_12m": 9.01
         },
         "CXCO11": {
             "preco": 70.09,
@@ -904,9 +904,9 @@
             "preco": 13.2,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.04,
-            "dividendos_12m": 0.701298,
-            "dy_12m": 5.31
+            "ultimo_dividendo": 0.25,
+            "dividendos_12m": 0.861298,
+            "dy_12m": 6.52
         },
         "FYTO11": {
             "preco": 7.74,
@@ -1408,9 +1408,9 @@
             "preco": 36.95,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.42,
-            "dividendos_12m": 7.2,
-            "dy_12m": 19.49
+            "ultimo_dividendo": 0.36,
+            "dividendos_12m": 6.78,
+            "dy_12m": 18.35
         },
         "FIGS11": {
             "preco": 47.72,
@@ -2256,9 +2256,9 @@
             "preco": 28.13,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.22,
-            "dividendos_12m": 35.425,
-            "dy_12m": 125.93
+            "ultimo_dividendo": 5.47,
+            "dividendos_12m": 40.235,
+            "dy_12m": 143.03
         },
         "PMIS11": {
             "preco": 7.48,

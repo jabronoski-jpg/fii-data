@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-08-26T12:03:33Z",
+    "gerado_em": "2026-08-26T13:17:18Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 529,
@@ -7313,6 +7313,10 @@
             {
                 "data": "2024-11-08",
                 "valor": 0.09475
+            },
+            {
+                "data": "2024-12-09",
+                "valor": 0.142125
             },
             {
                 "data": "2026-08-17",

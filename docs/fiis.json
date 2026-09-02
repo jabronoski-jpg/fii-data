@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-02T13:08:34Z",
+    "gerado_em": "2026-09-02T17:09:00Z",
     "origem": "B3",
     "quantidade": 529,
     "dados": [
@@ -2741,12 +2741,6 @@
             "razao_social": "STARX FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "STYI",
-            "ticker": "STYI11",
-            "nome": "FII STYI",
-            "razao_social": "STRIVO YIELD FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "SURE",
             "ticker": "SURE11",
             "nome": "FII SURE",
@@ -3087,6 +3081,12 @@
             "ticker": "VISC11",
             "nome": "FII VINCI SC",
             "razao_social": "VINCI SHOPPING CENTERS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "STYI",
+            "ticker": "STYI11",
+            "nome": "FII STYI",
+            "razao_social": "VISTAS INC FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "SPDE",

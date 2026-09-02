@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-02T08:56:35Z",
+    "gerado_em": "2026-09-02T13:08:55Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-09-01",
     "estatisticas": {
         "consultados": 529,
-        "com_cotacao": 416,
-        "sem_cotacao": 113
+        "com_cotacao": 415,
+        "sem_cotacao": 114
     },
     "dados": {
         "ADSH11": {
@@ -746,9 +746,6 @@
         },
         "KNRI11": {
             "preco": 153.97
-        },
-        "KNCR11": {
-            "preco": 106.36
         },
         "KNSC11": {
             "preco": 9.02
@@ -1525,6 +1522,10 @@
         },
         {
             "ticker": "KPRP11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "KNCR11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

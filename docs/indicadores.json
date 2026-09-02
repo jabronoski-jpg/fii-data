@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-02T08:58:06Z",
+    "gerado_em": "2026-09-02T13:09:36Z",
     "origem": "Calculado",
-    "quantidade": 416,
+    "quantidade": 415,
     "dados": {
         "ADSH11": {
             "preco": 11.38,
@@ -1971,14 +1971,6 @@
             "ultimo_dividendo": 1.1,
             "dividendos_12m": 13.01,
             "dy_12m": 8.45
-        },
-        "KNCR11": {
-            "preco": 106.36,
-            "tipo": "papel",
-            "segmento": "cri",
-            "ultimo_dividendo": 1.25,
-            "dividendos_12m": 14.336056,
-            "dy_12m": 13.48
         },
         "KNSC11": {
             "preco": 9.02,

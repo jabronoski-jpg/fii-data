@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-02T22:11:36Z",
+    "gerado_em": "2026-09-03T00:14:01Z",
     "origem": "B3",
-    "quantidade": 529,
+    "quantidade": 527,
     "dados": [
         {
             "codigo": "ADSH",
@@ -315,12 +315,6 @@
             "ticker": "BPOF11",
             "nome": "FII BPOF",
             "razao_social": "BRIO PRIME OFFICE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "BRIM",
-            "ticker": "BRIM11",
-            "nome": "FII BRIO II",
-            "razao_social": "BRIO REAL ESTATE II - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BRIP",
@@ -1395,12 +1389,6 @@
             "ticker": "HCST11",
             "nome": "FII HECT DES",
             "razao_social": "HECTARE DESENVOLVIMENTO STUDENT HOUSING - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITAD"
-        },
-        {
-            "codigo": "HCHG",
-            "ticker": "HCHG11",
-            "nome": "FII HECT CRI",
-            "razao_social": "HECTARE RECEBÍVEIS HIGH GRADE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESP LIMITADA"
         },
         {
             "codigo": "HAAA",

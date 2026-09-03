@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-03T04:36:12Z",
+    "gerado_em": "2026-09-03T09:12:39Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 527,
@@ -24519,6 +24519,10 @@
             {
                 "data": "2026-08-03",
                 "valor": 0.95
+            },
+            {
+                "data": "2026-09-01",
+                "valor": 0.95
             }
         ],
         "HILG11": [
@@ -39109,6 +39113,10 @@
             {
                 "data": "2026-08-03",
                 "valor": 0.88
+            },
+            {
+                "data": "2026-09-01",
+                "valor": 0.9
             }
         ],
         "RBTS11": [

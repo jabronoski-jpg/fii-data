@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-03T22:03:05Z",
+    "gerado_em": "2026-09-04T00:04:03Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-09-03",
     "estatisticas": {
-        "consultados": 527,
+        "consultados": 528,
         "com_cotacao": 415,
-        "sem_cotacao": 112
+        "sem_cotacao": 113
     },
     "dados": {
         "ADSH11": {
@@ -1610,6 +1610,10 @@
         },
         {
             "ticker": "TINF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RSRV11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

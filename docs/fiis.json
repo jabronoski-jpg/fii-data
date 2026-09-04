@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-03T22:02:28Z",
+    "gerado_em": "2026-09-04T00:03:09Z",
     "origem": "B3",
-    "quantidade": 527,
+    "quantidade": 528,
     "dados": [
         {
             "codigo": "ADSH",
@@ -2499,6 +2499,12 @@
             "ticker": "RECM11",
             "nome": "FII RECM",
             "razao_social": "REC MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RSRV",
+            "ticker": "RSRV11",
+            "nome": "FII RSRV",
+            "razao_social": "RESERVE FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "RBHG",

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-05T00:59:12Z",
+    "gerado_em": "2026-09-05T05:14:16Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 528,
@@ -42027,6 +42027,10 @@
             {
                 "data": "2026-08-06",
                 "valor": 13.092474
+            },
+            {
+                "data": "2026-09-04",
+                "valor": 11.792258
             }
         ],
         "SAPI11": [

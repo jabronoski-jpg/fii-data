@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-06T05:56:03Z",
+    "gerado_em": "2026-09-06T09:59:10Z",
     "origem": "Calculado",
     "quantidade": 414,
     "dados": {
@@ -329,8 +329,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.45,
-            "dividendos_12m": 4.830732,
-            "dy_12m": 10.98
+            "dividendos_12m": 4.910732,
+            "dy_12m": 11.16
         },
         "BRCR11": {
             "preco": 42.71,

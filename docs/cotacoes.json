@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-08T22:50:03Z",
+    "gerado_em": "2026-09-09T00:54:46Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-09-08",
     "estatisticas": {
         "consultados": 528,
-        "com_cotacao": 414,
-        "sem_cotacao": 114
+        "com_cotacao": 415,
+        "sem_cotacao": 113
     },
     "dados": {
         "ADSH11": {
@@ -49,7 +49,7 @@
             "preco": 103.91
         },
         "AQPA11": {
-            "preco": 1.05
+            "preco": 1.0
         },
         "ARTE11": {
             "preco": 6.45
@@ -393,6 +393,9 @@
         "CXTL11": {
             "preco": 298.0
         },
+        "IDUA11": {
+            "preco": 29.06
+        },
         "LKDV11": {
             "preco": 1104.12
         },
@@ -455,9 +458,6 @@
         },
         "RZTR11": {
             "preco": 84.06
-        },
-        "ROOF11": {
-            "preco": 249.99
         },
         "HOMS11": {
             "preco": 134.3
@@ -698,6 +698,9 @@
         },
         "JPPA11": {
             "preco": 76.8
+        },
+        "JPRD11": {
+            "preco": 100.0
         },
         "JSAF11": {
             "preco": 7.03
@@ -1398,10 +1401,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "IDUA11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "FINF11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1415,6 +1414,10 @@
         },
         {
             "ticker": "RZRM11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "ROOF11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1471,10 +1474,6 @@
         },
         {
             "ticker": "JCSC11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "JPRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

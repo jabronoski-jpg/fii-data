@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-11T23:50:07Z",
+    "gerado_em": "2026-09-12T07:15:26Z",
     "origem": "B3",
-    "quantidade": 528,
+    "quantidade": 527,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1119,12 +1119,6 @@
             "ticker": "VPSI11",
             "nome": "FII POLO SHO",
             "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO POLO SHOPPING INDAIATUBA - RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "RELG",
-            "ticker": "RELG11",
-            "nome": "FII REC LOG",
-            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO REC LOGÍSTICA - RESPONSABILIDADE  LIMITADA"
         },
         {
             "codigo": "RRES",

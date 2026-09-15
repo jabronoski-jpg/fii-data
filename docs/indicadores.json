@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-14T23:30:14Z",
+    "gerado_em": "2026-09-15T01:46:49Z",
     "origem": "Calculado",
     "quantidade": 417,
     "dados": {
@@ -109,7 +109,7 @@
             "dy_12m": 13.98
         },
         "AQPA11": {
-            "preco": 1.05,
+            "preco": 1.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0,

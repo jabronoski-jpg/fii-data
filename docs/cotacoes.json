@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-15T22:40:45Z",
+    "gerado_em": "2026-09-16T00:49:25Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-09-15",
     "estatisticas": {
-        "consultados": 527,
+        "consultados": 526,
         "com_cotacao": 417,
-        "sem_cotacao": 110
+        "sem_cotacao": 109
     },
     "dados": {
         "ADSH11": {
@@ -49,7 +49,7 @@
             "preco": 104.59
         },
         "AQPA11": {
-            "preco": 0.95
+            "preco": 1.0
         },
         "ARTE11": {
             "preco": 6.89
@@ -433,7 +433,7 @@
             "preco": 64.8
         },
         "PABY11": {
-            "preco": 20.8
+            "preco": 20.89
         },
         "RBRY11": {
             "preco": 81.8
@@ -1300,10 +1300,6 @@
         },
         {
             "ticker": "BINR11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "BGRJ11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

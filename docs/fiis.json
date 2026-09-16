@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-15T22:40:12Z",
+    "gerado_em": "2026-09-16T00:48:52Z",
     "origem": "B3",
-    "quantidade": 527,
+    "quantidade": 526,
     "dados": [
         {
             "codigo": "ADSH",
@@ -213,12 +213,6 @@
             "ticker": "BGRB11",
             "nome": "FII BGRB",
             "razao_social": "BGR B32 FUNDO DE INVESTIMENTO IMOBILIÁRIO"
-        },
-        {
-            "codigo": "BGRJ",
-            "ticker": "BGRJ11",
-            "nome": "FII BGRJ",
-            "razao_social": "BGR CIDADE JARDIM FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BLOG",

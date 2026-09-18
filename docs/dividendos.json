@@ -1,10 +1,10 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-18T06:25:28Z",
+    "gerado_em": "2026-09-18T11:35:40Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 526,
-        "com_dividendos": 367
+        "com_dividendos": 368
     },
     "dados": {
         "ADSH11": [
@@ -1345,6 +1345,12 @@
             {
                 "data": "2026-09-09",
                 "valor": 1.16
+            }
+        ],
+        "AQPA11": [
+            {
+                "data": "2026-09-16",
+                "valor": 0.002778
             }
         ],
         "ARTE11": [

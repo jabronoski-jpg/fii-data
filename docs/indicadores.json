@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-20T16:02:24Z",
+    "gerado_em": "2026-09-20T18:46:43Z",
     "origem": "Calculado",
     "quantidade": 415,
     "dados": {
@@ -773,12 +773,12 @@
             "dy_12m": 4.13
         },
         "EURO11": {
-            "preco": 295.0,
+            "preco": 294.93,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.9,
             "dividendos_12m": 26.09,
-            "dy_12m": 8.84
+            "dy_12m": 8.85
         },
         "HYPI11": {
             "preco": 181.5,
@@ -1413,12 +1413,12 @@
             "dy_12m": 45.05
         },
         "ABCP11": {
-            "preco": 75.45,
+            "preco": 75.6,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.55,
             "dividendos_12m": 7.15,
-            "dy_12m": 9.48
+            "dy_12m": 9.46
         },
         "GRAV11": {
             "preco": 36.5,
@@ -2285,7 +2285,7 @@
             "dy_12m": 1.81
         },
         "HGRE11": {
-            "preco": 115.99,
+            "preco": 116.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.85,

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-21T01:06:24Z",
+    "gerado_em": "2026-09-21T06:17:53Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-09-18",
     "estatisticas": {
@@ -298,7 +298,7 @@
             "preco": 928.55
         },
         "EURO11": {
-            "preco": 294.93
+            "preco": 295.0
         },
         "HYPI11": {
             "preco": 181.5
@@ -538,7 +538,7 @@
             "preco": 813.34
         },
         "ABCP11": {
-            "preco": 75.6
+            "preco": 75.45
         },
         "GRAV11": {
             "preco": 36.5
@@ -865,7 +865,7 @@
             "preco": 37.5
         },
         "HGRE11": {
-            "preco": 116.0
+            "preco": 115.99
         },
         "HGLG11": {
             "preco": 147.98

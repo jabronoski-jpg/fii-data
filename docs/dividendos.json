@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-23T02:36:16Z",
+    "gerado_em": "2026-09-23T07:58:42Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 526,
@@ -214,7 +214,7 @@
             },
             {
                 "data": "2026-09-16",
-                "valor": 1.0
+                "valor": 0.12
             }
         ],
         "AJFI11": [
@@ -38801,6 +38801,10 @@
             {
                 "data": "2026-08-14",
                 "valor": 1.236
+            },
+            {
+                "data": "2026-09-14",
+                "valor": 1.237
             }
         ],
         "RBDS11": [

@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-24T23:19:25Z",
+    "gerado_em": "2026-09-25T01:41:06Z",
     "origem": "Yahoo Finance",
-    "data_pregao": "2026-09-23",
+    "data_pregao": "2026-09-24",
     "estatisticas": {
         "consultados": 526,
         "com_cotacao": 413,
@@ -1153,7 +1153,7 @@
             "preco": 9.0
         },
         "VVRI11": {
-            "preco": 7.5
+            "preco": 7.35
         },
         "VGIR11": {
             "preco": 9.54

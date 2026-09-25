@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-24T23:20:39Z",
+    "gerado_em": "2026-09-25T01:42:02Z",
     "origem": "Calculado",
     "quantidade": 413,
     "dados": {
@@ -3053,12 +3053,12 @@
             "dy_12m": 13.53
         },
         "VVRI11": {
-            "preco": 7.5,
+            "preco": 7.35,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.03,
             "dividendos_12m": 0.405992,
-            "dy_12m": 5.41
+            "dy_12m": 5.52
         },
         "VGIR11": {
             "preco": 9.54,

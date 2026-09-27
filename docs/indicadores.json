@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-27T19:08:20Z",
+    "gerado_em": "2026-09-27T22:09:20Z",
     "origem": "Calculado",
     "quantidade": 413,
     "dados": {
@@ -921,8 +921,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 13.007586,
-            "dividendos_12m": 226.994516,
-            "dy_12m": 9.12
+            "dividendos_12m": 13.007586,
+            "dy_12m": 0.52
         },
         "RBRR11": {
             "preco": 67.75,

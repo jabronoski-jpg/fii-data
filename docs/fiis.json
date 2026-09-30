@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-29T21:23:10Z",
+    "gerado_em": "2026-09-30T00:37:16Z",
     "origem": "B3",
-    "quantidade": 526,
+    "quantidade": 527,
     "dados": [
         {
             "codigo": "ADSH",
@@ -453,6 +453,12 @@
             "ticker": "KONG11",
             "nome": "FII KONG",
             "razao_social": "CAPITANIA ARTON JARDIM PAULISTANO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "CPHG",
+            "ticker": "CPHG11",
+            "nome": "FII CPHG",
+            "razao_social": "CAPITÂNIA CRÉDITO HIGH GRADE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "CPUR",

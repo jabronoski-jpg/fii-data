@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-30T00:39:18Z",
+    "gerado_em": "2026-09-30T05:59:31Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 527,
@@ -3583,6 +3583,10 @@
             {
                 "data": "2026-09-16",
                 "valor": 5.0
+            },
+            {
+                "data": "2026-09-29",
+                "valor": 71.33
             }
         ],
         "FATN11": [
@@ -12091,6 +12095,10 @@
             {
                 "data": "2026-09-15",
                 "valor": 7.8
+            },
+            {
+                "data": "2026-09-29",
+                "valor": 1.08
             }
         ],
         "EURO11": [

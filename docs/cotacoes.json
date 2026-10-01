@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-30T21:32:34Z",
+    "gerado_em": "2026-10-01T00:50:11Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-09-30",
     "estatisticas": {
-        "consultados": 527,
-        "com_cotacao": 412,
-        "sem_cotacao": 115
+        "consultados": 528,
+        "com_cotacao": 419,
+        "sem_cotacao": 109
     },
     "dados": {
         "ADSH11": {
@@ -174,6 +174,9 @@
         "CCVA11": {
             "preco": 100.07
         },
+        "KONG11": {
+            "preco": 101.0
+        },
         "CPUR11": {
             "preco": 10.49
         },
@@ -254,6 +257,9 @@
         },
         "DOVL11": {
             "preco": 583.04
+        },
+        "EBTA11": {
+            "preco": 1.2
         },
         "EDGE11": {
             "preco": 834.0
@@ -389,6 +395,9 @@
         },
         "CXTL11": {
             "preco": 344.99
+        },
+        "IDUA11": {
+            "preco": 29.06
         },
         "LKDV11": {
             "preco": 1104.12
@@ -532,7 +541,7 @@
             "preco": 11.7
         },
         "VXXV11": {
-            "preco": 815.03
+            "preco": 815.0
         },
         "ABCP11": {
             "preco": 78.58
@@ -615,6 +624,9 @@
         "HGIC11": {
             "preco": 45.5
         },
+        "HIRE11": {
+            "preco": 100.36
+        },
         "HILG11": {
             "preco": 186.81
         },
@@ -693,6 +705,9 @@
         "JPPA11": {
             "preco": 75.86
         },
+        "JPRD11": {
+            "preco": 100.0
+        },
         "JSAF11": {
             "preco": 7.08
         },
@@ -728,6 +743,9 @@
         },
         "KORE11": {
             "preco": 67.27
+        },
+        "KNPR11": {
+            "preco": 25.6
         },
         "KNRI11": {
             "preco": 157.01
@@ -1000,7 +1018,7 @@
             "preco": 134.0
         },
         "RBRS11": {
-            "preco": 45.76
+            "preco": 45.87
         },
         "RBVA11": {
             "preco": 8.96
@@ -1085,6 +1103,9 @@
         },
         "SNCI11": {
             "preco": 82.55
+        },
+        "SPMO11": {
+            "preco": 120.0
         },
         "TELM11": {
             "preco": 9.72
@@ -1324,10 +1345,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "KONG11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "CPHG11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1360,11 +1377,11 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "DLMT11",
+            "ticker": "TVML11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "EBTA11",
+            "ticker": "DLMT11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1393,10 +1410,6 @@
         },
         {
             "ticker": "BRCQ11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "IDUA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1436,10 +1449,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "HIRE11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "IVCI11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1469,10 +1478,6 @@
         },
         {
             "ticker": "JCSC11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "JPRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1509,10 +1514,6 @@
         },
         {
             "ticker": "KNPL11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "KNPR11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1649,10 +1650,6 @@
         },
         {
             "ticker": "SNLG11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "SPMO11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

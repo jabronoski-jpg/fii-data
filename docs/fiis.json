@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-09-30T21:31:54Z",
+    "gerado_em": "2026-10-01T00:49:31Z",
     "origem": "B3",
-    "quantidade": 527,
+    "quantidade": 528,
     "dados": [
         {
             "codigo": "ADSH",
@@ -621,6 +621,12 @@
             "ticker": "CYLD11",
             "nome": "FII CYLD",
             "razao_social": "CYRELA DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TVML",
+            "ticker": "TVML11",
+            "nome": "FII TVML",
+            "razao_social": "D98 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "DAMA",

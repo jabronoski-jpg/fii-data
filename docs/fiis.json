@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-01T06:43:11Z",
+    "gerado_em": "2026-10-01T13:54:39Z",
     "origem": "B3",
     "quantidade": 528,
     "dados": [
@@ -1142,7 +1142,7 @@
             "codigo": "RZTR",
             "ticker": "RZTR11",
             "nome": "FII RIZA TX",
-            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX"
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "ROOF",
@@ -2387,12 +2387,6 @@
             "razao_social": "RB CAPITAL I FUNDO DE FUNDOS -RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "RBLG",
-            "ticker": "RBLG11",
-            "nome": "FII RBCAP LG",
-            "razao_social": "RB CAPITAL LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO  FII RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "FIIP",
             "ticker": "FIIP11",
             "nome": "FII RB CAP I",
@@ -2415,6 +2409,12 @@
             "ticker": "MTES11",
             "nome": "FII MTES",
             "razao_social": "RB INVESTIMENTOS MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIORESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "RBLG",
+            "ticker": "RBLG11",
+            "nome": "FII RBCAP LG",
+            "razao_social": "RB LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "REME",

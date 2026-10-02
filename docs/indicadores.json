@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-01T23:12:38Z",
+    "gerado_em": "2026-10-02T02:14:10Z",
     "origem": "Calculado",
     "quantidade": 412,
     "dados": {
@@ -448,9 +448,9 @@
             "preco": 10.49,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.098386,
-            "dividendos_12m": 1.140294,
-            "dy_12m": 10.87
+            "ultimo_dividendo": 0.1,
+            "dividendos_12m": 1.159,
+            "dy_12m": 11.05
         },
         "CPLG11": {
             "preco": 11.08,
@@ -464,8 +464,8 @@
             "preco": 118.0,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 1.999811,
-            "dividendos_12m": 7.717924,
+            "ultimo_dividendo": 2.0,
+            "dividendos_12m": 7.718657,
             "dy_12m": 6.54
         },
         "CPTS11": {

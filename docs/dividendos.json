@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-04T02:29:12Z",
+    "gerado_em": "2026-10-04T08:41:08Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 528,
@@ -19917,7 +19917,7 @@
                 "valor": 0.2
             },
             {
-                "data": "2026-09-01",
+                "data": "2026-10-01",
                 "valor": 0.17
             }
         ],
@@ -40349,6 +40349,10 @@
             {
                 "data": "2026-09-01",
                 "valor": 0.9
+            },
+            {
+                "data": "2026-10-01",
+                "valor": 1.0
             }
         ],
         "RBTS11": [

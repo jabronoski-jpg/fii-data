@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-04T02:29:12Z",
+    "gerado_em": "2026-10-04T08:41:08Z",
     "origem": "Calculado",
     "quantidade": 412,
     "dados": {
@@ -2520,9 +2520,9 @@
             "preco": 81.99,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.9,
-            "dividendos_12m": 4.0,
-            "dy_12m": 4.88
+            "ultimo_dividendo": 1.0,
+            "dividendos_12m": 5.0,
+            "dy_12m": 6.1
         },
         "RBTS11": {
             "preco": 211.23,

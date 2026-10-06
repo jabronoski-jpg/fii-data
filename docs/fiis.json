@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-06T07:58:46Z",
+    "gerado_em": "2026-10-06T14:47:35Z",
     "origem": "B3",
     "quantidade": 528,
     "dados": [
@@ -2033,12 +2033,6 @@
             "razao_social": "NAVI CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "NAVT",
-            "ticker": "NAVT11",
-            "nome": "FII NAVI TOT",
-            "razao_social": "NAVI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "APTO",
             "ticker": "APTO11",
             "nome": "FII VINCI AP",
@@ -3039,6 +3033,12 @@
             "ticker": "VCRI11",
             "nome": "FII VINCI CR",
             "razao_social": "VINCI CREDIT SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "NAVT",
+            "ticker": "NAVT11",
+            "nome": "FII NAVI TOT",
+            "razao_social": "VINCI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "VIUR",

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-07T21:36:46Z",
+    "gerado_em": "2026-10-08T01:21:02Z",
     "origem": "Calculado",
     "quantidade": 413,
     "dados": {
@@ -669,12 +669,12 @@
             "dy_12m": 23.16
         },
         "EMET11": {
-            "preco": 9.29,
+            "preco": 9.39,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.09,
             "dividendos_12m": 1.358462,
-            "dy_12m": 14.62
+            "dy_12m": 14.47
         },
         "EGYR11": {
             "preco": 2.98,

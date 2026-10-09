@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-08T20:27:52Z",
+    "gerado_em": "2026-10-09T00:32:49Z",
     "origem": "B3",
     "quantidade": 528,
     "dados": [
@@ -3035,9 +3035,9 @@
             "razao_social": "VINCI CREDIT SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "NAVT",
-            "ticker": "NAVT11",
-            "nome": "FII NAVI TOT",
+            "codigo": "VTOT",
+            "ticker": "VTOT11",
+            "nome": "FII VINCI TR",
             "razao_social": "VINCI IMOBILIÁRIO TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {

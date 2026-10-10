@@ -1,10 +1,10 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-10T08:46:26Z",
+    "gerado_em": "2026-10-10T14:47:50Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 528,
-        "com_dividendos": 369
+        "com_dividendos": 370
     },
     "dados": {
         "ADSH11": [
@@ -21547,6 +21547,12 @@
             {
                 "data": "2026-10-01",
                 "valor": 1.5
+            }
+        ],
+        "TCIN11": [
+            {
+                "data": "2026-10-08",
+                "valor": 8.18
             }
         ],
         "GFDL11": [

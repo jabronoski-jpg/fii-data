@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-12T01:35:05Z",
+    "gerado_em": "2026-10-12T08:00:16Z",
     "origem": "Calculado",
     "quantidade": 414,
     "dados": {
@@ -120,9 +120,9 @@
             "preco": 6.5,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.7,
-            "dy_12m": 10.77
+            "ultimo_dividendo": 0.08,
+            "dividendos_12m": 0.78,
+            "dy_12m": 12.0
         },
         "ARXD11": {
             "preco": 8.15,

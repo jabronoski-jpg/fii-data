@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-13T03:52:37Z",
+    "gerado_em": "2026-10-13T11:18:06Z",
     "origem": "B3",
     "quantidade": 528,
     "dados": [
@@ -39,12 +39,6 @@
             "ticker": "ALZC11",
             "nome": "FII ALIANZAC",
             "razao_social": "ALIANZA CRÉDITO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "MTOF",
-            "ticker": "MTOF11",
-            "nome": "FII MULT OF1",
-            "razao_social": "ALIANZA MULTIOFFICES - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "ALZR",
@@ -2025,6 +2019,12 @@
             "ticker": "MOFF11",
             "nome": "FII MULT OF2",
             "razao_social": "MULTIOFFICES 2 - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MTOF",
+            "ticker": "MTOF11",
+            "nome": "FII MULT OF1",
+            "razao_social": "MULTIOFFICES I - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "NCRI",

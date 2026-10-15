@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-15T20:22:13Z",
+    "gerado_em": "2026-10-15T23:10:54Z",
     "origem": "Calculado",
     "quantidade": 414,
     "dados": {
@@ -205,12 +205,12 @@
             "dy_12m": 4.43
         },
         "BLOG11": {
-            "preco": 7.83,
+            "preco": 5.99,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.02,
             "dividendos_12m": 0.482703,
-            "dy_12m": 6.16
+            "dy_12m": 8.06
         },
         "BLMG11": {
             "preco": 32.33,
@@ -1117,12 +1117,12 @@
             "dy_12m": 12.6
         },
         "WTSP11": {
-            "preco": 65.5,
+            "preco": 61.02,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.42,
             "dividendos_12m": 5.55,
-            "dy_12m": 8.47
+            "dy_12m": 9.1
         },
         "PABY11": {
             "preco": 24.71,
@@ -1957,12 +1957,12 @@
             "dy_12m": 12.33
         },
         "KNUQ11": {
-            "preco": 101.65,
+            "preco": 102.68,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.15,
             "dividendos_12m": 14.460409,
-            "dy_12m": 14.23
+            "dy_12m": 14.08
         },
         "LMAI11": {
             "preco": 34.1,

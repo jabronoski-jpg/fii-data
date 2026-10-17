@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-16T21:50:37Z",
+    "gerado_em": "2026-10-17T00:04:18Z",
     "origem": "B3",
-    "quantidade": 528,
+    "quantidade": 529,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1293,6 +1293,12 @@
             "ticker": "GCOI11",
             "nome": "FII GALAP SP",
             "razao_social": "GALAPAGOS SPECIAL OPORTUNITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO"
+        },
+        {
+            "codigo": "GATT",
+            "ticker": "GATT11",
+            "nome": "FII GATT",
+            "razao_social": "GATTI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "GZIT",

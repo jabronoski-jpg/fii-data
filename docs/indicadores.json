@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-18T09:16:35Z",
+    "gerado_em": "2026-10-18T13:21:26Z",
     "origem": "Calculado",
-    "quantidade": 414,
+    "quantidade": 417,
     "dados": {
         "ADSH11": {
             "preco": 10.49,
@@ -444,6 +444,14 @@
             "dividendos_12m": 6.98,
             "dy_12m": 6.98
         },
+        "KONG11": {
+            "preco": 101.0,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0,
+            "dividendos_12m": 0,
+            "dy_12m": 0
+        },
         "CPUR11": {
             "preco": 10.43,
             "tipo": null,
@@ -659,6 +667,14 @@
             "ultimo_dividendo": 6.976058,
             "dividendos_12m": 80.021595,
             "dy_12m": 13.72
+        },
+        "EBTA11": {
+            "preco": 1.2,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0,
+            "dividendos_12m": 0,
+            "dy_12m": 0
         },
         "EDGE11": {
             "preco": 834.0,
@@ -1835,6 +1851,14 @@
             "ultimo_dividendo": 1.2,
             "dividendos_12m": 14.22,
             "dy_12m": 18.2
+        },
+        "JPRD11": {
+            "preco": 100.0,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0,
+            "dividendos_12m": 0,
+            "dy_12m": 0
         },
         "JSAF11": {
             "preco": 7.44,

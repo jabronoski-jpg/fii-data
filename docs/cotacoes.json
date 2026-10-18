@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-18T09:15:36Z",
+    "gerado_em": "2026-10-18T13:20:21Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-10-16",
     "estatisticas": {
         "consultados": 529,
-        "com_cotacao": 414,
-        "sem_cotacao": 115
+        "com_cotacao": 417,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -174,6 +174,9 @@
         "CCVA11": {
             "preco": 100.07
         },
+        "KONG11": {
+            "preco": 101.0
+        },
         "CPUR11": {
             "preco": 10.43
         },
@@ -254,6 +257,9 @@
         },
         "DOVL11": {
             "preco": 583.04
+        },
+        "EBTA11": {
+            "preco": 1.2
         },
         "EDGE11": {
             "preco": 834.0
@@ -695,6 +701,9 @@
         },
         "JPPA11": {
             "preco": 78.15
+        },
+        "JPRD11": {
+            "preco": 100.0
         },
         "JSAF11": {
             "preco": 7.44
@@ -1326,10 +1335,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "KONG11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "CPHG11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1367,10 +1372,6 @@
         },
         {
             "ticker": "DLMT11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "EBTA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1475,10 +1476,6 @@
         },
         {
             "ticker": "JCSC11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "JPRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

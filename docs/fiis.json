@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-20T06:36:12Z",
+    "gerado_em": "2026-10-20T12:10:40Z",
     "origem": "B3",
     "quantidade": 529,
     "dados": [
@@ -51,12 +51,6 @@
             "ticker": "AURB11",
             "nome": "FII ALI URB",
             "razao_social": "ALIANZA URBAN HUB RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "APXM",
-            "ticker": "APXM11",
-            "nome": "FII APEX MS",
-            "razao_social": "APEX MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "APXU",
@@ -3057,6 +3051,12 @@
             "ticker": "VILG11",
             "nome": "FII VINCI LG",
             "razao_social": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "APXM",
+            "ticker": "APXM11",
+            "nome": "FII APEX MS",
+            "razao_social": "VINCI MALLS II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "VIMO",

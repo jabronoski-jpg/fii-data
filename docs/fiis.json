@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-21T17:39:17Z",
+    "gerado_em": "2026-10-21T20:53:29Z",
     "origem": "B3",
     "quantidade": 529,
     "dados": [
@@ -609,12 +609,6 @@
             "ticker": "CYLD11",
             "nome": "FII CYLD",
             "razao_social": "CYRELA DESENVOLVIMENTO LOGÍSTICO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "TVML",
-            "ticker": "TVML11",
-            "nome": "FII TVML",
-            "razao_social": "D98 FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "DAMA",
@@ -2811,6 +2805,12 @@
             "ticker": "TVMO11",
             "nome": "FII TVMO",
             "razao_social": "TIVIO MALLS OPPORTUNITIES II FUNDO DE  INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "TVML",
+            "ticker": "TVML11",
+            "nome": "FII TVML",
+            "razao_social": "TIVIO OPPORTUNITIES II MALLS IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "TVOI",

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-22T18:05:20Z",
+    "gerado_em": "2026-10-22T21:31:43Z",
     "origem": "B3",
     "quantidade": 529,
     "dados": [
@@ -1697,12 +1697,6 @@
             "razao_social": "JHSF CAPITAL SCJ FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "JPPA",
-            "ticker": "JPPA11",
-            "nome": "FII JPPA CRI",
-            "razao_social": "JPP CAPITAL RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "JPRD",
             "ticker": "JPRD11",
             "nome": "FII JPRD",
@@ -2096,7 +2090,7 @@
             "codigo": "OUJP",
             "ticker": "OUJP11",
             "nome": "FII OURI JPP",
-            "razao_social": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA"
+            "razao_social": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "OXRL",
@@ -2523,6 +2517,12 @@
             "ticker": "RBOP11",
             "nome": "FII MERC BR",
             "razao_social": "RIO BRAVO OPORTUNIDADES IMOBILIÁRIAS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "JPPA",
+            "ticker": "JPPA11",
+            "nome": "FII JPPA CRI",
+            "razao_social": "RIO BRAVO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "RCRB",

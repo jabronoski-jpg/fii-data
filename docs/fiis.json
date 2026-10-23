@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-22T21:31:43Z",
+    "gerado_em": "2026-10-23T00:09:40Z",
     "origem": "B3",
-    "quantidade": 529,
+    "quantidade": 530,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1743,6 +1743,12 @@
             "ticker": "KIVO11",
             "nome": "FII KIVO",
             "razao_social": "KILIMA VOLKANO RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "KAML",
+            "ticker": "KAML11",
+            "nome": "FII KAML",
+            "razao_social": "KINEA ALLOS MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "KRES",

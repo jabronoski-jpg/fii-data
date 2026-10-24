@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-24T04:04:10Z",
+    "gerado_em": "2026-10-24T08:52:42Z",
     "origem": "Yahoo Finance",
     "estatisticas": {
         "consultados": 530,
@@ -27921,6 +27921,10 @@
             {
                 "data": "2026-10-01",
                 "valor": 0.7
+            },
+            {
+                "data": "2026-10-23",
+                "valor": 6.5
             }
         ],
         "ITRI11": [

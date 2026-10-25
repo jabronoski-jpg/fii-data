@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-25T15:43:55Z",
+    "gerado_em": "2026-10-25T18:35:15Z",
     "origem": "Calculado",
-    "quantidade": 417,
+    "quantidade": 418,
     "dados": {
         "ADSH11": {
             "preco": 10.48,
@@ -875,6 +875,14 @@
             "ultimo_dividendo": 0.53,
             "dividendos_12m": 5.630822,
             "dy_12m": 13.16
+        },
+        "FAMB11": {
+            "preco": 705.01,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 200.0,
+            "dividendos_12m": 1329.339016,
+            "dy_12m": 188.56
         },
         "EDGA11": {
             "preco": 13.03,

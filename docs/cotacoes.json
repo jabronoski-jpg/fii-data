@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-25T11:59:33Z",
+    "gerado_em": "2026-10-25T15:42:40Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-10-23",
     "estatisticas": {
         "consultados": 530,
-        "com_cotacao": 418,
-        "sem_cotacao": 112
+        "com_cotacao": 417,
+        "sem_cotacao": 113
     },
     "dados": {
         "ADSH11": {
@@ -335,9 +335,6 @@
         },
         "CEOC11": {
             "preco": 42.8
-        },
-        "FAMB11": {
-            "preco": 705.01
         },
         "EDGA11": {
             "preco": 13.03
@@ -1387,6 +1384,10 @@
         },
         {
             "ticker": "HLMB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "FAMB11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

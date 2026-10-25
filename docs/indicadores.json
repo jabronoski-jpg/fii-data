@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-25T06:35:55Z",
+    "gerado_em": "2026-10-25T12:00:42Z",
     "origem": "Calculado",
-    "quantidade": 416,
+    "quantidade": 418,
     "dados": {
         "ADSH11": {
             "preco": 10.48,
@@ -1628,6 +1628,14 @@
             "dividendos_12m": 8.0558,
             "dy_12m": 16.81
         },
+        "HIRE11": {
+            "preco": 100.36,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0.95,
+            "dividendos_12m": 0.95,
+            "dy_12m": 0.95
+        },
         "HILG11": {
             "preco": 186.81,
             "tipo": null,
@@ -1939,6 +1947,14 @@
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 9.15,
             "dy_12m": 12.23
+        },
+        "KNPR11": {
+            "preco": 25.6,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 40.0,
+            "dividendos_12m": 40.0,
+            "dy_12m": 156.25
         },
         "KNRI11": {
             "preco": 162.3,

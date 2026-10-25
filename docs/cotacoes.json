@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-25T06:34:37Z",
+    "gerado_em": "2026-10-25T11:59:33Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-10-23",
     "estatisticas": {
         "consultados": 530,
-        "com_cotacao": 416,
-        "sem_cotacao": 114
+        "com_cotacao": 418,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -618,6 +618,9 @@
         "HGIC11": {
             "preco": 47.91
         },
+        "HIRE11": {
+            "preco": 100.36
+        },
         "HILG11": {
             "preco": 186.81
         },
@@ -734,6 +737,9 @@
         },
         "KORE11": {
             "preco": 74.8
+        },
+        "KNPR11": {
+            "preco": 25.6
         },
         "KNRI11": {
             "preco": 162.3
@@ -1440,10 +1446,6 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "HIRE11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
             "ticker": "IVCI11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1509,10 +1511,6 @@
         },
         {
             "ticker": "KNPL11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "KNPR11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

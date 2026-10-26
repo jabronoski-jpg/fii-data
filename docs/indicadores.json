@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-26T06:40:34Z",
+    "gerado_em": "2026-10-26T13:35:25Z",
     "origem": "Calculado",
-    "quantidade": 417,
+    "quantidade": 418,
     "dados": {
         "ADSH11": {
             "preco": 10.48,
@@ -693,12 +693,12 @@
             "dy_12m": 0
         },
         "EQIR11": {
-            "preco": 8.53,
+            "preco": 8.52,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.1,
             "dividendos_12m": 1.200695,
-            "dy_12m": 14.08
+            "dy_12m": 14.09
         },
         "ERCR11": {
             "preco": 5008.34,
@@ -757,12 +757,12 @@
             "dy_12m": 15.61
         },
         "FLMA11": {
-            "preco": 161.2,
+            "preco": 160.83,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 1.29,
             "dividendos_12m": 14.24,
-            "dy_12m": 8.83
+            "dy_12m": 8.85
         },
         "EGDB11": {
             "preco": 1300.02,
@@ -1005,12 +1005,12 @@
             "dy_12m": 11.84
         },
         "CXCI11": {
-            "preco": 67.85,
+            "preco": 66.0,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.75,
             "dividendos_12m": 9.2,
-            "dy_12m": 13.56
+            "dy_12m": 13.94
         },
         "CXCE11": {
             "preco": 40.85,
@@ -2684,6 +2684,14 @@
             "dividendos_12m": 2.05,
             "dy_12m": 4.42
         },
+        "RBVA11": {
+            "preco": 9.05,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0.09,
+            "dividendos_12m": 1.08,
+            "dy_12m": 11.93
+        },
         "RNGO11": {
             "preco": 55.55,
             "tipo": null,
@@ -3045,12 +3053,12 @@
             "dy_12m": 16.78
         },
         "VPPR11": {
-            "preco": 23.0,
+            "preco": 22.58,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 0.84,
-            "dy_12m": 3.65
+            "dy_12m": 3.72
         },
         "VVDI11": {
             "preco": 9.9,

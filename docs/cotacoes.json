@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-26T06:39:00Z",
+    "gerado_em": "2026-10-26T13:34:01Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-10-23",
     "estatisticas": {
         "consultados": 530,
-        "com_cotacao": 417,
-        "sem_cotacao": 113
+        "com_cotacao": 418,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -268,7 +268,7 @@
             "preco": 2.98
         },
         "EQIR11": {
-            "preco": 8.53
+            "preco": 8.52
         },
         "ERCR11": {
             "preco": 5008.34
@@ -292,7 +292,7 @@
             "preco": 6.92
         },
         "FLMA11": {
-            "preco": 161.2
+            "preco": 160.83
         },
         "EGDB11": {
             "preco": 1300.02
@@ -385,7 +385,7 @@
             "preco": 73.97
         },
         "CXCI11": {
-            "preco": 67.85
+            "preco": 66.0
         },
         "CXCE11": {
             "preco": 40.85
@@ -1014,6 +1014,9 @@
         "RBRS11": {
             "preco": 46.35
         },
+        "RBVA11": {
+            "preco": 9.05
+        },
         "RNGO11": {
             "preco": 55.55
         },
@@ -1150,7 +1153,7 @@
             "preco": 84.87
         },
         "VPPR11": {
-            "preco": 23.0
+            "preco": 22.58
         },
         "VVDI11": {
             "preco": 9.9
@@ -1612,10 +1615,6 @@
         },
         {
             "ticker": "TINF11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "RBVA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

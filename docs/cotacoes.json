@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-26T01:27:20Z",
+    "gerado_em": "2026-10-26T06:39:00Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-10-23",
     "estatisticas": {
@@ -47,6 +47,9 @@
         },
         "AQPA11": {
             "preco": 1.0
+        },
+        "ARTE11": {
+            "preco": 6.65
         },
         "ARXD11": {
             "preco": 8.0
@@ -1011,9 +1014,6 @@
         "RBRS11": {
             "preco": 46.35
         },
-        "RBVA11": {
-            "preco": 9.05
-        },
         "RNGO11": {
             "preco": 55.55
         },
@@ -1264,10 +1264,6 @@
     "falhas": [
         {
             "ticker": "ATWN11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "ARTE11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1616,6 +1612,10 @@
         },
         {
             "ticker": "TINF11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "RBVA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

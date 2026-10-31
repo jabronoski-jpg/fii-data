@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-30T22:44:37Z",
+    "gerado_em": "2026-10-31T01:51:22Z",
     "origem": "B3",
-    "quantidade": 530,
+    "quantidade": 531,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1035,6 +1035,12 @@
             "ticker": "FINF11",
             "nome": "FII INFRA RE",
             "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO INFRA REAL ESTATE - FII RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "LOTS",
+            "ticker": "LOTS11",
+            "nome": "FII LOTS",
+            "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO LOTUS TOWERS - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "BLUE",

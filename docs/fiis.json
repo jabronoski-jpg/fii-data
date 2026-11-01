@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-10-31T21:48:34Z",
+    "gerado_em": "2026-11-01T00:34:54Z",
     "origem": "B3",
-    "quantidade": 531,
+    "quantidade": 530,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1589,12 +1589,6 @@
             "razao_social": "INTER RESIDENCE FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "ITIP",
-            "ticker": "ITIP11",
-            "nome": "FII INTER IP",
-            "razao_social": "INTER TEVA ÍNDICE DE PAPEL FUNDO DE INVESTIMENTO IMOBILIÁRIO FII RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "ITIT",
             "ticker": "ITIT11",
             "nome": "FII INTER IT",
@@ -3065,9 +3059,9 @@
             "razao_social": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "APXM",
-            "ticker": "APXM11",
-            "nome": "FII APEX MS",
+            "codigo": "VIML",
+            "ticker": "VIML11",
+            "nome": "FII VIML VIN",
             "razao_social": "VINCI MALLS II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {

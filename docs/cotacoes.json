@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-03T01:17:33Z",
+    "gerado_em": "2026-11-03T08:09:29Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-10-30",
     "estatisticas": {
@@ -153,8 +153,8 @@
         "BTWR11": {
             "preco": 90.0
         },
-        "CXCO11": {
-            "preco": 70.36
+        "BTSI11": {
+            "preco": 109.15
         },
         "CRFF11": {
             "preco": 62.06
@@ -1338,7 +1338,7 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
-            "ticker": "BTSI11",
+            "ticker": "CXCO11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-03T01:19:11Z",
+    "gerado_em": "2026-11-03T08:10:23Z",
     "origem": "Calculado",
     "quantidade": 418,
     "dados": {
@@ -388,13 +388,13 @@
             "dividendos_12m": 8.5159,
             "dy_12m": 9.46
         },
-        "CXCO11": {
-            "preco": 70.36,
+        "BTSI11": {
+            "preco": 109.15,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.75,
-            "dividendos_12m": 9.06,
-            "dy_12m": 12.88
+            "ultimo_dividendo": 0.83,
+            "dividendos_12m": 9.88,
+            "dy_12m": 9.05
         },
         "CRFF11": {
             "preco": 62.06,
@@ -1224,9 +1224,9 @@
             "preco": 56.49,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 1.000501,
-            "dividendos_12m": 12.215101,
-            "dy_12m": 21.62
+            "ultimo_dividendo": 1.0,
+            "dividendos_12m": 12.175275,
+            "dy_12m": 21.55
         },
         "SOFF11": {
             "preco": 94.2,
@@ -1400,9 +1400,9 @@
             "preco": 11.75,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.11,
-            "dividendos_12m": 0.11,
-            "dy_12m": 0.94
+            "ultimo_dividendo": 0.1,
+            "dividendos_12m": 0.21,
+            "dy_12m": 1.79
         },
         "VXXV11": {
             "preco": 825.0,

@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-02T18:40:27Z",
+    "gerado_em": "2026-11-03T01:19:11Z",
     "origem": "Calculado",
-    "quantidade": 419,
+    "quantidade": 418,
     "dados": {
         "ADSH11": {
             "preco": 10.4,
@@ -387,14 +387,6 @@
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 8.5159,
             "dy_12m": 9.46
-        },
-        "BTSI11": {
-            "preco": 109.15,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 0.83,
-            "dividendos_12m": 9.88,
-            "dy_12m": 9.05
         },
         "CXCO11": {
             "preco": 70.36,

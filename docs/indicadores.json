@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-03T21:48:08Z",
+    "gerado_em": "2026-11-04T01:43:54Z",
     "origem": "Calculado",
     "quantidade": 418,
     "dados": {
@@ -189,12 +189,12 @@
             "dy_12m": 6.19
         },
         "BGRB11": {
-            "preco": 130.0,
+            "preco": 129.71,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.35,
             "dividendos_12m": 5.842122,
-            "dy_12m": 4.49
+            "dy_12m": 4.5
         },
         "BLOG11": {
             "preco": 9.69,
@@ -381,12 +381,12 @@
             "dy_12m": 18.41
         },
         "BTWR11": {
-            "preco": 90.0,
+            "preco": 92.49,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.6,
             "dividendos_12m": 8.5159,
-            "dy_12m": 9.46
+            "dy_12m": 9.21
         },
         "BTSI11": {
             "preco": 109.15,
@@ -1349,7 +1349,7 @@
             "dy_12m": 0
         },
         "GFDL11": {
-            "preco": 121.13,
+            "preco": 121.39,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.16,
@@ -1365,12 +1365,12 @@
             "dy_12m": 8.98
         },
         "GLCR11": {
-            "preco": 95.98,
+            "preco": 94.54,
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.8,
             "dividendos_12m": 10.7,
-            "dy_12m": 11.15
+            "dy_12m": 11.32
         },
         "GCRI11": {
             "preco": 63.37,
@@ -1899,14 +1899,6 @@
             "ultimo_dividendo": 0.07,
             "dividendos_12m": 1.14,
             "dy_12m": 14.32
-        },
-        "KFEN11": {
-            "preco": 1100.0,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 6.53,
-            "dividendos_12m": 118.38,
-            "dy_12m": 10.76
         },
         "KNHF11": {
             "preco": 84.4,
@@ -2875,6 +2867,14 @@
             "ultimo_dividendo": 0.101,
             "dividendos_12m": 1.193,
             "dy_12m": 16.69
+        },
+        "STRX11": {
+            "preco": 141.96,
+            "tipo": null,
+            "segmento": null,
+            "ultimo_dividendo": 0.85,
+            "dividendos_12m": 0.85,
+            "dy_12m": 0.6
         },
         "SNEL11": {
             "preco": 7.38,

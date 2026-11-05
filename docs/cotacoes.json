@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-04T21:52:15Z",
+    "gerado_em": "2026-11-05T01:55:09Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-11-04",
     "estatisticas": {
         "consultados": 530,
-        "com_cotacao": 417,
-        "sem_cotacao": 113
+        "com_cotacao": 418,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -79,7 +79,7 @@
             "preco": 104.62
         },
         "BGRB11": {
-            "preco": 130.0
+            "preco": 129.71
         },
         "BLOG11": {
             "preco": 9.69
@@ -112,7 +112,7 @@
             "preco": 4.45
         },
         "BRIP11": {
-            "preco": 380.0
+            "preco": 362.0
         },
         "BIPD11": {
             "preco": 989.33
@@ -148,10 +148,10 @@
             "preco": 80.42
         },
         "BTYU11": {
-            "preco": 530.0
+            "preco": 535.0
         },
         "BTWR11": {
-            "preco": 90.0
+            "preco": 92.49
         },
         "BTSI11": {
             "preco": 109.15
@@ -316,7 +316,7 @@
             "preco": 19.81
         },
         "ALMI11": {
-            "preco": 610.0
+            "preco": 629.99
         },
         "KFOF11": {
             "preco": 74.09
@@ -463,7 +463,7 @@
             "preco": 135.99
         },
         "FISC11": {
-            "preco": 66.5
+            "preco": 66.0
         },
         "SAIC11": {
             "preco": 34.04
@@ -514,13 +514,13 @@
             "preco": 120.4
         },
         "GFDL11": {
-            "preco": 121.13
+            "preco": 121.39
         },
         "GLPF11": {
             "preco": 111.76
         },
         "GLCR11": {
-            "preco": 95.98
+            "preco": 94.54
         },
         "GCRI11": {
             "preco": 63.21
@@ -1137,6 +1137,9 @@
         "TRXB11": {
             "preco": 194.99
         },
+        "MGHT11": {
+            "preco": 11.42
+        },
         "URHF11": {
             "preco": 53.03
         },
@@ -1676,10 +1679,6 @@
         },
         {
             "ticker": "TCPF11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "MGHT11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

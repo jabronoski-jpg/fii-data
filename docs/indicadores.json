@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-08T01:59:09Z",
+    "gerado_em": "2026-11-08T08:38:26Z",
     "origem": "Calculado",
-    "quantidade": 418,
+    "quantidade": 417,
     "dados": {
         "ADSH11": {
             "preco": 10.4,
@@ -1492,14 +1492,6 @@
             "dividendos_12m": 0,
             "dy_12m": 0
         },
-        "HAAA11": {
-            "preco": 56.96,
-            "tipo": null,
-            "segmento": null,
-            "ultimo_dividendo": 0.08,
-            "dividendos_12m": 0.96,
-            "dy_12m": 1.69
-        },
         "ATSA11": {
             "preco": 60.0,
             "tipo": null,
@@ -2081,8 +2073,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.07,
-            "dividendos_12m": 1.033822,
-            "dy_12m": 10.59
+            "dividendos_12m": 1.009334,
+            "dy_12m": 10.34
         },
         "MCRE11": {
             "preco": 7.4,
@@ -2720,9 +2712,9 @@
             "preco": 1002.18,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 11.67512,
-            "dividendos_12m": 146.233638,
-            "dy_12m": 14.59
+            "ultimo_dividendo": 11.577634,
+            "dividendos_12m": 144.110272,
+            "dy_12m": 14.38
         },
         "RJDA11": {
             "preco": 130.0,
@@ -3048,9 +3040,9 @@
             "preco": 80.95,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 3.5,
-            "dividendos_12m": 14.24,
-            "dy_12m": 17.59
+            "ultimo_dividendo": 5.8,
+            "dividendos_12m": 19.91,
+            "dy_12m": 24.6
         },
         "VPPR11": {
             "preco": 21.99,

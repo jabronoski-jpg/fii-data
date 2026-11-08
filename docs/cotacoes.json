@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-08T08:36:54Z",
+    "gerado_em": "2026-11-08T15:35:14Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-11-05",
     "estatisticas": {
         "consultados": 530,
-        "com_cotacao": 417,
-        "sem_cotacao": 113
+        "com_cotacao": 418,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -566,6 +566,9 @@
         },
         "HCST11": {
             "preco": 32.0
+        },
+        "HAAA11": {
+            "preco": 56.96
         },
         "ATSA11": {
             "preco": 60.0
@@ -1436,10 +1439,6 @@
         },
         {
             "ticker": "HCTB11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "HAAA11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

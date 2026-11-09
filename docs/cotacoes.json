@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-09T02:50:38Z",
+    "gerado_em": "2026-11-09T10:40:44Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-11-05",
     "estatisticas": {
@@ -942,6 +942,9 @@
         "RZZR11": {
             "preco": 127.56
         },
+        "FIIP11": {
+            "preco": 134.96
+        },
         "RBDS11": {
             "preco": 1.5
         },
@@ -953,9 +956,6 @@
         },
         "RFOF11": {
             "preco": 64.49
-        },
-        "FIIP11": {
-            "preco": 134.96
         },
         "RBRD11": {
             "preco": 37.54

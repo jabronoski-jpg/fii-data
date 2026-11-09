@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-09T02:50:07Z",
+    "gerado_em": "2026-11-09T10:40:25Z",
     "origem": "B3",
     "quantidade": 530,
     "dados": [
@@ -2351,6 +2351,12 @@
             "razao_social": "RAIZZ VILA VELHA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
+            "codigo": "FIIP",
+            "ticker": "FIIP11",
+            "nome": "FII RB CAP I",
+            "razao_social": "RB ASSET RENDA I FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA"
+        },
+        {
             "codigo": "RBDS",
             "ticker": "RBDS11",
             "nome": "FII RBRESID2",
@@ -2373,12 +2379,6 @@
             "ticker": "RFOF11",
             "nome": "FII RB CFOF",
             "razao_social": "RB CAPITAL I FUNDO DE FUNDOS -RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "FIIP",
-            "ticker": "FIIP11",
-            "nome": "FII RB CAP I",
-            "razao_social": "RB CAPITAL RENDA I FUNDO DE INVESTIMENTO IMOBILIARIO - FII - RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "RBRD",

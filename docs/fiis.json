@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-09T10:40:25Z",
+    "gerado_em": "2026-11-09T21:04:50Z",
     "origem": "B3",
     "quantidade": 530,
     "dados": [
@@ -1997,12 +1997,6 @@
             "razao_social": "MIDWAY MALL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "MGRI",
-            "ticker": "MGRI11",
-            "nome": "FII MGRI",
-            "razao_social": "MOGNO PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
             "codigo": "MOSO",
             "ticker": "MOSO11",
             "nome": "FII MOSO",
@@ -2181,6 +2175,12 @@
             "ticker": "HGRE11",
             "nome": "FII HGRE PAX",
             "razao_social": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "MGRI",
+            "ticker": "MGRI11",
+            "nome": "FII MGRI",
+            "razao_social": "PATRIA HOSPITAL DA BAHIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "HGLG",

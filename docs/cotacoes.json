@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-12T01:48:36Z",
+    "gerado_em": "2026-11-12T09:00:28Z",
     "origem": "Yahoo Finance",
-    "data_pregao": "2026-11-11",
+    "data_pregao": "2026-11-10",
     "estatisticas": {
         "consultados": 530,
-        "com_cotacao": 423,
-        "sem_cotacao": 107
+        "com_cotacao": 418,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -151,7 +151,7 @@
             "preco": 535.0
         },
         "BTWR11": {
-            "preco": 92.49
+            "preco": 90.0
         },
         "BTSI11": {
             "preco": 109.15
@@ -244,7 +244,7 @@
             "preco": 12290.0
         },
         "DPRO11": {
-            "preco": 5.08
+            "preco": 5.26
         },
         "DEVA11": {
             "preco": 14.25
@@ -502,7 +502,7 @@
             "preco": 72.55
         },
         "BMLT11": {
-            "preco": 108.0
+            "preco": 108.46
         },
         "BSLT11": {
             "preco": 75.0
@@ -517,7 +517,7 @@
             "preco": 120.81
         },
         "GFDL11": {
-            "preco": 121.81
+            "preco": 121.13
         },
         "GLPF11": {
             "preco": 112.02
@@ -574,7 +574,7 @@
             "preco": 56.0
         },
         "ATSA11": {
-            "preco": 59.8
+            "preco": 60.0
         },
         "HGBL11": {
             "preco": 8.93
@@ -623,9 +623,6 @@
         },
         "HGIC11": {
             "preco": 44.68
-        },
-        "HIRE11": {
-            "preco": 100.36
         },
         "HILG11": {
             "preco": 186.81
@@ -705,9 +702,6 @@
         "JCCJ11": {
             "preco": 136.13
         },
-        "JPRD11": {
-            "preco": 99.99
-        },
         "JSAF11": {
             "preco": 6.43
         },
@@ -775,7 +769,7 @@
             "preco": 10.65
         },
         "LRDI11": {
-            "preco": 184.19
+            "preco": 175.42
         },
         "LASC11": {
             "preco": 107.0
@@ -921,9 +915,6 @@
         "PRSN11": {
             "preco": 4.81
         },
-        "PLTB11": {
-            "preco": 1.0
-        },
         "PORD11": {
             "preco": 8.08
         },
@@ -938,9 +929,6 @@
         },
         "FPAB11": {
             "preco": 205.9
-        },
-        "QTZD11": {
-            "preco": 10.42
         },
         "RZZV11": {
             "preco": 1050.0
@@ -1009,13 +997,13 @@
             "preco": 54.99
         },
         "RBFY11": {
-            "preco": 73.0
+            "preco": 72.0
         },
         "RBFM11": {
             "preco": 9.23
         },
         "RBOP11": {
-            "preco": 187.81
+            "preco": 187.8
         },
         "RBIC11": {
             "preco": 77.2
@@ -1109,9 +1097,6 @@
         },
         "SNCI11": {
             "preco": 80.3
-        },
-        "SPMO11": {
-            "preco": 120.0
         },
         "TELM11": {
             "preco": 9.18
@@ -1457,6 +1442,10 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
+            "ticker": "HIRE11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
             "ticker": "IVCI11",
             "motivo": "Sem dados no Yahoo Finance"
         },
@@ -1478,6 +1467,10 @@
         },
         {
             "ticker": "JCSC11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "JPRD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1577,11 +1570,19 @@
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
+            "ticker": "PLTB11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
             "ticker": "PCAS11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
             "ticker": "PBLV11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "QTZD11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {
@@ -1650,6 +1651,10 @@
         },
         {
             "ticker": "SNLG11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "SPMO11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-12T22:49:14Z",
+    "gerado_em": "2026-11-13T03:03:30Z",
     "origem": "B3",
-    "quantidade": 530,
+    "quantidade": 531,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1455,6 +1455,12 @@
             "ticker": "HREC11",
             "nome": "FII HEDGEREC",
             "razao_social": "HEDGE RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "HRCO",
+            "ticker": "HRCO11",
+            "nome": "FII HRCO",
+            "razao_social": "HEDGE RENDA CORPORATIVA FUNDO DE INVESTMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "SEED",

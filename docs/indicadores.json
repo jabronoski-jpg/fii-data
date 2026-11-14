@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-14T10:57:51Z",
+    "gerado_em": "2026-11-14T16:49:53Z",
     "origem": "Calculado",
     "quantidade": 419,
     "dados": {
@@ -2672,9 +2672,9 @@
             "preco": 76.9,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 1.2,
-            "dividendos_12m": 14.36,
-            "dy_12m": 18.67
+            "ultimo_dividendo": 0,
+            "dividendos_12m": 0,
+            "dy_12m": 0
         },
         "RCRB11": {
             "preco": 129.4,

@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-15T07:41:23Z",
+    "gerado_em": "2026-11-15T14:58:24Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-11-10",
     "estatisticas": {
         "consultados": 531,
-        "com_cotacao": 418,
-        "sem_cotacao": 113
+        "com_cotacao": 419,
+        "sem_cotacao": 112
     },
     "dados": {
         "ADSH11": {
@@ -148,7 +148,7 @@
             "preco": 83.28
         },
         "BTYU11": {
-            "preco": 530.0
+            "preco": 535.0
         },
         "BTWR11": {
             "preco": 90.0
@@ -236,6 +236,9 @@
         },
         "DAMA11": {
             "preco": 4.12
+        },
+        "DAYM11": {
+            "preco": 3.97
         },
         "ASRF11": {
             "preco": 12290.0
@@ -1367,10 +1370,6 @@
         },
         {
             "ticker": "CVPR11",
-            "motivo": "Sem dados no Yahoo Finance"
-        },
-        {
-            "ticker": "DAYM11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

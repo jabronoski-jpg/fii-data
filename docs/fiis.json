@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-16T22:51:55Z",
+    "gerado_em": "2026-11-17T04:54:15Z",
     "origem": "B3",
-    "quantidade": 531,
+    "quantidade": 529,
     "dados": [
         {
             "codigo": "ADSH",
@@ -389,12 +389,6 @@
             "razao_social": "BTG PACTUAL SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "BTYU",
-            "ticker": "BTYU11",
-            "nome": "FII BTYU",
-            "razao_social": "BTG PACTUAL YOU INC. DESENVOLVIMENTO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDAD"
-        },
-        {
             "codigo": "BTWR",
             "ticker": "BTWR11",
             "nome": "FII BTOWERS",
@@ -429,12 +423,6 @@
             "ticker": "CCME11",
             "nome": "FII CANUMA",
             "razao_social": "CANUMA CAPITAL MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "CCVA",
-            "ticker": "CCVA11",
-            "nome": "FII CCVA",
-            "razao_social": "CANUMA CAPITAL RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "KONG",

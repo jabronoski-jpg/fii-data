@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-17T22:07:26Z",
+    "gerado_em": "2026-11-18T03:41:52Z",
     "origem": "B3",
-    "quantidade": 529,
+    "quantidade": 530,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1751,6 +1751,12 @@
             "razao_social": "KINEA AQUISIÇÕES RESIDENCIAIS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
+            "codigo": "KBPR",
+            "ticker": "KBPR11",
+            "nome": "FII KBPR",
+            "razao_social": "KINEA BROOKFIELD PLATAFORMA RESIDENCIAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
             "codigo": "KCRE",
             "ticker": "KCRE11",
             "nome": "FII KINEA CR",
@@ -2171,9 +2177,9 @@
             "razao_social": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA"
         },
         {
-            "codigo": "MGRI",
-            "ticker": "MGRI11",
-            "nome": "FII MGRI",
+            "codigo": "PHBS",
+            "ticker": "PHBS11",
+            "nome": "FII PHBS PAX",
             "razao_social": "PATRIA HOSPITAL DA BAHIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-20T23:05:48Z",
+    "gerado_em": "2026-11-21T03:57:45Z",
     "origem": "Calculado",
     "quantidade": 417,
     "dados": {
@@ -2653,12 +2653,12 @@
             "dy_12m": 13.28
         },
         "RBIC11": {
-            "preco": 73.99,
+            "preco": 74.7,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 1.2,
-            "dividendos_12m": 14.36,
-            "dy_12m": 19.41
+            "ultimo_dividendo": 0,
+            "dividendos_12m": 0,
+            "dy_12m": 0
         },
         "RCRB11": {
             "preco": 126.75,

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-22T23:58:21Z",
+    "gerado_em": "2026-11-23T05:28:32Z",
     "origem": "Calculado",
     "quantidade": 417,
     "dados": {
@@ -1104,9 +1104,9 @@
             "preco": 67.92,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.485635,
-            "dividendos_12m": 59.532927,
-            "dy_12m": 87.65
+            "ultimo_dividendo": 0.164111,
+            "dividendos_12m": 58.719039,
+            "dy_12m": 86.45
         },
         "MCCI11": {
             "preco": 86.7,
@@ -2024,9 +2024,9 @@
             "preco": 194.25,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 9.912382,
-            "dividendos_12m": 116.979146,
-            "dy_12m": 60.22
+            "ultimo_dividendo": 5.590908,
+            "dividendos_12m": 122.570054,
+            "dy_12m": 63.1
         },
         "LASC11": {
             "preco": 107.0,
@@ -2653,12 +2653,12 @@
             "dy_12m": 13.28
         },
         "RBIC11": {
-            "preco": 73.99,
+            "preco": 74.7,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 1.2,
-            "dividendos_12m": 14.36,
-            "dy_12m": 19.41
+            "ultimo_dividendo": 0,
+            "dividendos_12m": 0,
+            "dy_12m": 0
         },
         "RCRB11": {
             "preco": 126.75,
@@ -3192,9 +3192,9 @@
             "preco": 46.1,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0.33976,
-            "dividendos_12m": 4.729776,
-            "dy_12m": 10.26
+            "ultimo_dividendo": 0.285245,
+            "dividendos_12m": 4.648906,
+            "dy_12m": 10.08
         },
         "VINO11": {
             "preco": 3.99,

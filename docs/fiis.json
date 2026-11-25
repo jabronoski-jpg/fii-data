@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-25T05:25:12Z",
+    "gerado_em": "2026-11-25T15:52:44Z",
     "origem": "B3",
     "quantidade": 531,
     "dados": [
@@ -1211,6 +1211,12 @@
             "razao_social": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VOTORANTIM SHOPPING"
         },
         {
+            "codigo": "BMLT",
+            "ticker": "BMLT11",
+            "nome": "FII BMLT",
+            "razao_social": "FUNDO DE INVESTIMENTOS  IMOBILIÁRIOS DE PERMUTA FINANCEIRA LOTE5 MEZANINO RESPONSABILIDADE  LIMITADA"
+        },
+        {
             "codigo": "FIIC",
             "ticker": "FIIC11",
             "nome": "FII FIIC",
@@ -1221,12 +1227,6 @@
             "ticker": "BSLT11",
             "nome": "FII BSLT",
             "razao_social": "FUNDO DE INVESTIMENTOS IMOBILIÁRIOS DE PERMUTA FINANCEIRA LOTE5 (SENIOR) RESPONSABILIDADE LIMITADA"
-        },
-        {
-            "codigo": "BMLT",
-            "ticker": "BMLT11",
-            "nome": "FII BMLT",
-            "razao_social": "FUNDO DE INVESTIMENTOS IMOBILIÁRIOS DE PERMUTA FINANCEIRA LOTE5 MEZANINO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "TCIN",

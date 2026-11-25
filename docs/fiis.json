@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-24T23:09:34Z",
+    "gerado_em": "2026-11-25T05:25:12Z",
     "origem": "B3",
-    "quantidade": 530,
+    "quantidade": 531,
     "dados": [
         {
             "codigo": "ADSH",
@@ -1299,6 +1299,12 @@
             "ticker": "GSFI11",
             "nome": "FII GENERAL",
             "razao_social": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "GCPP",
+            "ticker": "GCPP11",
+            "nome": "FII GCPP",
+            "razao_social": "GENESIS CAPITAL PREMIUM PROPERTIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "VXXV",

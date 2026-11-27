@@ -1,12 +1,12 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-27T00:54:21Z",
+    "gerado_em": "2026-11-27T09:19:31Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-11-26",
     "estatisticas": {
         "consultados": 532,
-        "com_cotacao": 417,
-        "sem_cotacao": 115
+        "com_cotacao": 416,
+        "sem_cotacao": 116
     },
     "dados": {
         "ADSH11": {
@@ -244,7 +244,7 @@
             "preco": 13.37
         },
         "DAMT11": {
-            "preco": 11.03
+            "preco": 11.02
         },
         "DOVL11": {
             "preco": 583.04
@@ -395,9 +395,6 @@
         },
         "LKDV11": {
             "preco": 1104.12
-        },
-        "EDFO11": {
-            "preco": 124.99
         },
         "NVHO11": {
             "preco": 12.0
@@ -1396,6 +1393,10 @@
         },
         {
             "ticker": "BRCQ11",
+            "motivo": "Sem dados no Yahoo Finance"
+        },
+        {
+            "ticker": "EDFO11",
             "motivo": "Sem dados no Yahoo Finance"
         },
         {

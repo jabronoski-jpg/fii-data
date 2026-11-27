@@ -1,8 +1,8 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-26T16:48:02Z",
+    "gerado_em": "2026-11-27T00:53:55Z",
     "origem": "B3",
-    "quantidade": 531,
+    "quantidade": 532,
     "dados": [
         {
             "codigo": "ADSH",
@@ -99,6 +99,12 @@
             "ticker": "ARXD11",
             "nome": "FII ARXD R",
             "razao_social": "ARX DOVER RECEBÍVEIS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA"
+        },
+        {
+            "codigo": "AINE",
+            "ticker": "AINE11",
+            "nome": "FII AINE",
+            "razao_social": "ATIVOS INDUSTRIAIS NORDESTE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA"
         },
         {
             "codigo": "AZPE",

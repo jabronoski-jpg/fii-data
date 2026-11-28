@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-28T09:44:39Z",
+    "gerado_em": "2026-11-28T17:52:07Z",
     "origem": "Calculado",
     "quantidade": 416,
     "dados": {
@@ -1865,8 +1865,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 0.308364,
-            "dividendos_12m": 1.067074,
-            "dy_12m": 17.21
+            "dividendos_12m": 0.588364,
+            "dy_12m": 9.49
         },
         "KIVO11": {
             "preco": 51.79,
@@ -2640,9 +2640,9 @@
             "preco": 75.0,
             "tipo": null,
             "segmento": null,
-            "ultimo_dividendo": 0,
-            "dividendos_12m": 0,
-            "dy_12m": 0
+            "ultimo_dividendo": 1.2,
+            "dividendos_12m": 14.36,
+            "dy_12m": 19.15
         },
         "RCRB11": {
             "preco": 133.27,
@@ -2865,8 +2865,8 @@
             "tipo": null,
             "segmento": null,
             "ultimo_dividendo": 3.023658,
-            "dividendos_12m": 12.503658,
-            "dy_12m": 16.9
+            "dividendos_12m": 6.623658,
+            "dy_12m": 8.95
         },
         "SNME11": {
             "preco": 8.69,

@@ -1,6 +1,6 @@
 {
     "versao": 1,
-    "gerado_em": "2026-11-28T01:56:53Z",
+    "gerado_em": "2026-11-28T09:43:20Z",
     "origem": "Yahoo Finance",
     "data_pregao": "2026-11-27",
     "estatisticas": {
@@ -175,7 +175,7 @@
             "preco": 11.03
         },
         "CPOF11": {
-            "preco": 119.99
+            "preco": 119.0
         },
         "CPTS11": {
             "preco": 6.93
@@ -409,7 +409,7 @@
             "preco": 144.0
         },
         "HUCG11": {
-            "preco": 84.3
+            "preco": 80.0
         },
         "HUSC11": {
             "preco": 99.98
@@ -532,7 +532,7 @@
             "preco": 48.26
         },
         "GSFI11": {
-            "preco": 11.4
+            "preco": 11.39
         },
         "VXXV11": {
             "preco": 825.0
@@ -616,7 +616,7 @@
             "preco": 90.0
         },
         "HGIC11": {
-            "preco": 37.55
+            "preco": 39.86
         },
         "HILG11": {
             "preco": 186.81
@@ -769,7 +769,7 @@
             "preco": 6.39
         },
         "MAGM11": {
-            "preco": 9.99
+            "preco": 9.98
         },
         "MANA11": {
             "preco": 8.64
@@ -826,7 +826,7 @@
             "preco": 2914.9
         },
         "OUJP11": {
-            "preco": 57.27
+            "preco": 57.26
         },
         "OXRL11": {
             "preco": 131.78
@@ -970,7 +970,7 @@
             "preco": 96.0
         },
         "RECD11": {
-            "preco": 5.55
+            "preco": 5.56
         },
         "RMBS11": {
             "preco": 7.0
@@ -979,7 +979,7 @@
             "preco": 6.1
         },
         "RSRV11": {
-            "preco": 107.44
+            "preco": 106.97
         },
         "RBHG11": {
             "preco": 52.18
@@ -1000,7 +1000,7 @@
             "preco": 75.0
         },
         "RCRB11": {
-            "preco": 135.95
+            "preco": 133.27
         },
         "RBRS11": {
             "preco": 47.8
@@ -1018,7 +1018,7 @@
             "preco": 75.53
         },
         "RZLC11": {
-            "preco": 1009.89
+            "preco": 1009.94
         },
         "RJDA11": {
             "preco": 130.0
@@ -1063,7 +1063,7 @@
             "preco": 104.28
         },
         "PMFO11": {
-            "preco": 78.42
+            "preco": 75.72
         },
         "SPGM11": {
             "preco": 13.36
@@ -1135,7 +1135,7 @@
             "preco": 11.53
         },
         "URHF11": {
-            "preco": 59.99
+            "preco": 62.98
         },
         "URPR11": {
             "preco": 16.13
@@ -1228,7 +1228,7 @@
             "preco": 6.95
         },
         "XPCI11": {
-            "preco": 76.3
+            "preco": 75.76
         },
         "XPLG11": {
             "preco": 91.55
